@@ -77,12 +77,13 @@ def extract_rsc_payload(html):
     return "".join(parts)
 
 
-def extract_named_array(payload, name):
-    """在 payload 中找到 "name":[...] 并解析出数组"""
-    m = re.search(r'"%s":\[' % re.escape(name), payload)
+def extract_named_array(payload, name, first_key=None):
+    """在 payload 中找到 "name":[...] 并解析出数组；first_key 用于区分重名的数组"""
+    lead = r'\{"%s"' % re.escape(first_key) if first_key else ""
+    m = re.search(r'"%s":(?=\[%s)' % (re.escape(name), lead), payload)
     if not m:
         raise DataError(f"页面数据中未找到 {name}")
-    arr, _ = json.JSONDecoder().raw_decode(payload, m.end() - 1)
+    arr, _ = json.JSONDecoder().raw_decode(payload, m.end())
     if not isinstance(arr, list) or not arr:
         raise DataError(f"{name} 为空")
     return arr
@@ -127,6 +128,32 @@ def parse_spend_per_employee(payload):
         },
     }
     check_series(result["series"], 0, 1_000_000, "人均 AI 支出")
+    return result
+
+
+def parse_spend_share(payload):
+    """AI 占企业支出（不含工资）的比例：总体及分行业，转换为百分比"""
+    overall = extract_named_array(payload, "overall", first_key="my_date")
+    sector = extract_named_array(payload, "sector", first_key="my_date")
+    pct = lambda v: round(v * 100, 4) if num(v) is not None else None
+
+    by_month = {r["my_date"][:7]: pct(r.get("ai_share_of_tpv")) for r in overall}
+    sectors = {}
+    for r in sector:
+        # 与页面一致：剔除未识别行业
+        if r.get("naics_sector") in (None, "Unknown"):
+            continue
+        sectors.setdefault(r["naics_sector"], {})[r["my_date"][:7]] = pct(r.get("ai_share_of_tpv"))
+
+    months = sorted(by_month)
+    result = {
+        "months": months,
+        "overall": [by_month[m] for m in months],
+        "sectors": {name: [vals.get(m) for m in months] for name, vals in sorted(sectors.items())},
+    }
+    if len(result["sectors"]) < 10:
+        raise DataError(f"AI 支出占比的行业数异常: {len(result['sectors'])}")
+    check_series({"overall": result["overall"], **result["sectors"]}, 0, 100, "AI 支出占比")
     return result
 
 
@@ -238,8 +265,10 @@ def main():
 
     adoption = parse_adoption(payload)
     pepm = parse_spend_per_employee(payload)
+    share = parse_spend_share(payload)
     print(f"  采用率 {adoption['months'][0]} ~ {adoption['months'][-1]}，"
-          f"人均支出 {pepm['months'][0]} ~ {pepm['months'][-1]}")
+          f"人均支出 {pepm['months'][0]} ~ {pepm['months'][-1]}，"
+          f"支出占比 {share['months'][0]} ~ {share['months'][-1]}（{len(share['sectors'])} 个行业）")
 
     print("获取 token 支出/用量...")
     tokens, token_detail = parse_token_volumes(json.loads(fetch(CHART_URL.format(name="tokenVolumes") + query)))
@@ -254,6 +283,7 @@ def main():
         "source": BASE_URL,
         "adoption": adoption,
         "spend_per_employee": pepm,
+        "spend_share": share,
         "tokens": tokens,
         "token_prices": prices,
     }
@@ -274,6 +304,10 @@ def main():
     write_csv(f"{DATA_DIR}/spend_per_employee_monthly.csv",
               ["month", "median_usd", "top10pct_median_usd", "top1pct_median_usd"],
               series_rows(pepm["months"], pepm["series"], ["median", "top10", "top1"]))
+    sector_names = list(share["sectors"])
+    write_csv(f"{DATA_DIR}/ai_share_of_spend_monthly.csv", ["month", "overall_pct"] + sector_names,
+              [[m, share["overall"][i]] + [share["sectors"][n][i] for n in sector_names]
+               for i, m in enumerate(share["months"])])
     write_csv(f"{DATA_DIR}/token_by_maker_weekly.csv",
               ["week_end", "model_maker", "token_spend_usd", "token_volume"], token_detail)
     write_csv(f"{DATA_DIR}/token_prices_daily.csv",

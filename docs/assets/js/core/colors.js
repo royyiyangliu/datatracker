@@ -44,3 +44,16 @@ export const ENTITY = {
   overall: INK, combined: INK,
   other: NEUTRAL,
 };
+
+/**
+ * 价格类型固定色（GPU 租赁价格页的所有图共用）
+ * 按需=基准线用青绿（加粗）；Spot 用橙；预留按期限由短到长用同一蓝色相由浅到深
+ * （按需不用深灰：与最深的预留 36 个月蓝线太接近，交叉时难以分辨）
+ */
+export const PRICE_COLORS = {
+  on_demand: CATEGORICAL[2],
+  spot: CATEGORICAL[1],
+  reserved_1: SEQ_BLUE.light,
+  reserved_12: SEQ_BLUE.mid,
+  reserved_36: SEQ_BLUE.dark,
+};

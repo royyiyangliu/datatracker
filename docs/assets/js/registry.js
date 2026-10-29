@@ -20,6 +20,7 @@ export const CATEGORIES = [
     id: 'ai', label: 'AI',
     pages: [
       { id: 'ramp', label: 'Ramp AI 指数', load: () => import('./modules/ramp.js') },
+      { id: 'gpu',  label: 'GPU 租赁价格', load: () => import('./modules/gpu-prices.js') },
     ],
   },
 ];

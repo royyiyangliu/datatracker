@@ -116,6 +116,9 @@ tbody tr:last-child td { border-bottom: none; }
 tbody td:first-child { text-align: left; position: sticky; left: 0; background: var(--surface-1); font-weight: 500; color: var(--ink-2); z-index: 1; }
 tbody tr:hover td, tbody tr:hover td:first-child { background: var(--surface-2); }
 .null-val { color: var(--ink-3); }
+.sub { color: var(--ink-2); font-size: 11px; margin-left: 4px; }
+.delta-up { color: var(--ink-1); }
+table.compact td, table.compact th { white-space: nowrap; }
 .rank-top3  { font-weight: 700; }
 .rank-top10 { font-weight: 600; }
 .rank-low   { color: var(--ink-2); }

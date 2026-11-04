@@ -1,0 +1,42 @@
+name: Indeed 招聘数据更新
+
+on:
+  schedule:
+    # 每周日 UTC 06:00（北京时间 14:00）；源仓库为日度数据、周度刷新（AI 占比为月度刷新），与其他工作流的时间错开，数据无变化时不会提交
+    - cron: '0 6 * * 0'
+  workflow_dispatch:  # 允许手动触发
+  push:
+    # 抓取脚本或本工作流有改动时自动跑一次，验证数据源在 GitHub 上可访问
+    paths:
+      - 'scripts/fetch_indeed.py'
+      - '.github/workflows/indeed-update.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 运行抓取脚本
+        run: python scripts/fetch_indeed.py
+
+      - name: 提交并推送
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/indeed docs/indeed.json
+          # 有变更才 commit，避免无意义提交
+          git diff --staged --quiet && exit 0
+          git commit -m "data: indeed jobs $(date -u +%Y-%m-%d)"
+          # 其他工作流可能刚推送过，先变基再推
+          git pull --rebase
+          git push

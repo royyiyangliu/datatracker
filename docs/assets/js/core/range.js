@@ -1,6 +1,6 @@
 /** 时间范围筛选（各页面共用） */
 
-const MONTHS = { '1M': 1, '3M': 3, '6M': 6, '1Y': 12 };
+const MONTHS = { '1M': 1, '3M': 3, '6M': 6, '1Y': 12, '3Y': 36 };
 
 /** 以 latestIso 为终点向前推，返回起始日期（ISO）；ALL 返回 null */
 export function rangeStart(latestIso, range) {

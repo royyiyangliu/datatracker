@@ -46,6 +46,22 @@ export const ENTITY = {
 };
 
 /**
+ * 国家固定色（AI 招聘页的所有图共用；顺序与 scripts/fetch_indeed.py 的 COUNTRIES 一致，新增国家追加到末尾）
+ */
+export const COUNTRY_COLORS = {
+  US: CATEGORICAL[0], GB: CATEGORICAL[1], CA: CATEGORICAL[2], AU: CATEGORICAL[3], DE: CATEGORICAL[4],
+  FR: CATEGORICAL[5], IE: CATEGORICAL[6], IT: CATEGORICAL[7], NL: CATEGORICAL[8],
+};
+
+/** 美国分行业 + 整体的固定色（整体用中性深灰） */
+export const SECTOR_COLORS = {
+  'Software Development': CATEGORICAL[0],
+  'Data & Analytics': CATEGORICAL[1],
+  'IT Systems & Solutions': CATEGORICAL[2],
+  overall: INK,
+};
+
+/**
  * 价格类型固定色（GPU 租赁价格页的所有图共用）
  * 按需=基准线用青绿（加粗）；Spot 用橙；预留按期限由短到长用同一蓝色相由浅到深
  * （按需不用深灰：与最深的预留 36 个月蓝线太接近，交叉时难以分辨）

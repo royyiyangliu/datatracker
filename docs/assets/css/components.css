@@ -119,6 +119,16 @@ tbody tr:hover td, tbody tr:hover td:first-child { background: var(--surface-2);
 .sub { color: var(--ink-2); font-size: 11px; margin-left: 4px; }
 .delta-up { color: var(--ink-1); }
 table.compact td, table.compact th { white-space: nowrap; }
+/* 可排序、可点选的排行表（AI 招聘页）：点击表头排序，点击行加入 / 移出图表 */
+th.sortable { cursor: pointer; user-select: none; }
+th.sortable:hover { color: var(--accent); }
+th.sorted::after { content: " ▼"; font-size: 10px; }
+th.sorted.asc::after { content: " ▲"; }
+tr.pickable { cursor: pointer; }
+tr.pickable.picked td, tr.pickable.picked td:first-child { background: var(--wash); }
+.dot.off { background: transparent; border: 1px solid var(--axis); box-sizing: border-box; }
+.pick-name { display: inline-flex; align-items: center; gap: 8px; }
+.pick-hint { font-size: 12px; color: var(--ink-2); margin: 8px 0 0; min-height: 18px; }
 .rank-top3  { font-weight: 700; }
 .rank-top10 { font-weight: 600; }
 .rank-low   { color: var(--ink-2); }

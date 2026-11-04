@@ -53,13 +53,11 @@ export const COUNTRY_COLORS = {
   FR: CATEGORICAL[5], IE: CATEGORICAL[6], IT: CATEGORICAL[7], NL: CATEGORICAL[8],
 };
 
-/** 美国分行业 + 整体的固定色（整体用中性深灰） */
-export const SECTOR_COLORS = {
-  'Software Development': CATEGORICAL[0],
-  'Data & Analytics': CATEGORICAL[1],
-  'IT Systems & Solutions': CATEGORICAL[2],
-  overall: INK,
-};
+/**
+ * 美国分行业多选对比：实体多达 47 个，无法每个固定一色。
+ * 选中时从前 8 色中取第一个空闲色，取消选中即释放，选中期间颜色不变；“美国整体”固定用 INK。
+ */
+export const PICK_COLORS = CATEGORICAL.slice(0, 8);
 
 /**
  * 价格类型固定色（GPU 租赁价格页的所有图共用）

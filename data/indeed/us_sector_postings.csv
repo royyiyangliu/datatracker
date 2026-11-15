@@ -351,6 +351,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Accounting,106.08,84.2
 2026-10-23,Accounting,107.11,85.68
 2026-10-30,Accounting,106.77,74.67
+2026-11-06,Accounting,107.45,73.81
 2020-02-07,Administrative Assistance,100.18,99.11
 2020-02-14,Administrative Assistance,100.71,100.31
 2020-02-21,Administrative Assistance,100.24,100.02
@@ -703,6 +704,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Administrative Assistance,93.42,84.11
 2026-10-23,Administrative Assistance,93.41,84.3
 2026-10-30,Administrative Assistance,92.93,81.22
+2026-11-06,Administrative Assistance,92.21,81.86
 2020-02-07,Architecture,100.34,105.98
 2020-02-14,Architecture,100.65,103.79
 2020-02-21,Architecture,101.77,109.57
@@ -1055,6 +1057,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Architecture,92.03,83.7
 2026-10-23,Architecture,92.02,81.52
 2026-10-30,Architecture,91.86,84.97
+2026-11-06,Architecture,91.74,77.25
 2020-02-07,Arts & Entertainment,99.21,96.91
 2020-02-14,Arts & Entertainment,99.3,95.13
 2020-02-21,Arts & Entertainment,99.42,91.27
@@ -1407,6 +1410,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Arts & Entertainment,87.52,90.38
 2026-10-23,Arts & Entertainment,87.37,92.27
 2026-10-30,Arts & Entertainment,86.57,82.26
+2026-11-06,Arts & Entertainment,87.05,84.95
 2020-02-07,Aviation,100.75,114.81
 2020-02-14,Aviation,100.16,113.97
 2020-02-21,Aviation,99.7,111.0
@@ -1759,6 +1763,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Aviation,118.03,122.35
 2026-10-23,Aviation,118.92,126.17
 2026-10-30,Aviation,117.96,116.06
+2026-11-06,Aviation,118.44,118.96
 2020-02-07,Banking & Finance,99.57,97.56
 2020-02-14,Banking & Finance,102.64,97.04
 2020-02-21,Banking & Finance,103.81,99.27
@@ -2111,6 +2116,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Banking & Finance,106.89,122.68
 2026-10-23,Banking & Finance,107.2,104.92
 2026-10-30,Banking & Finance,108.47,112.81
+2026-11-06,Banking & Finance,109.11,104.19
 2020-02-07,Childcare,99.21,98.73
 2020-02-14,Childcare,98.8,99.21
 2020-02-21,Childcare,98.92,100.53
@@ -2463,6 +2469,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Childcare,85.21,76.43
 2026-10-23,Childcare,85.26,74.09
 2026-10-30,Childcare,84.95,74.99
+2026-11-06,Childcare,86.62,72.73
 2020-02-07,Civil Engineering,100.01,94.93
 2020-02-14,Civil Engineering,100.13,94.91
 2020-02-21,Civil Engineering,100.03,96.55
@@ -2815,6 +2822,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Civil Engineering,162.21,121.36
 2026-10-23,Civil Engineering,161.39,119.03
 2026-10-30,Civil Engineering,160.58,115.36
+2026-11-06,Civil Engineering,162.03,124.28
 2020-02-07,Cleaning & Sanitation,99.58,101.67
 2020-02-14,Cleaning & Sanitation,98.79,97.74
 2020-02-21,Cleaning & Sanitation,98.59,99.54
@@ -3167,6 +3175,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Cleaning & Sanitation,102.04,96.82
 2026-10-23,Cleaning & Sanitation,102.09,94.32
 2026-10-30,Cleaning & Sanitation,102.12,90.72
+2026-11-06,Cleaning & Sanitation,103.55,94.58
 2020-02-07,Community & Social Service,100.53,101.83
 2020-02-14,Community & Social Service,100.26,99.96
 2020-02-21,Community & Social Service,100.21,99.66
@@ -3519,6 +3528,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Community & Social Service,105.38,101.58
 2026-10-23,Community & Social Service,105.94,99.77
 2026-10-30,Community & Social Service,105.93,96.84
+2026-11-06,Community & Social Service,106.49,101.93
 2020-02-07,Construction,99.19,91.29
 2020-02-14,Construction,98.16,92.68
 2020-02-21,Construction,98.73,98.19
@@ -3871,6 +3881,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Construction,128.39,98.94
 2026-10-23,Construction,129.21,97.99
 2026-10-30,Construction,128.91,98.13
+2026-11-06,Construction,129.69,97.0
 2020-02-07,Customer Service,100.54,100.62
 2020-02-14,Customer Service,100.46,102.37
 2020-02-21,Customer Service,98.31,97.31
@@ -4223,6 +4234,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Customer Service,86.58,83.23
 2026-10-23,Customer Service,86.77,79.12
 2026-10-30,Customer Service,86.95,85.74
+2026-11-06,Customer Service,87.46,81.47
 2020-02-07,Data & Analytics,99.61,97.65
 2020-02-14,Data & Analytics,100.13,103.33
 2020-02-21,Data & Analytics,99.68,98.04
@@ -4575,6 +4587,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Data & Analytics,63.62,77.95
 2026-10-23,Data & Analytics,62.39,68.16
 2026-10-30,Data & Analytics,61.75,65.57
+2026-11-06,Data & Analytics,62.09,70.62
 2020-02-07,Dental,101.07,101.09
 2020-02-14,Dental,99.75,93.51
 2020-02-21,Dental,99.48,95.16
@@ -4927,6 +4940,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Dental,117.98,122.66
 2026-10-23,Dental,118.33,122.89
 2026-10-30,Dental,118.1,115.74
+2026-11-06,Dental,120.14,122.96
 2020-02-07,Driving,97.8,80.23
 2020-02-14,Driving,98.85,113.55
 2020-02-21,Driving,99.7,100.21
@@ -5279,6 +5293,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Driving,83.53,79.69
 2026-10-23,Driving,83.03,86.06
 2026-10-30,Driving,84.5,108.3
+2026-11-06,Driving,84.99,80.98
 2020-02-07,Education & Instruction,100.72,99.67
 2020-02-14,Education & Instruction,100.43,99.4
 2020-02-21,Education & Instruction,100.27,97.59
@@ -5631,6 +5646,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Education & Instruction,107.79,94.73
 2026-10-23,Education & Instruction,107.98,92.53
 2026-10-30,Education & Instruction,107.45,92.72
+2026-11-06,Education & Instruction,107.54,106.93
 2020-02-07,Electrical Engineering,99.64,104.42
 2020-02-14,Electrical Engineering,99.88,101.76
 2020-02-21,Electrical Engineering,99.93,104.11
@@ -5983,6 +5999,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Electrical Engineering,152.17,145.28
 2026-10-23,Electrical Engineering,153.19,141.28
 2026-10-30,Electrical Engineering,155.22,157.77
+2026-11-06,Electrical Engineering,156.27,155.07
 2020-02-07,Food Preparation & Service,99.68,97.77
 2020-02-14,Food Preparation & Service,99.33,105.14
 2020-02-21,Food Preparation & Service,98.5,100.93
@@ -6335,6 +6352,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Food Preparation & Service,95.8,74.87
 2026-10-23,Food Preparation & Service,95.78,75.78
 2026-10-30,Food Preparation & Service,95.98,75.5
+2026-11-06,Food Preparation & Service,96.84,66.95
 2020-02-07,Hospitality & Tourism,100.36,110.19
 2020-02-14,Hospitality & Tourism,99.6,93.57
 2020-02-21,Hospitality & Tourism,99.13,93.82
@@ -6687,6 +6705,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Hospitality & Tourism,83.66,77.87
 2026-10-23,Hospitality & Tourism,84.98,95.52
 2026-10-30,Hospitality & Tourism,85.27,74.48
+2026-11-06,Hospitality & Tourism,84.61,69.88
 2020-02-07,Human Resources,99.87,102.41
 2020-02-14,Human Resources,100.42,107.42
 2020-02-21,Human Resources,100.23,102.81
@@ -7039,6 +7058,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Human Resources,98.5,97.52
 2026-10-23,Human Resources,99.32,101.71
 2026-10-30,Human Resources,98.55,100.86
+2026-11-06,Human Resources,99.31,102.99
 2020-02-07,"IT Infrastructure, Operations & Support",99.48,99.27
 2020-02-14,"IT Infrastructure, Operations & Support",99.13,99.42
 2020-02-21,"IT Infrastructure, Operations & Support",99.24,100.79
@@ -7391,6 +7411,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,"IT Infrastructure, Operations & Support",68.48,67.42
 2026-10-23,"IT Infrastructure, Operations & Support",69.74,73.5
 2026-10-30,"IT Infrastructure, Operations & Support",69.33,73.33
+2026-11-06,"IT Infrastructure, Operations & Support",69.4,72.39
 2020-02-07,IT Systems & Solutions,98.93,99.68
 2020-02-14,IT Systems & Solutions,98.48,98.72
 2020-02-21,IT Systems & Solutions,98.45,99.17
@@ -7743,6 +7764,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,IT Systems & Solutions,77.56,80.34
 2026-10-23,IT Systems & Solutions,77.57,80.8
 2026-10-30,IT Systems & Solutions,77.12,80.27
+2026-11-06,IT Systems & Solutions,77.37,85.32
 2020-02-07,Industrial Engineering,99.88,99.83
 2020-02-14,Industrial Engineering,100.34,100.69
 2020-02-21,Industrial Engineering,100.3,96.9
@@ -8095,6 +8117,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Industrial Engineering,122.33,119.32
 2026-10-23,Industrial Engineering,122.99,118.75
 2026-10-30,Industrial Engineering,124.96,127.68
+2026-11-06,Industrial Engineering,126.01,128.81
 2020-02-07,Installation & Maintenance,100.57,98.79
 2020-02-14,Installation & Maintenance,100.11,100.08
 2020-02-21,Installation & Maintenance,97.54,99.35
@@ -8447,6 +8470,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Installation & Maintenance,117.04,111.38
 2026-10-23,Installation & Maintenance,117.05,111.83
 2026-10-30,Installation & Maintenance,117.49,113.48
+2026-11-06,Installation & Maintenance,118.91,113.32
 2020-02-07,Insurance,101.18,99.23
 2020-02-14,Insurance,101.22,105.59
 2020-02-21,Insurance,101.72,102.26
@@ -8799,6 +8823,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Insurance,125.7,102.73
 2026-10-23,Insurance,126.49,111.81
 2026-10-30,Insurance,125.58,123.52
+2026-11-06,Insurance,124.11,111.17
 2020-02-07,Legal,99.71,104.38
 2020-02-14,Legal,99.56,106.12
 2020-02-21,Legal,99.48,106.95
@@ -9151,6 +9176,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Legal,123.88,134.81
 2026-10-23,Legal,125.85,138.14
 2026-10-30,Legal,124.34,125.24
+2026-11-06,Legal,125.33,124.57
 2020-02-07,Loading & Stocking,99.94,94.35
 2020-02-14,Loading & Stocking,99.61,94.01
 2020-02-21,Loading & Stocking,99.13,94.87
@@ -9503,6 +9529,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Loading & Stocking,107.84,94.61
 2026-10-23,Loading & Stocking,108.38,95.99
 2026-10-30,Loading & Stocking,107.82,94.57
+2026-11-06,Loading & Stocking,107.75,92.73
 2020-02-07,Logistic Support,99.3,87.7
 2020-02-14,Logistic Support,97.34,103.44
 2020-02-21,Logistic Support,96.5,102.55
@@ -9855,6 +9882,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Logistic Support,118.68,121.55
 2026-10-23,Logistic Support,119.3,122.01
 2026-10-30,Logistic Support,120.55,114.54
+2026-11-06,Logistic Support,123.09,99.04
 2020-02-07,Management,100.82,98.84
 2020-02-14,Management,101.71,123.79
 2020-02-21,Management,96.48,102.94
@@ -10207,6 +10235,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Management,104.16,101.33
 2026-10-23,Management,104.84,105.55
 2026-10-30,Management,105.04,108.74
+2026-11-06,Management,105.39,95.55
 2020-02-07,Marketing,100.13,103.01
 2020-02-14,Marketing,100.77,106.34
 2020-02-21,Marketing,100.93,105.22
@@ -10559,6 +10588,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Marketing,75.75,82.19
 2026-10-23,Marketing,76.8,78.38
 2026-10-30,Marketing,77.32,76.7
+2026-11-06,Marketing,78.01,76.65
 2020-02-07,Mechanical Engineering,100.7,106.55
 2020-02-14,Mechanical Engineering,101.05,97.91
 2020-02-21,Mechanical Engineering,101.17,101.81
@@ -10911,6 +10941,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Mechanical Engineering,168.66,141.56
 2026-10-23,Mechanical Engineering,171.82,145.52
 2026-10-30,Mechanical Engineering,171.68,139.01
+2026-11-06,Mechanical Engineering,172.08,146.26
 2020-02-07,Media & Communications,100.02,101.47
 2020-02-14,Media & Communications,102.19,105.65
 2020-02-21,Media & Communications,101.3,100.61
@@ -11263,6 +11294,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Media & Communications,68.13,58.56
 2026-10-23,Media & Communications,67.55,57.57
 2026-10-30,Media & Communications,67.19,59.93
+2026-11-06,Media & Communications,66.8,62.02
 2020-02-07,Medical Information,100.29,98.83
 2020-02-14,Medical Information,101.11,105.69
 2020-02-21,Medical Information,101.94,106.44
@@ -11615,6 +11647,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Medical Information,87.73,91.78
 2026-10-23,Medical Information,88.74,101.05
 2026-10-30,Medical Information,88.83,89.92
+2026-11-06,Medical Information,89.47,93.64
 2020-02-07,Medical Technician,100.41,101.23
 2020-02-14,Medical Technician,100.05,102.05
 2020-02-21,Medical Technician,100.27,100.87
@@ -11967,6 +12000,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Medical Technician,124.08,131.58
 2026-10-23,Medical Technician,124.13,127.67
 2026-10-30,Medical Technician,124.96,126.31
+2026-11-06,Medical Technician,125.53,127.27
 2020-02-07,Nursing,99.55,99.24
 2020-02-14,Nursing,99.56,100.81
 2020-02-21,Nursing,99.8,103.19
@@ -12319,6 +12353,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Nursing,111.36,111.87
 2026-10-23,Nursing,110.61,109.28
 2026-10-30,Nursing,111.13,107.93
+2026-11-06,Nursing,111.1,111.18
 2020-02-07,Personal Care & Home Health,100.84,105.19
 2020-02-14,Personal Care & Home Health,102.34,109.4
 2020-02-21,Personal Care & Home Health,103.11,100.62
@@ -12671,6 +12706,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Personal Care & Home Health,150.68,150.46
 2026-10-23,Personal Care & Home Health,154.68,146.74
 2026-10-30,Personal Care & Home Health,160.7,140.11
+2026-11-06,Personal Care & Home Health,163.62,154.84
 2020-02-07,Pharmacy,95.89,114.67
 2020-02-14,Pharmacy,100.07,100.06
 2020-02-21,Pharmacy,101.92,110.38
@@ -13023,6 +13059,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Pharmacy,124.22,200.8
 2026-10-23,Pharmacy,124.26,187.56
 2026-10-30,Pharmacy,123.39,185.95
+2026-11-06,Pharmacy,124.15,187.49
 2020-02-07,Physicians & Surgeons,100.36,104.39
 2020-02-14,Physicians & Surgeons,100.02,100.94
 2020-02-21,Physicians & Surgeons,100.29,97.68
@@ -13375,6 +13412,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Physicians & Surgeons,200.62,157.24
 2026-10-23,Physicians & Surgeons,195.78,140.6
 2026-10-30,Physicians & Surgeons,196.08,151.34
+2026-11-06,Physicians & Surgeons,196.03,159.58
 2020-02-07,Production & Manufacturing,100.0,102.3
 2020-02-14,Production & Manufacturing,100.08,103.26
 2020-02-21,Production & Manufacturing,100.42,106.32
@@ -13727,6 +13765,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Production & Manufacturing,124.26,125.54
 2026-10-23,Production & Manufacturing,125.15,123.68
 2026-10-30,Production & Manufacturing,126.24,125.03
+2026-11-06,Production & Manufacturing,128.16,128.11
 2020-02-07,Project Management,100.03,101.9
 2020-02-14,Project Management,99.78,103.21
 2020-02-21,Project Management,100.01,103.53
@@ -14079,6 +14118,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Project Management,117.15,108.52
 2026-10-23,Project Management,117.78,107.62
 2026-10-30,Project Management,117.8,108.43
+2026-11-06,Project Management,118.69,111.33
 2020-02-07,Retail,97.89,100.31
 2020-02-14,Retail,97.57,117.09
 2020-02-21,Retail,98.87,110.83
@@ -14431,6 +14471,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Retail,89.78,92.34
 2026-10-23,Retail,89.72,86.24
 2026-10-30,Retail,89.57,87.71
+2026-11-06,Retail,89.57,83.82
 2020-02-07,Sales,99.2,98.72
 2020-02-14,Sales,99.46,108.31
 2020-02-21,Sales,98.85,101.37
@@ -14783,6 +14824,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Sales,91.87,77.29
 2026-10-23,Sales,92.33,80.91
 2026-10-30,Sales,92.49,83.84
+2026-11-06,Sales,93.78,92.27
 2020-02-07,Scientific Research & Development,100.01,102.27
 2020-02-14,Scientific Research & Development,99.78,104.98
 2020-02-21,Scientific Research & Development,100.46,107.51
@@ -15135,6 +15177,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Scientific Research & Development,83.94,89.07
 2026-10-23,Scientific Research & Development,83.75,87.31
 2026-10-30,Scientific Research & Development,84.12,90.22
+2026-11-06,Scientific Research & Development,84.58,87.03
 2020-02-07,Security & Public Safety,100.04,97.86
 2020-02-14,Security & Public Safety,100.0,98.51
 2020-02-21,Security & Public Safety,100.55,101.28
@@ -15487,6 +15530,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Security & Public Safety,118.04,131.92
 2026-10-23,Security & Public Safety,117.49,134.36
 2026-10-30,Security & Public Safety,117.08,139.21
+2026-11-06,Security & Public Safety,118.67,141.15
 2020-02-07,Social Science,100.78,96.76
 2020-02-14,Social Science,99.63,88.39
 2020-02-21,Social Science,98.71,87.75
@@ -15839,6 +15883,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Social Science,123.92,100.49
 2026-10-23,Social Science,121.01,101.78
 2026-10-30,Social Science,120.84,102.55
+2026-11-06,Social Science,121.44,98.43
 2020-02-07,Software Development,99.44,102.52
 2020-02-14,Software Development,99.63,104.68
 2020-02-21,Software Development,99.74,105.94
@@ -16191,6 +16236,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Software Development,78.86,79.92
 2026-10-23,Software Development,80.79,89.91
 2026-10-30,Software Development,81.58,87.61
+2026-11-06,Software Development,81.4,89.7
 2020-02-07,Therapy,99.62,100.9
 2020-02-14,Therapy,99.01,99.9
 2020-02-21,Therapy,97.78,98.9
@@ -16543,3 +16589,4 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-16,Therapy,189.52,185.11
 2026-10-23,Therapy,190.79,178.35
 2026-10-30,Therapy,191.1,176.5
+2026-11-06,Therapy,193.9,183.39

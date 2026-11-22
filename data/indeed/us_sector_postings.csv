@@ -84,7 +84,7 @@ date,display_name,total_postings_index,new_postings_index
 2021-09-03,Accounting,161.43,137.44
 2021-09-10,Accounting,167.23,174.23
 2021-09-17,Accounting,166.73,152.29
-2021-09-24,Accounting,169.16,191.33
+2021-09-24,Accounting,169.16,191.32
 2021-10-01,Accounting,173.53,173.53
 2021-10-08,Accounting,177.38,149.85
 2021-10-15,Accounting,178.94,180.84
@@ -352,6 +352,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Accounting,107.11,85.68
 2026-10-30,Accounting,106.77,74.67
 2026-11-06,Accounting,107.45,73.81
+2026-11-13,Accounting,106.6,70.24
 2020-02-07,Administrative Assistance,100.18,99.11
 2020-02-14,Administrative Assistance,100.71,100.31
 2020-02-21,Administrative Assistance,100.24,100.02
@@ -484,7 +485,7 @@ date,display_name,total_postings_index,new_postings_index
 2022-07-29,Administrative Assistance,171.59,157.16
 2022-08-05,Administrative Assistance,171.6,160.83
 2022-08-12,Administrative Assistance,171.52,161.62
-2022-08-19,Administrative Assistance,170.5,161.55
+2022-08-19,Administrative Assistance,170.49,161.55
 2022-08-26,Administrative Assistance,169.93,163.13
 2022-09-02,Administrative Assistance,168.79,159.01
 2022-09-09,Administrative Assistance,168.53,163.36
@@ -598,7 +599,7 @@ date,display_name,total_postings_index,new_postings_index
 2024-10-04,Administrative Assistance,111.28,103.84
 2024-10-11,Administrative Assistance,109.65,99.96
 2024-10-18,Administrative Assistance,107.87,99.86
-2024-10-25,Administrative Assistance,106.33,99.31
+2024-10-25,Administrative Assistance,106.32,99.31
 2024-11-01,Administrative Assistance,107.15,103.06
 2024-11-08,Administrative Assistance,106.96,102.28
 2024-11-15,Administrative Assistance,108.91,102.29
@@ -656,7 +657,7 @@ date,display_name,total_postings_index,new_postings_index
 2025-11-14,Administrative Assistance,94.82,95.71
 2025-11-21,Administrative Assistance,94.82,85.52
 2025-11-28,Administrative Assistance,95.71,97.22
-2025-12-05,Administrative Assistance,95.37,81.31
+2025-12-05,Administrative Assistance,95.36,81.31
 2025-12-12,Administrative Assistance,95.09,89.15
 2025-12-19,Administrative Assistance,95.81,88.28
 2025-12-26,Administrative Assistance,96.67,91.58
@@ -686,7 +687,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-06-12,Administrative Assistance,93.27,87.96
 2026-06-19,Administrative Assistance,94.23,85.87
 2026-06-26,Administrative Assistance,93.95,83.68
-2026-07-03,Administrative Assistance,93.69,88.67
+2026-07-03,Administrative Assistance,93.69,88.66
 2026-07-10,Administrative Assistance,94.49,97.11
 2026-07-17,Administrative Assistance,95.03,89.99
 2026-07-24,Administrative Assistance,95.63,84.02
@@ -705,6 +706,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Administrative Assistance,93.41,84.3
 2026-10-30,Administrative Assistance,92.93,81.22
 2026-11-06,Administrative Assistance,92.21,81.86
+2026-11-13,Administrative Assistance,93.31,82.52
 2020-02-07,Architecture,100.34,105.98
 2020-02-14,Architecture,100.65,103.79
 2020-02-21,Architecture,101.77,109.57
@@ -1058,6 +1060,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Architecture,92.02,81.52
 2026-10-30,Architecture,91.86,84.97
 2026-11-06,Architecture,91.74,77.25
+2026-11-13,Architecture,92.81,80.22
 2020-02-07,Arts & Entertainment,99.21,96.91
 2020-02-14,Arts & Entertainment,99.3,95.13
 2020-02-21,Arts & Entertainment,99.42,91.27
@@ -1093,30 +1096,30 @@ date,display_name,total_postings_index,new_postings_index
 2020-09-18,Arts & Entertainment,64.39,75.9
 2020-09-25,Arts & Entertainment,64.43,99.54
 2020-10-02,Arts & Entertainment,65.53,90.33
-2020-10-09,Arts & Entertainment,67.4,103.8
-2020-10-16,Arts & Entertainment,68.31,88.04
-2020-10-23,Arts & Entertainment,68.0,85.39
-2020-10-30,Arts & Entertainment,68.08,86.74
+2020-10-09,Arts & Entertainment,67.39,103.79
+2020-10-16,Arts & Entertainment,68.3,88.01
+2020-10-23,Arts & Entertainment,67.99,85.39
+2020-10-30,Arts & Entertainment,68.07,86.74
 2020-11-06,Arts & Entertainment,69.6,85.48
 2020-11-13,Arts & Entertainment,70.02,77.95
-2020-11-20,Arts & Entertainment,70.63,100.81
+2020-11-20,Arts & Entertainment,70.63,100.8
 2020-11-27,Arts & Entertainment,71.87,98.51
 2020-12-04,Arts & Entertainment,71.66,89.52
-2020-12-11,Arts & Entertainment,71.67,76.38
+2020-12-11,Arts & Entertainment,71.66,76.38
 2020-12-18,Arts & Entertainment,74.14,86.7
 2020-12-25,Arts & Entertainment,76.24,105.51
 2021-01-01,Arts & Entertainment,75.99,126.7
-2021-01-08,Arts & Entertainment,76.96,88.74
-2021-01-15,Arts & Entertainment,78.31,86.24
-2021-01-22,Arts & Entertainment,76.02,98.97
-2021-01-29,Arts & Entertainment,77.69,95.8
+2021-01-08,Arts & Entertainment,76.95,88.71
+2021-01-15,Arts & Entertainment,78.3,86.22
+2021-01-22,Arts & Entertainment,76.01,98.97
+2021-01-29,Arts & Entertainment,77.68,95.8
 2021-02-05,Arts & Entertainment,77.67,94.05
 2021-02-12,Arts & Entertainment,78.82,88.86
 2021-02-19,Arts & Entertainment,83.22,84.31
 2021-02-26,Arts & Entertainment,84.49,98.84
 2021-03-05,Arts & Entertainment,86.15,106.95
-2021-03-12,Arts & Entertainment,87.8,107.24
-2021-03-19,Arts & Entertainment,91.56,114.21
+2021-03-12,Arts & Entertainment,87.8,107.22
+2021-03-19,Arts & Entertainment,91.56,114.19
 2021-03-26,Arts & Entertainment,94.41,113.66
 2021-04-02,Arts & Entertainment,95.44,117.4
 2021-04-09,Arts & Entertainment,97.86,122.18
@@ -1131,8 +1134,8 @@ date,display_name,total_postings_index,new_postings_index
 2021-06-11,Arts & Entertainment,116.6,147.86
 2021-06-18,Arts & Entertainment,114.23,142.14
 2021-06-25,Arts & Entertainment,114.56,149.65
-2021-07-02,Arts & Entertainment,116.65,148.79
-2021-07-09,Arts & Entertainment,118.66,153.02
+2021-07-02,Arts & Entertainment,116.65,148.75
+2021-07-09,Arts & Entertainment,118.65,152.99
 2021-07-16,Arts & Entertainment,119.68,159.25
 2021-07-23,Arts & Entertainment,120.43,148.42
 2021-07-30,Arts & Entertainment,119.87,143.83
@@ -1151,47 +1154,47 @@ date,display_name,total_postings_index,new_postings_index
 2021-10-29,Arts & Entertainment,140.91,158.67
 2021-11-05,Arts & Entertainment,135.36,155.96
 2021-11-12,Arts & Entertainment,138.25,163.54
-2021-11-19,Arts & Entertainment,139.6,152.44
-2021-11-26,Arts & Entertainment,139.18,151.04
+2021-11-19,Arts & Entertainment,139.59,152.44
+2021-11-26,Arts & Entertainment,139.17,151.04
 2021-12-03,Arts & Entertainment,139.06,135.84
-2021-12-10,Arts & Entertainment,142.88,168.65
+2021-12-10,Arts & Entertainment,142.87,168.65
 2021-12-17,Arts & Entertainment,147.12,175.72
-2021-12-24,Arts & Entertainment,147.79,162.95
-2021-12-31,Arts & Entertainment,145.31,135.63
-2022-01-07,Arts & Entertainment,138.56,125.72
-2022-01-14,Arts & Entertainment,138.8,151.08
+2021-12-24,Arts & Entertainment,147.79,162.92
+2021-12-31,Arts & Entertainment,145.3,135.61
+2022-01-07,Arts & Entertainment,138.55,125.72
+2022-01-14,Arts & Entertainment,138.79,151.08
 2022-01-21,Arts & Entertainment,139.96,145.65
 2022-01-28,Arts & Entertainment,141.39,156.4
 2022-02-04,Arts & Entertainment,144.29,169.81
 2022-02-11,Arts & Entertainment,146.07,170.63
 2022-02-18,Arts & Entertainment,147.68,168.31
 2022-02-25,Arts & Entertainment,148.34,155.73
-2022-03-04,Arts & Entertainment,149.0,167.21
-2022-03-11,Arts & Entertainment,149.23,165.23
-2022-03-18,Arts & Entertainment,150.04,164.91
-2022-03-25,Arts & Entertainment,151.24,163.37
-2022-04-01,Arts & Entertainment,152.63,172.13
-2022-04-08,Arts & Entertainment,150.79,172.19
-2022-04-15,Arts & Entertainment,147.66,160.65
-2022-04-22,Arts & Entertainment,149.52,160.61
-2022-04-29,Arts & Entertainment,150.46,173.52
-2022-05-06,Arts & Entertainment,153.3,176.21
-2022-05-13,Arts & Entertainment,154.03,173.76
-2022-05-20,Arts & Entertainment,154.59,175.47
-2022-05-27,Arts & Entertainment,153.81,175.49
-2022-06-03,Arts & Entertainment,151.48,157.38
-2022-06-10,Arts & Entertainment,150.47,158.82
-2022-06-17,Arts & Entertainment,147.44,152.97
-2022-06-24,Arts & Entertainment,146.54,154.19
-2022-07-01,Arts & Entertainment,145.8,152.83
-2022-07-08,Arts & Entertainment,143.73,150.55
-2022-07-15,Arts & Entertainment,141.38,158.44
-2022-07-22,Arts & Entertainment,140.61,156.44
-2022-07-29,Arts & Entertainment,137.52,145.18
+2022-03-04,Arts & Entertainment,148.99,167.19
+2022-03-11,Arts & Entertainment,149.22,165.19
+2022-03-18,Arts & Entertainment,150.03,164.91
+2022-03-25,Arts & Entertainment,151.23,163.37
+2022-04-01,Arts & Entertainment,152.62,172.13
+2022-04-08,Arts & Entertainment,150.78,172.19
+2022-04-15,Arts & Entertainment,147.64,160.65
+2022-04-22,Arts & Entertainment,149.51,160.61
+2022-04-29,Arts & Entertainment,150.45,173.52
+2022-05-06,Arts & Entertainment,153.29,176.21
+2022-05-13,Arts & Entertainment,154.01,173.76
+2022-05-20,Arts & Entertainment,154.58,175.47
+2022-05-27,Arts & Entertainment,153.8,175.49
+2022-06-03,Arts & Entertainment,151.47,157.38
+2022-06-10,Arts & Entertainment,150.46,158.82
+2022-06-17,Arts & Entertainment,147.43,152.96
+2022-06-24,Arts & Entertainment,146.53,154.16
+2022-07-01,Arts & Entertainment,145.79,152.83
+2022-07-08,Arts & Entertainment,143.72,150.55
+2022-07-15,Arts & Entertainment,141.37,158.44
+2022-07-22,Arts & Entertainment,140.6,156.44
+2022-07-29,Arts & Entertainment,137.51,145.18
 2022-08-05,Arts & Entertainment,140.81,156.5
-2022-08-12,Arts & Entertainment,135.9,150.38
-2022-08-19,Arts & Entertainment,135.36,145.77
-2022-08-26,Arts & Entertainment,134.42,155.65
+2022-08-12,Arts & Entertainment,135.89,150.38
+2022-08-19,Arts & Entertainment,135.35,145.77
+2022-08-26,Arts & Entertainment,134.41,155.65
 2022-09-02,Arts & Entertainment,133.78,155.69
 2022-09-09,Arts & Entertainment,133.55,144.73
 2022-09-16,Arts & Entertainment,133.33,150.84
@@ -1200,11 +1203,11 @@ date,display_name,total_postings_index,new_postings_index
 2022-10-07,Arts & Entertainment,132.16,153.24
 2022-10-14,Arts & Entertainment,130.07,140.05
 2022-10-21,Arts & Entertainment,130.0,143.56
-2022-10-28,Arts & Entertainment,130.02,140.38
-2022-11-04,Arts & Entertainment,128.19,137.21
-2022-11-11,Arts & Entertainment,127.9,132.39
+2022-10-28,Arts & Entertainment,130.01,140.38
+2022-11-04,Arts & Entertainment,128.18,137.21
+2022-11-11,Arts & Entertainment,127.89,132.39
 2022-11-18,Arts & Entertainment,126.29,122.07
-2022-11-25,Arts & Entertainment,124.63,121.66
+2022-11-25,Arts & Entertainment,124.62,121.66
 2022-12-02,Arts & Entertainment,123.52,118.66
 2022-12-09,Arts & Entertainment,121.73,118.31
 2022-12-16,Arts & Entertainment,121.14,124.91
@@ -1215,18 +1218,18 @@ date,display_name,total_postings_index,new_postings_index
 2023-01-20,Arts & Entertainment,114.26,112.62
 2023-01-27,Arts & Entertainment,113.32,115.7
 2023-02-03,Arts & Entertainment,111.64,110.16
-2023-02-10,Arts & Entertainment,109.08,99.85
-2023-02-17,Arts & Entertainment,108.05,101.78
-2023-02-24,Arts & Entertainment,106.53,108.54
+2023-02-10,Arts & Entertainment,109.08,99.83
+2023-02-17,Arts & Entertainment,108.04,101.76
+2023-02-24,Arts & Entertainment,106.52,108.54
 2023-03-03,Arts & Entertainment,103.78,101.34
-2023-03-10,Arts & Entertainment,103.45,111.43
+2023-03-10,Arts & Entertainment,103.44,111.43
 2023-03-17,Arts & Entertainment,106.4,117.22
-2023-03-24,Arts & Entertainment,107.61,120.38
+2023-03-24,Arts & Entertainment,107.6,120.38
 2023-03-31,Arts & Entertainment,105.39,110.27
-2023-04-07,Arts & Entertainment,103.73,116.62
-2023-04-14,Arts & Entertainment,103.53,112.42
+2023-04-07,Arts & Entertainment,103.72,116.62
+2023-04-14,Arts & Entertainment,103.52,112.42
 2023-04-21,Arts & Entertainment,101.72,109.78
-2023-04-28,Arts & Entertainment,103.66,115.22
+2023-04-28,Arts & Entertainment,103.65,115.22
 2023-05-05,Arts & Entertainment,101.94,106.22
 2023-05-12,Arts & Entertainment,100.87,101.12
 2023-05-19,Arts & Entertainment,101.85,121.98
@@ -1308,32 +1311,32 @@ date,display_name,total_postings_index,new_postings_index
 2024-11-01,Arts & Entertainment,82.83,84.01
 2024-11-08,Arts & Entertainment,83.2,84.73
 2024-11-15,Arts & Entertainment,82.56,88.95
-2024-11-22,Arts & Entertainment,90.74,92.15
-2024-11-29,Arts & Entertainment,90.94,102.99
+2024-11-22,Arts & Entertainment,90.74,92.13
+2024-11-29,Arts & Entertainment,90.93,102.97
 2024-12-06,Arts & Entertainment,91.84,86.59
 2024-12-13,Arts & Entertainment,91.36,86.45
-2024-12-20,Arts & Entertainment,86.79,88.05
-2024-12-27,Arts & Entertainment,87.55,88.83
+2024-12-20,Arts & Entertainment,86.78,88.05
+2024-12-27,Arts & Entertainment,87.54,88.83
 2025-01-03,Arts & Entertainment,86.84,90.39
 2025-01-10,Arts & Entertainment,85.77,89.51
 2025-01-17,Arts & Entertainment,84.61,92.09
 2025-01-24,Arts & Entertainment,85.93,103.25
-2025-01-31,Arts & Entertainment,83.68,85.39
+2025-01-31,Arts & Entertainment,83.67,85.39
 2025-02-07,Arts & Entertainment,83.36,93.94
 2025-02-14,Arts & Entertainment,83.54,93.42
 2025-02-21,Arts & Entertainment,83.79,85.9
-2025-02-28,Arts & Entertainment,82.86,83.94
-2025-03-07,Arts & Entertainment,81.71,97.0
-2025-03-14,Arts & Entertainment,81.74,94.29
-2025-03-21,Arts & Entertainment,81.52,84.14
-2025-03-28,Arts & Entertainment,81.44,82.57
-2025-04-04,Arts & Entertainment,80.55,82.72
-2025-04-11,Arts & Entertainment,80.35,81.09
+2025-02-28,Arts & Entertainment,82.86,83.93
+2025-03-07,Arts & Entertainment,81.7,96.97
+2025-03-14,Arts & Entertainment,81.73,94.29
+2025-03-21,Arts & Entertainment,81.51,84.14
+2025-03-28,Arts & Entertainment,81.43,82.57
+2025-04-04,Arts & Entertainment,80.54,82.72
+2025-04-11,Arts & Entertainment,80.34,81.09
 2025-04-18,Arts & Entertainment,79.38,79.96
-2025-04-25,Arts & Entertainment,78.04,78.96
-2025-05-02,Arts & Entertainment,76.67,73.95
-2025-05-09,Arts & Entertainment,76.85,89.56
-2025-05-16,Arts & Entertainment,78.32,84.67
+2025-04-25,Arts & Entertainment,78.03,78.96
+2025-05-02,Arts & Entertainment,76.66,73.95
+2025-05-09,Arts & Entertainment,76.84,89.56
+2025-05-16,Arts & Entertainment,78.31,84.67
 2025-05-23,Arts & Entertainment,77.39,79.56
 2025-05-30,Arts & Entertainment,76.03,76.69
 2025-06-06,Arts & Entertainment,76.88,95.25
@@ -1354,15 +1357,15 @@ date,display_name,total_postings_index,new_postings_index
 2025-09-19,Arts & Entertainment,77.11,83.15
 2025-09-26,Arts & Entertainment,77.51,80.46
 2025-10-03,Arts & Entertainment,76.97,82.74
-2025-10-10,Arts & Entertainment,77.87,88.63
+2025-10-10,Arts & Entertainment,77.87,88.61
 2025-10-17,Arts & Entertainment,79.32,88.31
 2025-10-24,Arts & Entertainment,78.05,94.09
 2025-10-31,Arts & Entertainment,79.16,96.21
-2025-11-07,Arts & Entertainment,79.08,83.68
+2025-11-07,Arts & Entertainment,79.07,83.68
 2025-11-14,Arts & Entertainment,79.24,89.63
 2025-11-21,Arts & Entertainment,79.53,88.28
-2025-11-28,Arts & Entertainment,80.44,98.27
-2025-12-05,Arts & Entertainment,80.29,81.64
+2025-11-28,Arts & Entertainment,80.43,98.27
+2025-12-05,Arts & Entertainment,80.28,81.64
 2025-12-12,Arts & Entertainment,80.51,81.04
 2025-12-19,Arts & Entertainment,80.81,83.8
 2025-12-26,Arts & Entertainment,80.39,82.97
@@ -1370,14 +1373,14 @@ date,display_name,total_postings_index,new_postings_index
 2026-01-09,Arts & Entertainment,81.2,78.04
 2026-01-16,Arts & Entertainment,82.51,81.97
 2026-01-23,Arts & Entertainment,83.76,85.31
-2026-01-30,Arts & Entertainment,84.38,90.48
+2026-01-30,Arts & Entertainment,84.37,90.43
 2026-02-06,Arts & Entertainment,83.78,99.1
 2026-02-13,Arts & Entertainment,85.5,94.78
 2026-02-20,Arts & Entertainment,87.14,89.44
 2026-02-27,Arts & Entertainment,86.58,83.59
 2026-03-06,Arts & Entertainment,87.36,83.92
-2026-03-13,Arts & Entertainment,86.12,87.24
-2026-03-20,Arts & Entertainment,86.48,88.42
+2026-03-13,Arts & Entertainment,86.12,87.22
+2026-03-20,Arts & Entertainment,86.47,88.4
 2026-03-27,Arts & Entertainment,86.33,84.98
 2026-04-03,Arts & Entertainment,86.11,86.1
 2026-04-10,Arts & Entertainment,84.94,83.28
@@ -1411,6 +1414,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Arts & Entertainment,87.37,92.27
 2026-10-30,Arts & Entertainment,86.57,82.26
 2026-11-06,Arts & Entertainment,87.05,84.95
+2026-11-13,Arts & Entertainment,88.02,79.23
 2020-02-07,Aviation,100.75,114.81
 2020-02-14,Aviation,100.16,113.97
 2020-02-21,Aviation,99.7,111.0
@@ -1764,6 +1768,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Aviation,118.92,126.17
 2026-10-30,Aviation,117.96,116.06
 2026-11-06,Aviation,118.44,118.96
+2026-11-13,Aviation,120.68,127.91
 2020-02-07,Banking & Finance,99.57,97.56
 2020-02-14,Banking & Finance,102.64,97.04
 2020-02-21,Banking & Finance,103.81,99.27
@@ -2117,6 +2122,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Banking & Finance,107.2,104.92
 2026-10-30,Banking & Finance,108.47,112.81
 2026-11-06,Banking & Finance,109.11,104.19
+2026-11-13,Banking & Finance,107.31,109.89
 2020-02-07,Childcare,99.21,98.73
 2020-02-14,Childcare,98.8,99.21
 2020-02-21,Childcare,98.92,100.53
@@ -2470,6 +2476,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Childcare,85.26,74.09
 2026-10-30,Childcare,84.95,74.99
 2026-11-06,Childcare,86.62,72.73
+2026-11-13,Childcare,91.06,77.84
 2020-02-07,Civil Engineering,100.01,94.93
 2020-02-14,Civil Engineering,100.13,94.91
 2020-02-21,Civil Engineering,100.03,96.55
@@ -2479,29 +2486,29 @@ date,display_name,total_postings_index,new_postings_index
 2020-03-20,Civil Engineering,98.15,77.49
 2020-03-27,Civil Engineering,90.75,48.65
 2020-04-03,Civil Engineering,80.58,44.49
-2020-04-10,Civil Engineering,74.55,39.0
+2020-04-10,Civil Engineering,74.56,39.0
 2020-04-17,Civil Engineering,72.07,46.82
 2020-04-24,Civil Engineering,70.33,47.68
-2020-05-01,Civil Engineering,68.26,48.18
-2020-05-08,Civil Engineering,68.04,45.17
-2020-05-15,Civil Engineering,67.22,54.47
-2020-05-22,Civil Engineering,66.69,51.71
+2020-05-01,Civil Engineering,68.27,48.18
+2020-05-08,Civil Engineering,68.05,45.17
+2020-05-15,Civil Engineering,67.23,54.47
+2020-05-22,Civil Engineering,66.7,51.71
 2020-05-29,Civil Engineering,66.63,54.02
-2020-06-05,Civil Engineering,67.5,70.38
-2020-06-12,Civil Engineering,67.86,62.28
-2020-06-19,Civil Engineering,68.49,66.26
-2020-06-26,Civil Engineering,70.32,71.49
+2020-06-05,Civil Engineering,67.51,70.38
+2020-06-12,Civil Engineering,67.87,62.28
+2020-06-19,Civil Engineering,68.5,66.26
+2020-06-26,Civil Engineering,70.33,71.49
 2020-07-03,Civil Engineering,71.88,72.93
 2020-07-10,Civil Engineering,73.66,83.01
 2020-07-17,Civil Engineering,74.97,74.4
-2020-07-24,Civil Engineering,75.46,71.71
+2020-07-24,Civil Engineering,75.47,71.71
 2020-07-31,Civil Engineering,75.83,70.05
-2020-08-07,Civil Engineering,74.89,68.99
-2020-08-14,Civil Engineering,72.39,69.48
-2020-08-21,Civil Engineering,72.6,75.45
-2020-08-28,Civil Engineering,73.01,70.31
-2020-09-04,Civil Engineering,71.96,67.76
-2020-09-11,Civil Engineering,70.85,70.23
+2020-08-07,Civil Engineering,74.9,68.99
+2020-08-14,Civil Engineering,72.4,69.48
+2020-08-21,Civil Engineering,72.61,75.45
+2020-08-28,Civil Engineering,73.02,70.31
+2020-09-04,Civil Engineering,71.97,67.76
+2020-09-11,Civil Engineering,70.86,70.23
 2020-09-18,Civil Engineering,70.31,70.74
 2020-09-25,Civil Engineering,70.23,71.3
 2020-10-02,Civil Engineering,70.16,66.9
@@ -2584,19 +2591,19 @@ date,display_name,total_postings_index,new_postings_index
 2022-03-25,Civil Engineering,171.43,185.3
 2022-04-01,Civil Engineering,174.76,182.11
 2022-04-08,Civil Engineering,176.86,176.61
-2022-04-15,Civil Engineering,176.19,171.65
-2022-04-22,Civil Engineering,179.95,168.33
+2022-04-15,Civil Engineering,176.19,171.69
+2022-04-22,Civil Engineering,179.95,168.36
 2022-04-29,Civil Engineering,180.85,177.4
 2022-05-06,Civil Engineering,182.62,171.17
-2022-05-13,Civil Engineering,184.06,185.69
-2022-05-20,Civil Engineering,181.8,181.6
-2022-05-27,Civil Engineering,180.45,164.07
-2022-06-03,Civil Engineering,181.61,175.83
+2022-05-13,Civil Engineering,184.07,185.69
+2022-05-20,Civil Engineering,181.81,181.6
+2022-05-27,Civil Engineering,180.46,164.07
+2022-06-03,Civil Engineering,181.62,175.83
 2022-06-10,Civil Engineering,183.04,181.05
-2022-06-17,Civil Engineering,183.75,181.29
-2022-06-24,Civil Engineering,182.68,175.38
-2022-07-01,Civil Engineering,184.59,175.3
-2022-07-08,Civil Engineering,184.23,166.07
+2022-06-17,Civil Engineering,183.76,181.29
+2022-06-24,Civil Engineering,182.69,175.38
+2022-07-01,Civil Engineering,184.6,175.3
+2022-07-08,Civil Engineering,184.24,166.07
 2022-07-15,Civil Engineering,183.44,174.24
 2022-07-22,Civil Engineering,183.72,180.44
 2022-07-29,Civil Engineering,183.58,176.6
@@ -2823,6 +2830,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Civil Engineering,161.39,119.03
 2026-10-30,Civil Engineering,160.58,115.36
 2026-11-06,Civil Engineering,162.03,124.28
+2026-11-13,Civil Engineering,161.04,107.86
 2020-02-07,Cleaning & Sanitation,99.58,101.67
 2020-02-14,Cleaning & Sanitation,98.79,97.74
 2020-02-21,Cleaning & Sanitation,98.59,99.54
@@ -3176,6 +3184,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Cleaning & Sanitation,102.09,94.32
 2026-10-30,Cleaning & Sanitation,102.12,90.72
 2026-11-06,Cleaning & Sanitation,103.55,94.58
+2026-11-13,Cleaning & Sanitation,106.89,98.22
 2020-02-07,Community & Social Service,100.53,101.83
 2020-02-14,Community & Social Service,100.26,99.96
 2020-02-21,Community & Social Service,100.21,99.66
@@ -3529,6 +3538,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Community & Social Service,105.94,99.77
 2026-10-30,Community & Social Service,105.93,96.84
 2026-11-06,Community & Social Service,106.49,101.93
+2026-11-13,Community & Social Service,108.22,98.99
 2020-02-07,Construction,99.19,91.29
 2020-02-14,Construction,98.16,92.68
 2020-02-21,Construction,98.73,98.19
@@ -3569,20 +3579,20 @@ date,display_name,total_postings_index,new_postings_index
 2020-10-23,Construction,114.64,121.24
 2020-10-30,Construction,114.76,119.89
 2020-11-06,Construction,116.28,118.87
-2020-11-13,Construction,118.1,126.24
-2020-11-20,Construction,110.93,117.05
-2020-11-27,Construction,111.95,120.21
+2020-11-13,Construction,118.1,126.23
+2020-11-20,Construction,110.93,117.04
+2020-11-27,Construction,111.94,120.21
 2020-12-04,Construction,111.65,111.05
 2020-12-11,Construction,112.32,119.34
-2020-12-18,Construction,113.27,120.24
-2020-12-25,Construction,113.51,116.49
+2020-12-18,Construction,113.26,120.23
+2020-12-25,Construction,113.5,116.48
 2021-01-01,Construction,113.32,116.18
-2021-01-08,Construction,113.39,114.08
-2021-01-15,Construction,116.58,129.15
+2021-01-08,Construction,113.38,114.08
+2021-01-15,Construction,116.57,129.15
 2021-01-22,Construction,119.35,131.97
-2021-01-29,Construction,120.8,133.74
-2021-02-05,Construction,122.65,135.81
-2021-02-12,Construction,124.56,138.47
+2021-01-29,Construction,120.79,133.74
+2021-02-05,Construction,122.64,135.81
+2021-02-12,Construction,124.55,138.47
 2021-02-19,Construction,127.19,140.65
 2021-02-26,Construction,129.23,144.77
 2021-03-05,Construction,133.23,160.27
@@ -3591,11 +3601,11 @@ date,display_name,total_postings_index,new_postings_index
 2021-03-26,Construction,149.67,184.68
 2021-04-02,Construction,155.57,188.99
 2021-04-09,Construction,160.99,184.14
-2021-04-16,Construction,165.74,204.58
+2021-04-16,Construction,165.73,204.58
 2021-04-23,Construction,170.74,200.46
 2021-04-30,Construction,172.28,191.07
 2021-05-07,Construction,173.22,190.64
-2021-05-14,Construction,174.85,192.04
+2021-05-14,Construction,174.84,192.04
 2021-05-21,Construction,169.44,186.51
 2021-05-28,Construction,168.98,181.19
 2021-06-04,Construction,169.33,176.17
@@ -3632,7 +3642,7 @@ date,display_name,total_postings_index,new_postings_index
 2022-01-07,Construction,159.13,148.71
 2022-01-14,Construction,159.17,154.65
 2022-01-21,Construction,159.07,153.48
-2022-01-28,Construction,160.24,153.7
+2022-01-28,Construction,160.23,153.69
 2022-02-04,Construction,162.82,158.07
 2022-02-11,Construction,164.15,164.38
 2022-02-18,Construction,165.66,167.13
@@ -3644,7 +3654,7 @@ date,display_name,total_postings_index,new_postings_index
 2022-04-01,Construction,172.17,169.64
 2022-04-08,Construction,171.24,167.97
 2022-04-15,Construction,168.98,170.62
-2022-04-22,Construction,169.95,170.86
+2022-04-22,Construction,169.94,170.86
 2022-04-29,Construction,169.96,169.0
 2022-05-06,Construction,170.09,168.99
 2022-05-13,Construction,170.82,169.68
@@ -3739,12 +3749,12 @@ date,display_name,total_postings_index,new_postings_index
 2024-01-26,Construction,140.27,138.71
 2024-02-02,Construction,140.07,138.02
 2024-02-09,Construction,140.72,137.29
-2024-02-16,Construction,140.3,136.2
-2024-02-23,Construction,140.64,141.21
+2024-02-16,Construction,140.29,136.2
+2024-02-23,Construction,140.63,141.21
 2024-03-01,Construction,140.99,140.54
 2024-03-08,Construction,140.7,133.76
 2024-03-15,Construction,140.44,134.95
-2024-03-22,Construction,139.97,135.45
+2024-03-22,Construction,139.96,135.45
 2024-03-29,Construction,139.72,130.69
 2024-04-05,Construction,138.96,123.48
 2024-04-12,Construction,138.43,127.0
@@ -3882,6 +3892,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Construction,129.21,97.99
 2026-10-30,Construction,128.91,98.13
 2026-11-06,Construction,129.69,97.0
+2026-11-13,Construction,132.14,93.52
 2020-02-07,Customer Service,100.54,100.62
 2020-02-14,Customer Service,100.46,102.37
 2020-02-21,Customer Service,98.31,97.31
@@ -3933,8 +3944,8 @@ date,display_name,total_postings_index,new_postings_index
 2021-01-08,Customer Service,90.53,92.96
 2021-01-15,Customer Service,94.82,118.32
 2021-01-22,Customer Service,96.43,128.92
-2021-01-29,Customer Service,95.98,116.24
-2021-02-05,Customer Service,98.47,137.21
+2021-01-29,Customer Service,95.98,116.23
+2021-02-05,Customer Service,98.47,137.2
 2021-02-12,Customer Service,100.95,133.17
 2021-02-19,Customer Service,102.61,138.67
 2021-02-26,Customer Service,102.86,123.92
@@ -4235,6 +4246,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Customer Service,86.77,79.12
 2026-10-30,Customer Service,86.95,85.74
 2026-11-06,Customer Service,87.46,81.47
+2026-11-13,Customer Service,90.51,100.22
 2020-02-07,Data & Analytics,99.61,97.65
 2020-02-14,Data & Analytics,100.13,103.33
 2020-02-21,Data & Analytics,99.68,98.04
@@ -4588,6 +4600,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Data & Analytics,62.39,68.16
 2026-10-30,Data & Analytics,61.75,65.57
 2026-11-06,Data & Analytics,62.09,70.62
+2026-11-13,Data & Analytics,61.84,68.11
 2020-02-07,Dental,101.07,101.09
 2020-02-14,Dental,99.75,93.51
 2020-02-21,Dental,99.48,95.16
@@ -4941,6 +4954,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Dental,118.33,122.89
 2026-10-30,Dental,118.1,115.74
 2026-11-06,Dental,120.14,122.96
+2026-11-13,Dental,123.86,126.02
 2020-02-07,Driving,97.8,80.23
 2020-02-14,Driving,98.85,113.55
 2020-02-21,Driving,99.7,100.21
@@ -5294,6 +5308,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Driving,83.03,86.06
 2026-10-30,Driving,84.5,108.3
 2026-11-06,Driving,84.99,80.98
+2026-11-13,Driving,85.86,80.14
 2020-02-07,Education & Instruction,100.72,99.67
 2020-02-14,Education & Instruction,100.43,99.4
 2020-02-21,Education & Instruction,100.27,97.59
@@ -5428,7 +5443,7 @@ date,display_name,total_postings_index,new_postings_index
 2022-08-12,Education & Instruction,164.76,169.3
 2022-08-19,Education & Instruction,163.3,167.23
 2022-08-26,Education & Instruction,163.03,165.69
-2022-09-02,Education & Instruction,162.07,162.14
+2022-09-02,Education & Instruction,162.06,162.14
 2022-09-09,Education & Instruction,161.41,161.5
 2022-09-16,Education & Instruction,161.38,154.43
 2022-09-23,Education & Instruction,162.58,163.18
@@ -5438,22 +5453,22 @@ date,display_name,total_postings_index,new_postings_index
 2022-10-21,Education & Instruction,164.5,156.82
 2022-10-28,Education & Instruction,164.39,153.82
 2022-11-04,Education & Instruction,164.46,159.33
-2022-11-11,Education & Instruction,164.27,157.24
+2022-11-11,Education & Instruction,164.26,157.24
 2022-11-18,Education & Instruction,163.03,151.32
 2022-11-25,Education & Instruction,162.75,147.5
 2022-12-02,Education & Instruction,162.28,139.92
 2022-12-09,Education & Instruction,162.04,158.34
-2022-12-16,Education & Instruction,161.05,149.66
+2022-12-16,Education & Instruction,161.04,149.66
 2022-12-23,Education & Instruction,160.48,149.14
-2022-12-30,Education & Instruction,160.4,146.32
+2022-12-30,Education & Instruction,160.39,146.32
 2023-01-06,Education & Instruction,159.63,148.65
 2023-01-13,Education & Instruction,160.19,163.86
 2023-01-20,Education & Instruction,160.47,157.39
 2023-01-27,Education & Instruction,160.14,162.26
-2023-02-03,Education & Instruction,159.68,153.09
+2023-02-03,Education & Instruction,159.67,153.09
 2023-02-10,Education & Instruction,159.01,157.17
 2023-02-17,Education & Instruction,158.82,157.96
-2023-02-24,Education & Instruction,158.34,163.08
+2023-02-24,Education & Instruction,158.33,163.08
 2023-03-03,Education & Instruction,156.48,153.95
 2023-03-10,Education & Instruction,157.08,165.98
 2023-03-17,Education & Instruction,159.72,167.28
@@ -5642,11 +5657,12 @@ date,display_name,total_postings_index,new_postings_index
 2026-09-18,Education & Instruction,107.16,86.65
 2026-09-25,Education & Instruction,107.2,91.41
 2026-10-02,Education & Instruction,107.14,94.02
-2026-10-09,Education & Instruction,107.44,95.69
-2026-10-16,Education & Instruction,107.79,94.73
+2026-10-09,Education & Instruction,107.44,95.68
+2026-10-16,Education & Instruction,107.78,94.71
 2026-10-23,Education & Instruction,107.98,92.53
 2026-10-30,Education & Instruction,107.45,92.72
 2026-11-06,Education & Instruction,107.54,106.93
+2026-11-13,Education & Instruction,109.4,98.85
 2020-02-07,Electrical Engineering,99.64,104.42
 2020-02-14,Electrical Engineering,99.88,101.76
 2020-02-21,Electrical Engineering,99.93,104.11
@@ -5892,20 +5908,20 @@ date,display_name,total_postings_index,new_postings_index
 2024-09-27,Electrical Engineering,126.2,137.06
 2024-10-04,Electrical Engineering,124.55,135.03
 2024-10-11,Electrical Engineering,123.05,125.72
-2024-10-18,Electrical Engineering,121.43,130.09
+2024-10-18,Electrical Engineering,121.42,130.01
 2024-10-25,Electrical Engineering,121.58,140.15
-2024-11-01,Electrical Engineering,120.67,131.37
-2024-11-08,Electrical Engineering,119.51,119.18
-2024-11-15,Electrical Engineering,118.71,118.48
-2024-11-22,Electrical Engineering,118.05,125.4
-2024-11-29,Electrical Engineering,119.15,136.22
+2024-11-01,Electrical Engineering,120.66,131.37
+2024-11-08,Electrical Engineering,119.5,119.18
+2024-11-15,Electrical Engineering,118.7,118.48
+2024-11-22,Electrical Engineering,118.04,125.4
+2024-11-29,Electrical Engineering,119.14,136.22
 2024-12-06,Electrical Engineering,118.58,107.79
 2024-12-13,Electrical Engineering,119.64,131.71
-2024-12-20,Electrical Engineering,119.44,125.97
-2024-12-27,Electrical Engineering,119.71,127.31
-2025-01-03,Electrical Engineering,119.58,121.75
+2024-12-20,Electrical Engineering,119.43,125.97
+2024-12-27,Electrical Engineering,119.7,127.31
+2025-01-03,Electrical Engineering,119.57,121.75
 2025-01-10,Electrical Engineering,119.12,129.36
-2025-01-17,Electrical Engineering,118.92,135.12
+2025-01-17,Electrical Engineering,118.91,135.12
 2025-01-24,Electrical Engineering,118.8,134.58
 2025-01-31,Electrical Engineering,118.24,125.96
 2025-02-07,Electrical Engineering,118.8,134.95
@@ -6000,6 +6016,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Electrical Engineering,153.19,141.28
 2026-10-30,Electrical Engineering,155.22,157.77
 2026-11-06,Electrical Engineering,156.27,155.07
+2026-11-13,Electrical Engineering,158.85,144.67
 2020-02-07,Food Preparation & Service,99.68,97.77
 2020-02-14,Food Preparation & Service,99.33,105.14
 2020-02-21,Food Preparation & Service,98.5,100.93
@@ -6353,6 +6370,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Food Preparation & Service,95.78,75.78
 2026-10-30,Food Preparation & Service,95.98,75.5
 2026-11-06,Food Preparation & Service,96.84,66.95
+2026-11-13,Food Preparation & Service,98.32,65.41
 2020-02-07,Hospitality & Tourism,100.36,110.19
 2020-02-14,Hospitality & Tourism,99.6,93.57
 2020-02-21,Hospitality & Tourism,99.13,93.82
@@ -6706,6 +6724,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Hospitality & Tourism,84.98,95.52
 2026-10-30,Hospitality & Tourism,85.27,74.48
 2026-11-06,Hospitality & Tourism,84.61,69.88
+2026-11-13,Hospitality & Tourism,85.68,74.39
 2020-02-07,Human Resources,99.87,102.41
 2020-02-14,Human Resources,100.42,107.42
 2020-02-21,Human Resources,100.23,102.81
@@ -6807,19 +6826,19 @@ date,display_name,total_postings_index,new_postings_index
 2021-12-24,Human Resources,228.97,215.6
 2021-12-31,Human Resources,227.19,190.02
 2022-01-07,Human Resources,224.05,176.85
-2022-01-14,Human Resources,224.54,236.09
-2022-01-21,Human Resources,229.41,238.23
+2022-01-14,Human Resources,224.54,236.08
+2022-01-21,Human Resources,229.41,238.21
 2022-01-28,Human Resources,232.61,240.9
 2022-02-04,Human Resources,236.56,249.48
 2022-02-11,Human Resources,237.89,245.16
 2022-02-18,Human Resources,238.91,245.12
 2022-02-25,Human Resources,241.34,251.33
 2022-03-04,Human Resources,242.8,244.72
-2022-03-11,Human Resources,242.1,243.91
-2022-03-18,Human Resources,240.65,239.54
-2022-03-25,Human Resources,238.46,230.96
-2022-04-01,Human Resources,238.11,233.45
-2022-04-08,Human Resources,238.8,235.41
+2022-03-11,Human Resources,242.09,243.91
+2022-03-18,Human Resources,240.64,239.54
+2022-03-25,Human Resources,238.45,230.96
+2022-04-01,Human Resources,238.1,233.45
+2022-04-08,Human Resources,238.79,235.41
 2022-04-15,Human Resources,231.05,227.7
 2022-04-22,Human Resources,232.34,223.76
 2022-04-29,Human Resources,231.73,223.68
@@ -7059,6 +7078,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Human Resources,99.32,101.71
 2026-10-30,Human Resources,98.55,100.86
 2026-11-06,Human Resources,99.31,102.99
+2026-11-13,Human Resources,100.82,100.69
 2020-02-07,"IT Infrastructure, Operations & Support",99.48,99.27
 2020-02-14,"IT Infrastructure, Operations & Support",99.13,99.42
 2020-02-21,"IT Infrastructure, Operations & Support",99.24,100.79
@@ -7168,22 +7188,22 @@ date,display_name,total_postings_index,new_postings_index
 2022-02-18,"IT Infrastructure, Operations & Support",154.72,169.71
 2022-02-25,"IT Infrastructure, Operations & Support",155.37,166.73
 2022-03-04,"IT Infrastructure, Operations & Support",156.17,165.73
-2022-03-11,"IT Infrastructure, Operations & Support",156.28,172.36
-2022-03-18,"IT Infrastructure, Operations & Support",156.45,168.27
+2022-03-11,"IT Infrastructure, Operations & Support",156.28,172.35
+2022-03-18,"IT Infrastructure, Operations & Support",156.45,168.26
 2022-03-25,"IT Infrastructure, Operations & Support",156.87,167.16
-2022-04-01,"IT Infrastructure, Operations & Support",157.86,170.11
+2022-04-01,"IT Infrastructure, Operations & Support",157.86,170.1
 2022-04-08,"IT Infrastructure, Operations & Support",158.96,179.02
-2022-04-15,"IT Infrastructure, Operations & Support",156.11,165.29
+2022-04-15,"IT Infrastructure, Operations & Support",156.1,165.29
 2022-04-22,"IT Infrastructure, Operations & Support",157.4,158.14
 2022-04-29,"IT Infrastructure, Operations & Support",156.72,162.59
 2022-05-06,"IT Infrastructure, Operations & Support",157.34,167.23
 2022-05-13,"IT Infrastructure, Operations & Support",158.02,163.79
-2022-05-20,"IT Infrastructure, Operations & Support",159.19,168.2
+2022-05-20,"IT Infrastructure, Operations & Support",159.18,168.2
 2022-05-27,"IT Infrastructure, Operations & Support",158.25,163.57
 2022-06-03,"IT Infrastructure, Operations & Support",157.68,156.48
 2022-06-10,"IT Infrastructure, Operations & Support",159.16,168.7
-2022-06-17,"IT Infrastructure, Operations & Support",158.94,166.18
-2022-06-24,"IT Infrastructure, Operations & Support",157.39,157.53
+2022-06-17,"IT Infrastructure, Operations & Support",158.93,166.18
+2022-06-24,"IT Infrastructure, Operations & Support",157.38,157.53
 2022-07-01,"IT Infrastructure, Operations & Support",155.94,148.06
 2022-07-08,"IT Infrastructure, Operations & Support",155.42,148.05
 2022-07-15,"IT Infrastructure, Operations & Support",153.03,151.78
@@ -7193,53 +7213,53 @@ date,display_name,total_postings_index,new_postings_index
 2022-08-12,"IT Infrastructure, Operations & Support",148.25,152.75
 2022-08-19,"IT Infrastructure, Operations & Support",148.08,161.73
 2022-08-26,"IT Infrastructure, Operations & Support",147.87,161.08
-2022-09-02,"IT Infrastructure, Operations & Support",146.22,151.37
+2022-09-02,"IT Infrastructure, Operations & Support",146.22,151.35
 2022-09-09,"IT Infrastructure, Operations & Support",145.09,154.5
 2022-09-16,"IT Infrastructure, Operations & Support",142.97,150.13
 2022-09-23,"IT Infrastructure, Operations & Support",140.93,149.12
 2022-09-30,"IT Infrastructure, Operations & Support",140.16,148.12
-2022-10-07,"IT Infrastructure, Operations & Support",139.45,153.34
-2022-10-14,"IT Infrastructure, Operations & Support",137.3,145.44
-2022-10-21,"IT Infrastructure, Operations & Support",137.39,148.77
+2022-10-07,"IT Infrastructure, Operations & Support",139.44,153.34
+2022-10-14,"IT Infrastructure, Operations & Support",137.3,145.43
+2022-10-21,"IT Infrastructure, Operations & Support",137.38,148.77
 2022-10-28,"IT Infrastructure, Operations & Support",135.35,141.16
 2022-11-04,"IT Infrastructure, Operations & Support",134.2,142.21
 2022-11-11,"IT Infrastructure, Operations & Support",133.68,143.23
 2022-11-18,"IT Infrastructure, Operations & Support",132.71,140.95
 2022-11-25,"IT Infrastructure, Operations & Support",132.09,135.15
 2022-12-02,"IT Infrastructure, Operations & Support",131.1,126.97
-2022-12-09,"IT Infrastructure, Operations & Support",128.45,140.96
-2022-12-16,"IT Infrastructure, Operations & Support",128.47,133.44
+2022-12-09,"IT Infrastructure, Operations & Support",128.44,140.96
+2022-12-16,"IT Infrastructure, Operations & Support",128.46,133.44
 2022-12-23,"IT Infrastructure, Operations & Support",126.99,128.2
 2022-12-30,"IT Infrastructure, Operations & Support",126.28,122.75
 2023-01-06,"IT Infrastructure, Operations & Support",123.82,115.26
 2023-01-13,"IT Infrastructure, Operations & Support",122.81,129.67
-2023-01-20,"IT Infrastructure, Operations & Support",121.85,130.15
+2023-01-20,"IT Infrastructure, Operations & Support",121.84,130.15
 2023-01-27,"IT Infrastructure, Operations & Support",119.81,129.01
 2023-02-03,"IT Infrastructure, Operations & Support",118.24,124.15
-2023-02-10,"IT Infrastructure, Operations & Support",115.96,120.6
+2023-02-10,"IT Infrastructure, Operations & Support",115.95,120.6
 2023-02-17,"IT Infrastructure, Operations & Support",114.52,123.68
 2023-02-24,"IT Infrastructure, Operations & Support",112.77,120.69
 2023-03-03,"IT Infrastructure, Operations & Support",110.84,116.85
 2023-03-10,"IT Infrastructure, Operations & Support",111.43,125.7
 2023-03-17,"IT Infrastructure, Operations & Support",112.47,122.57
-2023-03-24,"IT Infrastructure, Operations & Support",112.43,123.43
-2023-03-31,"IT Infrastructure, Operations & Support",111.07,121.8
-2023-04-07,"IT Infrastructure, Operations & Support",110.8,121.89
+2023-03-24,"IT Infrastructure, Operations & Support",112.42,123.43
+2023-03-31,"IT Infrastructure, Operations & Support",111.06,121.8
+2023-04-07,"IT Infrastructure, Operations & Support",110.79,121.89
 2023-04-14,"IT Infrastructure, Operations & Support",111.15,116.95
 2023-04-21,"IT Infrastructure, Operations & Support",110.58,121.62
-2023-04-28,"IT Infrastructure, Operations & Support",110.58,122.14
+2023-04-28,"IT Infrastructure, Operations & Support",110.57,122.14
 2023-05-05,"IT Infrastructure, Operations & Support",109.94,124.96
 2023-05-12,"IT Infrastructure, Operations & Support",107.4,117.26
 2023-05-19,"IT Infrastructure, Operations & Support",105.38,113.91
 2023-05-26,"IT Infrastructure, Operations & Support",104.62,114.31
 2023-06-02,"IT Infrastructure, Operations & Support",102.39,110.11
-2023-06-09,"IT Infrastructure, Operations & Support",101.14,112.61
+2023-06-09,"IT Infrastructure, Operations & Support",101.13,112.61
 2023-06-16,"IT Infrastructure, Operations & Support",99.8,112.22
-2023-06-23,"IT Infrastructure, Operations & Support",99.0,109.85
+2023-06-23,"IT Infrastructure, Operations & Support",98.99,109.85
 2023-06-30,"IT Infrastructure, Operations & Support",98.01,111.77
 2023-07-07,"IT Infrastructure, Operations & Support",96.57,104.52
 2023-07-14,"IT Infrastructure, Operations & Support",96.37,108.86
-2023-07-21,"IT Infrastructure, Operations & Support",96.41,109.07
+2023-07-21,"IT Infrastructure, Operations & Support",96.4,109.07
 2023-07-28,"IT Infrastructure, Operations & Support",95.25,104.33
 2023-08-04,"IT Infrastructure, Operations & Support",94.89,107.41
 2023-08-11,"IT Infrastructure, Operations & Support",94.32,106.06
@@ -7341,8 +7361,8 @@ date,display_name,total_postings_index,new_postings_index
 2025-06-13,"IT Infrastructure, Operations & Support",68.87,77.9
 2025-06-20,"IT Infrastructure, Operations & Support",68.43,76.18
 2025-06-27,"IT Infrastructure, Operations & Support",68.5,75.55
-2025-07-04,"IT Infrastructure, Operations & Support",67.05,75.39
-2025-07-11,"IT Infrastructure, Operations & Support",66.41,86.99
+2025-07-04,"IT Infrastructure, Operations & Support",67.05,75.37
+2025-07-11,"IT Infrastructure, Operations & Support",66.41,86.97
 2025-07-18,"IT Infrastructure, Operations & Support",66.65,77.7
 2025-07-25,"IT Infrastructure, Operations & Support",67.15,79.82
 2025-08-01,"IT Infrastructure, Operations & Support",67.72,77.95
@@ -7377,11 +7397,11 @@ date,display_name,total_postings_index,new_postings_index
 2026-02-20,"IT Infrastructure, Operations & Support",67.8,72.83
 2026-02-27,"IT Infrastructure, Operations & Support",68.28,75.57
 2026-03-06,"IT Infrastructure, Operations & Support",68.34,71.71
-2026-03-13,"IT Infrastructure, Operations & Support",70.56,78.3
+2026-03-13,"IT Infrastructure, Operations & Support",70.56,78.28
 2026-03-20,"IT Infrastructure, Operations & Support",71.07,74.71
 2026-03-27,"IT Infrastructure, Operations & Support",71.21,72.05
 2026-04-03,"IT Infrastructure, Operations & Support",70.85,71.12
-2026-04-10,"IT Infrastructure, Operations & Support",69.55,68.34
+2026-04-10,"IT Infrastructure, Operations & Support",69.55,68.32
 2026-04-17,"IT Infrastructure, Operations & Support",69.35,71.46
 2026-04-24,"IT Infrastructure, Operations & Support",69.2,69.48
 2026-05-01,"IT Infrastructure, Operations & Support",68.95,69.58
@@ -7409,9 +7429,10 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-02,"IT Infrastructure, Operations & Support",69.33,79.92
 2026-10-09,"IT Infrastructure, Operations & Support",69.8,71.38
 2026-10-16,"IT Infrastructure, Operations & Support",68.48,67.42
-2026-10-23,"IT Infrastructure, Operations & Support",69.74,73.5
-2026-10-30,"IT Infrastructure, Operations & Support",69.33,73.33
+2026-10-23,"IT Infrastructure, Operations & Support",69.74,73.49
+2026-10-30,"IT Infrastructure, Operations & Support",69.33,73.31
 2026-11-06,"IT Infrastructure, Operations & Support",69.4,72.39
+2026-11-13,"IT Infrastructure, Operations & Support",70.4,71.37
 2020-02-07,IT Systems & Solutions,98.93,99.68
 2020-02-14,IT Systems & Solutions,98.48,98.72
 2020-02-21,IT Systems & Solutions,98.45,99.17
@@ -7469,14 +7490,14 @@ date,display_name,total_postings_index,new_postings_index
 2021-02-19,IT Systems & Solutions,93.62,104.68
 2021-02-26,IT Systems & Solutions,95.0,114.26
 2021-03-05,IT Systems & Solutions,95.93,111.4
-2021-03-12,IT Systems & Solutions,97.96,111.03
-2021-03-19,IT Systems & Solutions,100.68,117.7
+2021-03-12,IT Systems & Solutions,97.96,111.02
+2021-03-19,IT Systems & Solutions,100.68,117.68
 2021-03-26,IT Systems & Solutions,103.22,121.3
 2021-04-02,IT Systems & Solutions,104.66,121.95
 2021-04-09,IT Systems & Solutions,105.81,118.14
 2021-04-16,IT Systems & Solutions,104.22,122.96
 2021-04-23,IT Systems & Solutions,106.55,122.19
-2021-04-30,IT Systems & Solutions,108.42,126.56
+2021-04-30,IT Systems & Solutions,108.41,126.56
 2021-05-07,IT Systems & Solutions,110.65,133.69
 2021-05-14,IT Systems & Solutions,112.82,129.2
 2021-05-21,IT Systems & Solutions,114.79,132.67
@@ -7513,8 +7534,8 @@ date,display_name,total_postings_index,new_postings_index
 2021-12-24,IT Systems & Solutions,186.51,165.25
 2021-12-31,IT Systems & Solutions,179.1,146.2
 2022-01-07,IT Systems & Solutions,176.26,134.0
-2022-01-14,IT Systems & Solutions,175.34,169.59
-2022-01-21,IT Systems & Solutions,177.97,177.04
+2022-01-14,IT Systems & Solutions,175.33,169.58
+2022-01-21,IT Systems & Solutions,177.97,177.03
 2022-01-28,IT Systems & Solutions,180.92,188.49
 2022-02-04,IT Systems & Solutions,185.67,191.3
 2022-02-11,IT Systems & Solutions,187.2,190.49
@@ -7523,7 +7544,7 @@ date,display_name,total_postings_index,new_postings_index
 2022-03-04,IT Systems & Solutions,191.11,195.28
 2022-03-11,IT Systems & Solutions,192.83,189.16
 2022-03-18,IT Systems & Solutions,192.31,196.14
-2022-03-25,IT Systems & Solutions,194.49,188.48
+2022-03-25,IT Systems & Solutions,194.48,188.48
 2022-04-01,IT Systems & Solutions,194.87,198.85
 2022-04-08,IT Systems & Solutions,196.43,198.07
 2022-04-15,IT Systems & Solutions,194.23,184.91
@@ -7542,15 +7563,15 @@ date,display_name,total_postings_index,new_postings_index
 2022-07-15,IT Systems & Solutions,174.99,162.67
 2022-07-22,IT Systems & Solutions,171.94,169.53
 2022-07-29,IT Systems & Solutions,170.32,171.55
-2022-08-05,IT Systems & Solutions,166.6,157.77
-2022-08-12,IT Systems & Solutions,163.93,158.8
+2022-08-05,IT Systems & Solutions,166.6,157.76
+2022-08-12,IT Systems & Solutions,163.93,158.79
 2022-08-19,IT Systems & Solutions,160.63,150.62
-2022-08-26,IT Systems & Solutions,159.08,156.3
-2022-09-02,IT Systems & Solutions,157.89,153.16
+2022-08-26,IT Systems & Solutions,159.07,156.3
+2022-09-02,IT Systems & Solutions,157.88,153.16
 2022-09-09,IT Systems & Solutions,156.83,158.22
-2022-09-16,IT Systems & Solutions,154.63,155.09
+2022-09-16,IT Systems & Solutions,154.62,155.09
 2022-09-23,IT Systems & Solutions,152.98,161.52
-2022-09-30,IT Systems & Solutions,151.78,156.15
+2022-09-30,IT Systems & Solutions,151.77,156.15
 2022-10-07,IT Systems & Solutions,149.12,152.1
 2022-10-14,IT Systems & Solutions,146.68,148.14
 2022-10-21,IT Systems & Solutions,144.52,144.53
@@ -7667,9 +7688,9 @@ date,display_name,total_postings_index,new_postings_index
 2024-12-06,IT Systems & Solutions,80.89,83.1
 2024-12-13,IT Systems & Solutions,81.72,94.1
 2024-12-20,IT Systems & Solutions,81.43,88.62
-2024-12-27,IT Systems & Solutions,82.15,87.41
+2024-12-27,IT Systems & Solutions,82.15,87.39
 2025-01-03,IT Systems & Solutions,82.48,85.08
-2025-01-10,IT Systems & Solutions,80.99,80.34
+2025-01-10,IT Systems & Solutions,80.98,80.34
 2025-01-17,IT Systems & Solutions,80.21,80.84
 2025-01-24,IT Systems & Solutions,78.85,78.75
 2025-01-31,IT Systems & Solutions,78.21,76.24
@@ -7725,7 +7746,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-01-16,IT Systems & Solutions,67.41,73.52
 2026-01-23,IT Systems & Solutions,68.35,71.76
 2026-01-30,IT Systems & Solutions,69.62,76.94
-2026-02-06,IT Systems & Solutions,70.45,78.97
+2026-02-06,IT Systems & Solutions,70.44,78.97
 2026-02-13,IT Systems & Solutions,71.25,79.08
 2026-02-20,IT Systems & Solutions,72.07,76.18
 2026-02-27,IT Systems & Solutions,71.94,81.66
@@ -7757,14 +7778,15 @@ date,display_name,total_postings_index,new_postings_index
 2026-08-28,IT Systems & Solutions,73.15,76.85
 2026-09-04,IT Systems & Solutions,74.56,84.4
 2026-09-11,IT Systems & Solutions,75.45,83.69
-2026-09-18,IT Systems & Solutions,74.91,83.08
-2026-09-25,IT Systems & Solutions,76.01,84.97
+2026-09-18,IT Systems & Solutions,74.91,83.07
+2026-09-25,IT Systems & Solutions,76.01,84.95
 2026-10-02,IT Systems & Solutions,76.39,85.08
-2026-10-09,IT Systems & Solutions,76.97,80.97
+2026-10-09,IT Systems & Solutions,76.96,80.97
 2026-10-16,IT Systems & Solutions,77.56,80.34
 2026-10-23,IT Systems & Solutions,77.57,80.8
 2026-10-30,IT Systems & Solutions,77.12,80.27
 2026-11-06,IT Systems & Solutions,77.37,85.32
+2026-11-13,IT Systems & Solutions,78.12,84.88
 2020-02-07,Industrial Engineering,99.88,99.83
 2020-02-14,Industrial Engineering,100.34,100.69
 2020-02-21,Industrial Engineering,100.3,96.9
@@ -7809,8 +7831,8 @@ date,display_name,total_postings_index,new_postings_index
 2020-11-20,Industrial Engineering,82.59,93.02
 2020-11-27,Industrial Engineering,85.55,101.32
 2020-12-04,Industrial Engineering,85.67,94.62
-2020-12-11,Industrial Engineering,86.75,94.46
-2020-12-18,Industrial Engineering,87.42,97.57
+2020-12-11,Industrial Engineering,86.75,94.45
+2020-12-18,Industrial Engineering,87.42,97.55
 2020-12-25,Industrial Engineering,88.01,97.48
 2021-01-01,Industrial Engineering,88.5,99.27
 2021-01-08,Industrial Engineering,88.51,94.36
@@ -7851,36 +7873,36 @@ date,display_name,total_postings_index,new_postings_index
 2021-09-10,Industrial Engineering,149.62,157.51
 2021-09-17,Industrial Engineering,149.88,137.39
 2021-09-24,Industrial Engineering,151.22,154.64
-2021-10-01,Industrial Engineering,153.39,162.31
+2021-10-01,Industrial Engineering,153.39,162.28
 2021-10-08,Industrial Engineering,155.11,164.42
 2021-10-15,Industrial Engineering,157.86,183.68
-2021-10-22,Industrial Engineering,160.04,170.72
-2021-10-29,Industrial Engineering,162.15,164.41
-2021-11-05,Industrial Engineering,164.29,162.01
+2021-10-22,Industrial Engineering,160.03,170.72
+2021-10-29,Industrial Engineering,162.14,164.41
+2021-11-05,Industrial Engineering,164.28,162.01
 2021-11-12,Industrial Engineering,165.98,168.03
-2021-11-19,Industrial Engineering,168.89,170.87
-2021-11-26,Industrial Engineering,171.62,172.92
-2021-12-03,Industrial Engineering,172.07,149.51
-2021-12-10,Industrial Engineering,175.64,168.3
-2021-12-17,Industrial Engineering,178.81,175.38
+2021-11-19,Industrial Engineering,168.88,170.84
+2021-11-26,Industrial Engineering,171.62,172.89
+2021-12-03,Industrial Engineering,172.06,149.5
+2021-12-10,Industrial Engineering,175.63,168.28
+2021-12-17,Industrial Engineering,178.8,175.38
 2021-12-24,Industrial Engineering,177.11,151.82
-2021-12-31,Industrial Engineering,174.39,135.98
+2021-12-31,Industrial Engineering,174.38,135.98
 2022-01-07,Industrial Engineering,172.75,127.04
-2022-01-14,Industrial Engineering,173.69,166.39
-2022-01-21,Industrial Engineering,178.03,175.4
+2022-01-14,Industrial Engineering,173.68,166.37
+2022-01-21,Industrial Engineering,178.02,175.4
 2022-01-28,Industrial Engineering,180.73,180.34
 2022-02-04,Industrial Engineering,184.8,187.22
 2022-02-11,Industrial Engineering,185.83,185.27
 2022-02-18,Industrial Engineering,185.01,192.07
 2022-02-25,Industrial Engineering,187.08,189.98
-2022-03-04,Industrial Engineering,189.72,198.76
+2022-03-04,Industrial Engineering,189.71,198.76
 2022-03-11,Industrial Engineering,190.13,189.87
 2022-03-18,Industrial Engineering,190.4,197.22
 2022-03-25,Industrial Engineering,190.55,191.96
 2022-04-01,Industrial Engineering,191.31,193.31
 2022-04-08,Industrial Engineering,190.92,197.55
-2022-04-15,Industrial Engineering,188.02,191.56
-2022-04-22,Industrial Engineering,190.99,187.26
+2022-04-15,Industrial Engineering,188.01,191.53
+2022-04-22,Industrial Engineering,190.98,187.26
 2022-04-29,Industrial Engineering,190.07,195.01
 2022-05-06,Industrial Engineering,192.6,199.45
 2022-05-13,Industrial Engineering,193.51,182.58
@@ -7907,10 +7929,10 @@ date,display_name,total_postings_index,new_postings_index
 2022-10-07,Industrial Engineering,173.93,166.21
 2022-10-14,Industrial Engineering,170.89,165.17
 2022-10-21,Industrial Engineering,169.93,165.69
-2022-10-28,Industrial Engineering,166.95,165.13
-2022-11-04,Industrial Engineering,166.95,164.87
-2022-11-11,Industrial Engineering,164.8,165.59
-2022-11-18,Industrial Engineering,163.52,164.34
+2022-10-28,Industrial Engineering,166.95,165.12
+2022-11-04,Industrial Engineering,166.95,164.84
+2022-11-11,Industrial Engineering,164.79,165.59
+2022-11-18,Industrial Engineering,163.51,164.34
 2022-11-25,Industrial Engineering,162.37,157.51
 2022-12-02,Industrial Engineering,160.92,142.07
 2022-12-09,Industrial Engineering,158.84,157.28
@@ -8014,20 +8036,20 @@ date,display_name,total_postings_index,new_postings_index
 2024-10-25,Industrial Engineering,89.48,101.77
 2024-11-01,Industrial Engineering,90.11,103.04
 2024-11-08,Industrial Engineering,91.11,102.64
-2024-11-15,Industrial Engineering,90.2,98.71
-2024-11-22,Industrial Engineering,90.19,93.46
-2024-11-29,Industrial Engineering,90.72,116.75
+2024-11-15,Industrial Engineering,90.2,98.7
+2024-11-22,Industrial Engineering,90.18,93.45
+2024-11-29,Industrial Engineering,90.71,116.75
 2024-12-06,Industrial Engineering,89.6,85.66
-2024-12-13,Industrial Engineering,89.56,93.34
-2024-12-20,Industrial Engineering,89.8,102.59
-2024-12-27,Industrial Engineering,89.44,103.23
+2024-12-13,Industrial Engineering,89.56,93.33
+2024-12-20,Industrial Engineering,89.79,102.57
+2024-12-27,Industrial Engineering,89.43,103.23
 2025-01-03,Industrial Engineering,89.29,98.38
 2025-01-10,Industrial Engineering,89.54,98.93
-2025-01-17,Industrial Engineering,90.42,101.35
-2025-01-24,Industrial Engineering,91.22,111.29
-2025-01-31,Industrial Engineering,90.87,95.85
+2025-01-17,Industrial Engineering,90.41,101.35
+2025-01-24,Industrial Engineering,91.21,111.29
+2025-01-31,Industrial Engineering,90.86,95.85
 2025-02-07,Industrial Engineering,90.48,105.6
-2025-02-14,Industrial Engineering,89.61,97.66
+2025-02-14,Industrial Engineering,89.6,97.66
 2025-02-21,Industrial Engineering,88.76,99.52
 2025-02-28,Industrial Engineering,88.51,99.91
 2025-03-07,Industrial Engineering,87.85,100.81
@@ -8051,8 +8073,8 @@ date,display_name,total_postings_index,new_postings_index
 2025-07-11,Industrial Engineering,90.12,112.24
 2025-07-18,Industrial Engineering,91.32,106.46
 2025-07-25,Industrial Engineering,91.47,107.86
-2025-08-01,Industrial Engineering,92.06,105.58
-2025-08-08,Industrial Engineering,92.26,107.88
+2025-08-01,Industrial Engineering,92.05,105.58
+2025-08-08,Industrial Engineering,92.25,107.88
 2025-08-15,Industrial Engineering,90.51,101.25
 2025-08-22,Industrial Engineering,91.4,111.44
 2025-08-29,Industrial Engineering,90.9,107.92
@@ -8061,19 +8083,19 @@ date,display_name,total_postings_index,new_postings_index
 2025-09-19,Industrial Engineering,91.02,109.12
 2025-09-26,Industrial Engineering,90.88,103.11
 2025-10-03,Industrial Engineering,90.52,102.12
-2025-10-10,Industrial Engineering,89.78,104.34
-2025-10-17,Industrial Engineering,89.8,109.8
+2025-10-10,Industrial Engineering,89.78,104.33
+2025-10-17,Industrial Engineering,89.8,109.79
 2025-10-24,Industrial Engineering,88.72,100.18
-2025-10-31,Industrial Engineering,88.91,101.92
+2025-10-31,Industrial Engineering,88.9,101.92
 2025-11-07,Industrial Engineering,88.71,98.07
 2025-11-14,Industrial Engineering,88.7,100.17
-2025-11-21,Industrial Engineering,89.18,95.25
+2025-11-21,Industrial Engineering,89.18,95.22
 2025-11-28,Industrial Engineering,90.5,118.29
 2025-12-05,Industrial Engineering,90.52,91.23
 2025-12-12,Industrial Engineering,91.21,105.91
-2025-12-19,Industrial Engineering,91.75,101.06
+2025-12-19,Industrial Engineering,91.74,101.06
 2025-12-26,Industrial Engineering,91.78,105.88
-2026-01-02,Industrial Engineering,91.84,94.56
+2026-01-02,Industrial Engineering,91.83,94.56
 2026-01-09,Industrial Engineering,91.89,82.38
 2026-01-16,Industrial Engineering,91.99,102.56
 2026-01-23,Industrial Engineering,92.92,104.88
@@ -8112,12 +8134,13 @@ date,display_name,total_postings_index,new_postings_index
 2026-09-11,Industrial Engineering,119.01,123.89
 2026-09-18,Industrial Engineering,120.14,110.41
 2026-09-25,Industrial Engineering,122.03,117.57
-2026-10-02,Industrial Engineering,123.64,122.72
-2026-10-09,Industrial Engineering,123.98,126.9
-2026-10-16,Industrial Engineering,122.33,119.32
+2026-10-02,Industrial Engineering,123.64,122.71
+2026-10-09,Industrial Engineering,123.98,126.88
+2026-10-16,Industrial Engineering,122.32,119.32
 2026-10-23,Industrial Engineering,122.99,118.75
-2026-10-30,Industrial Engineering,124.96,127.68
+2026-10-30,Industrial Engineering,124.95,127.68
 2026-11-06,Industrial Engineering,126.01,128.81
+2026-11-13,Industrial Engineering,127.49,131.2
 2020-02-07,Installation & Maintenance,100.57,98.79
 2020-02-14,Installation & Maintenance,100.11,100.08
 2020-02-21,Installation & Maintenance,97.54,99.35
@@ -8125,15 +8148,15 @@ date,display_name,total_postings_index,new_postings_index
 2020-03-06,Installation & Maintenance,97.28,104.76
 2020-03-13,Installation & Maintenance,96.07,94.81
 2020-03-20,Installation & Maintenance,91.7,76.66
-2020-03-27,Installation & Maintenance,81.26,52.46
+2020-03-27,Installation & Maintenance,81.27,52.46
 2020-04-03,Installation & Maintenance,71.98,42.65
 2020-04-10,Installation & Maintenance,64.86,37.04
 2020-04-17,Installation & Maintenance,61.09,42.06
 2020-04-24,Installation & Maintenance,59.18,45.18
-2020-05-01,Installation & Maintenance,58.58,51.94
+2020-05-01,Installation & Maintenance,58.57,51.94
 2020-05-08,Installation & Maintenance,59.95,61.58
 2020-05-15,Installation & Maintenance,61.19,62.3
-2020-05-22,Installation & Maintenance,62.73,66.07
+2020-05-22,Installation & Maintenance,62.72,66.07
 2020-05-29,Installation & Maintenance,64.02,64.8
 2020-06-05,Installation & Maintenance,67.28,86.59
 2020-06-12,Installation & Maintenance,70.08,82.55
@@ -8149,13 +8172,13 @@ date,display_name,total_postings_index,new_postings_index
 2020-08-21,Installation & Maintenance,87.65,102.53
 2020-08-28,Installation & Maintenance,88.65,102.26
 2020-09-04,Installation & Maintenance,90.36,106.88
-2020-09-11,Installation & Maintenance,91.57,114.79
+2020-09-11,Installation & Maintenance,91.57,114.78
 2020-09-18,Installation & Maintenance,92.55,102.92
 2020-09-25,Installation & Maintenance,93.47,110.05
 2020-10-02,Installation & Maintenance,94.96,107.89
 2020-10-09,Installation & Maintenance,95.92,111.86
 2020-10-16,Installation & Maintenance,97.49,115.23
-2020-10-23,Installation & Maintenance,97.89,114.22
+2020-10-23,Installation & Maintenance,97.89,114.21
 2020-10-30,Installation & Maintenance,98.92,114.83
 2020-11-06,Installation & Maintenance,101.17,113.56
 2020-11-13,Installation & Maintenance,104.6,129.69
@@ -8191,7 +8214,7 @@ date,display_name,total_postings_index,new_postings_index
 2021-06-11,Installation & Maintenance,136.72,156.38
 2021-06-18,Installation & Maintenance,137.86,168.94
 2021-06-25,Installation & Maintenance,139.23,171.4
-2021-07-02,Installation & Maintenance,140.81,173.12
+2021-07-02,Installation & Maintenance,140.81,173.11
 2021-07-09,Installation & Maintenance,141.76,168.1
 2021-07-16,Installation & Maintenance,140.86,174.37
 2021-07-23,Installation & Maintenance,140.06,166.84
@@ -8204,13 +8227,13 @@ date,display_name,total_postings_index,new_postings_index
 2021-09-10,Installation & Maintenance,137.26,157.54
 2021-09-17,Installation & Maintenance,138.21,155.81
 2021-09-24,Installation & Maintenance,138.56,158.33
-2021-10-01,Installation & Maintenance,139.16,159.17
+2021-10-01,Installation & Maintenance,139.16,159.16
 2021-10-08,Installation & Maintenance,139.88,158.1
 2021-10-15,Installation & Maintenance,140.08,159.74
-2021-10-22,Installation & Maintenance,140.93,154.96
+2021-10-22,Installation & Maintenance,140.92,154.96
 2021-10-29,Installation & Maintenance,141.91,160.68
 2021-11-05,Installation & Maintenance,144.24,159.91
-2021-11-12,Installation & Maintenance,145.93,161.82
+2021-11-12,Installation & Maintenance,145.92,161.82
 2021-11-19,Installation & Maintenance,147.41,163.37
 2021-11-26,Installation & Maintenance,148.38,166.59
 2021-12-03,Installation & Maintenance,148.97,160.11
@@ -8220,7 +8243,7 @@ date,display_name,total_postings_index,new_postings_index
 2021-12-31,Installation & Maintenance,153.12,165.01
 2022-01-07,Installation & Maintenance,151.29,151.41
 2022-01-14,Installation & Maintenance,151.95,167.64
-2022-01-21,Installation & Maintenance,152.4,161.14
+2022-01-21,Installation & Maintenance,152.4,161.13
 2022-01-28,Installation & Maintenance,152.35,174.76
 2022-02-04,Installation & Maintenance,154.28,174.66
 2022-02-11,Installation & Maintenance,153.01,166.37
@@ -8228,25 +8251,25 @@ date,display_name,total_postings_index,new_postings_index
 2022-02-25,Installation & Maintenance,154.7,171.3
 2022-03-04,Installation & Maintenance,154.85,167.87
 2022-03-11,Installation & Maintenance,154.65,175.57
-2022-03-18,Installation & Maintenance,154.98,175.07
-2022-03-25,Installation & Maintenance,156.16,172.37
+2022-03-18,Installation & Maintenance,154.97,175.07
+2022-03-25,Installation & Maintenance,156.15,172.37
 2022-04-01,Installation & Maintenance,157.53,175.49
 2022-04-08,Installation & Maintenance,156.75,175.1
 2022-04-15,Installation & Maintenance,155.41,174.18
 2022-04-22,Installation & Maintenance,155.9,172.28
 2022-04-29,Installation & Maintenance,155.6,171.12
 2022-05-06,Installation & Maintenance,154.95,171.66
-2022-05-13,Installation & Maintenance,155.29,174.96
+2022-05-13,Installation & Maintenance,155.28,174.96
 2022-05-20,Installation & Maintenance,155.94,174.59
 2022-05-27,Installation & Maintenance,156.03,175.6
 2022-06-03,Installation & Maintenance,155.49,171.41
 2022-06-10,Installation & Maintenance,154.57,169.18
-2022-06-17,Installation & Maintenance,154.74,172.59
+2022-06-17,Installation & Maintenance,154.73,172.59
 2022-06-24,Installation & Maintenance,154.62,172.86
 2022-07-01,Installation & Maintenance,154.78,170.08
 2022-07-08,Installation & Maintenance,154.67,167.99
-2022-07-15,Installation & Maintenance,154.05,172.88
-2022-07-22,Installation & Maintenance,154.01,175.26
+2022-07-15,Installation & Maintenance,154.04,172.87
+2022-07-22,Installation & Maintenance,154.01,175.25
 2022-07-29,Installation & Maintenance,153.01,172.61
 2022-08-05,Installation & Maintenance,153.87,178.63
 2022-08-12,Installation & Maintenance,154.38,175.5
@@ -8268,15 +8291,15 @@ date,display_name,total_postings_index,new_postings_index
 2022-12-02,Installation & Maintenance,155.85,164.09
 2022-12-09,Installation & Maintenance,155.6,174.47
 2022-12-16,Installation & Maintenance,156.13,168.43
-2022-12-23,Installation & Maintenance,155.29,164.89
-2022-12-30,Installation & Maintenance,154.99,164.16
+2022-12-23,Installation & Maintenance,155.29,164.88
+2022-12-30,Installation & Maintenance,154.99,164.15
 2023-01-06,Installation & Maintenance,152.46,166.16
-2023-01-13,Installation & Maintenance,153.18,171.27
+2023-01-13,Installation & Maintenance,153.18,171.26
 2023-01-20,Installation & Maintenance,152.12,170.6
 2023-01-27,Installation & Maintenance,151.31,166.19
 2023-02-03,Installation & Maintenance,150.35,162.21
 2023-02-10,Installation & Maintenance,149.6,166.51
-2023-02-17,Installation & Maintenance,148.64,160.08
+2023-02-17,Installation & Maintenance,148.63,160.08
 2023-02-24,Installation & Maintenance,148.23,163.81
 2023-03-03,Installation & Maintenance,146.91,157.5
 2023-03-10,Installation & Maintenance,146.69,165.87
@@ -8290,7 +8313,7 @@ date,display_name,total_postings_index,new_postings_index
 2023-05-05,Installation & Maintenance,148.2,166.86
 2023-05-12,Installation & Maintenance,146.93,170.24
 2023-05-19,Installation & Maintenance,147.8,167.9
-2023-05-26,Installation & Maintenance,148.0,165.61
+2023-05-26,Installation & Maintenance,148.0,165.6
 2023-06-02,Installation & Maintenance,147.18,159.4
 2023-06-09,Installation & Maintenance,145.77,161.61
 2023-06-16,Installation & Maintenance,145.09,167.9
@@ -8304,7 +8327,7 @@ date,display_name,total_postings_index,new_postings_index
 2023-08-11,Installation & Maintenance,143.03,162.44
 2023-08-18,Installation & Maintenance,142.55,164.29
 2023-08-25,Installation & Maintenance,142.88,163.67
-2023-09-01,Installation & Maintenance,143.15,165.48
+2023-09-01,Installation & Maintenance,143.16,165.48
 2023-09-08,Installation & Maintenance,143.51,158.98
 2023-09-15,Installation & Maintenance,143.39,168.74
 2023-09-22,Installation & Maintenance,141.6,160.61
@@ -8336,10 +8359,10 @@ date,display_name,total_postings_index,new_postings_index
 2024-03-22,Installation & Maintenance,128.78,143.35
 2024-03-29,Installation & Maintenance,129.11,144.6
 2024-04-05,Installation & Maintenance,128.96,138.36
-2024-04-12,Installation & Maintenance,128.38,141.27
+2024-04-12,Installation & Maintenance,128.39,141.27
 2024-04-19,Installation & Maintenance,128.02,137.31
 2024-04-26,Installation & Maintenance,126.77,137.92
-2024-05-03,Installation & Maintenance,126.92,138.45
+2024-05-03,Installation & Maintenance,126.93,138.45
 2024-05-10,Installation & Maintenance,126.84,135.35
 2024-05-17,Installation & Maintenance,126.2,135.79
 2024-05-24,Installation & Maintenance,123.44,132.91
@@ -8356,20 +8379,20 @@ date,display_name,total_postings_index,new_postings_index
 2024-08-09,Installation & Maintenance,123.08,131.35
 2024-08-16,Installation & Maintenance,122.51,132.25
 2024-08-23,Installation & Maintenance,122.18,132.11
-2024-08-30,Installation & Maintenance,121.59,133.22
+2024-08-30,Installation & Maintenance,121.6,133.22
 2024-09-06,Installation & Maintenance,120.91,125.31
 2024-09-13,Installation & Maintenance,121.13,141.26
-2024-09-20,Installation & Maintenance,121.63,129.81
-2024-09-27,Installation & Maintenance,121.23,130.03
+2024-09-20,Installation & Maintenance,121.63,129.8
+2024-09-27,Installation & Maintenance,121.22,130.02
 2024-10-04,Installation & Maintenance,120.66,128.04
 2024-10-11,Installation & Maintenance,119.08,124.86
 2024-10-18,Installation & Maintenance,117.06,123.22
-2024-10-25,Installation & Maintenance,115.18,121.48
-2024-11-01,Installation & Maintenance,116.03,124.53
+2024-10-25,Installation & Maintenance,115.17,121.48
+2024-11-01,Installation & Maintenance,116.02,124.53
 2024-11-08,Installation & Maintenance,117.76,119.76
 2024-11-15,Installation & Maintenance,118.12,119.76
-2024-11-22,Installation & Maintenance,117.67,124.21
-2024-11-29,Installation & Maintenance,118.61,139.63
+2024-11-22,Installation & Maintenance,117.66,124.21
+2024-11-29,Installation & Maintenance,118.6,139.63
 2024-12-06,Installation & Maintenance,118.23,106.0
 2024-12-13,Installation & Maintenance,118.82,125.29
 2024-12-20,Installation & Maintenance,119.53,127.94
@@ -8385,63 +8408,63 @@ date,display_name,total_postings_index,new_postings_index
 2025-02-28,Installation & Maintenance,119.65,124.09
 2025-03-07,Installation & Maintenance,119.08,119.34
 2025-03-14,Installation & Maintenance,118.38,118.62
-2025-03-21,Installation & Maintenance,117.88,120.28
-2025-03-28,Installation & Maintenance,117.66,122.11
+2025-03-21,Installation & Maintenance,117.88,120.27
+2025-03-28,Installation & Maintenance,117.65,122.11
 2025-04-04,Installation & Maintenance,117.27,122.89
-2025-04-11,Installation & Maintenance,117.19,122.87
+2025-04-11,Installation & Maintenance,117.18,122.87
 2025-04-18,Installation & Maintenance,116.83,121.93
 2025-04-25,Installation & Maintenance,115.6,120.19
-2025-05-02,Installation & Maintenance,114.8,122.86
+2025-05-02,Installation & Maintenance,114.79,122.86
 2025-05-09,Installation & Maintenance,115.35,119.4
 2025-05-16,Installation & Maintenance,116.13,114.59
 2025-05-23,Installation & Maintenance,116.21,117.98
 2025-05-30,Installation & Maintenance,115.79,111.09
 2025-06-06,Installation & Maintenance,116.14,126.1
-2025-06-13,Installation & Maintenance,116.03,116.98
-2025-06-20,Installation & Maintenance,115.44,115.12
+2025-06-13,Installation & Maintenance,116.03,116.97
+2025-06-20,Installation & Maintenance,115.43,115.12
 2025-06-27,Installation & Maintenance,115.76,118.57
 2025-07-04,Installation & Maintenance,115.52,120.58
 2025-07-11,Installation & Maintenance,115.58,122.41
 2025-07-18,Installation & Maintenance,115.89,125.36
 2025-07-25,Installation & Maintenance,116.45,120.02
 2025-08-01,Installation & Maintenance,116.4,119.49
-2025-08-08,Installation & Maintenance,116.06,120.03
+2025-08-08,Installation & Maintenance,116.05,120.03
 2025-08-15,Installation & Maintenance,115.86,119.03
 2025-08-22,Installation & Maintenance,115.61,118.99
 2025-08-29,Installation & Maintenance,114.84,114.98
-2025-09-05,Installation & Maintenance,113.74,117.36
-2025-09-12,Installation & Maintenance,113.84,128.17
+2025-09-05,Installation & Maintenance,113.74,117.35
+2025-09-12,Installation & Maintenance,113.84,128.16
 2025-09-19,Installation & Maintenance,113.45,111.59
 2025-09-26,Installation & Maintenance,112.8,111.34
 2025-10-03,Installation & Maintenance,113.18,113.26
-2025-10-10,Installation & Maintenance,113.04,114.87
+2025-10-10,Installation & Maintenance,113.03,114.87
 2025-10-17,Installation & Maintenance,112.95,115.33
-2025-10-24,Installation & Maintenance,113.11,119.63
+2025-10-24,Installation & Maintenance,113.11,119.62
 2025-10-31,Installation & Maintenance,113.69,113.6
 2025-11-07,Installation & Maintenance,113.65,104.94
 2025-11-14,Installation & Maintenance,113.85,108.99
 2025-11-21,Installation & Maintenance,114.49,113.15
 2025-11-28,Installation & Maintenance,115.28,129.56
-2025-12-05,Installation & Maintenance,114.88,103.11
+2025-12-05,Installation & Maintenance,114.87,103.11
 2025-12-12,Installation & Maintenance,115.13,111.22
 2025-12-19,Installation & Maintenance,117.88,112.76
-2025-12-26,Installation & Maintenance,119.8,115.48
+2025-12-26,Installation & Maintenance,119.79,115.48
 2026-01-02,Installation & Maintenance,118.33,105.32
 2026-01-09,Installation & Maintenance,117.04,101.31
 2026-01-16,Installation & Maintenance,118.45,119.87
-2026-01-23,Installation & Maintenance,119.77,114.66
+2026-01-23,Installation & Maintenance,119.76,114.66
 2026-01-30,Installation & Maintenance,117.8,106.61
-2026-02-06,Installation & Maintenance,117.52,108.45
+2026-02-06,Installation & Maintenance,117.52,108.44
 2026-02-13,Installation & Maintenance,118.25,113.51
-2026-02-20,Installation & Maintenance,119.45,112.98
+2026-02-20,Installation & Maintenance,119.44,112.98
 2026-02-27,Installation & Maintenance,119.58,113.17
 2026-03-06,Installation & Maintenance,119.33,113.47
 2026-03-13,Installation & Maintenance,117.44,113.98
 2026-03-20,Installation & Maintenance,114.98,111.11
-2026-03-27,Installation & Maintenance,114.66,111.07
+2026-03-27,Installation & Maintenance,114.65,111.06
 2026-04-03,Installation & Maintenance,115.11,117.68
 2026-04-10,Installation & Maintenance,114.79,115.2
-2026-04-17,Installation & Maintenance,113.98,117.93
+2026-04-17,Installation & Maintenance,113.97,117.93
 2026-04-24,Installation & Maintenance,114.86,116.5
 2026-05-01,Installation & Maintenance,114.61,111.92
 2026-05-08,Installation & Maintenance,114.22,109.17
@@ -8449,7 +8472,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-05-22,Installation & Maintenance,113.01,108.46
 2026-05-29,Installation & Maintenance,111.37,96.92
 2026-06-05,Installation & Maintenance,110.64,115.89
-2026-06-12,Installation & Maintenance,111.69,110.53
+2026-06-12,Installation & Maintenance,111.69,110.52
 2026-06-19,Installation & Maintenance,112.45,109.16
 2026-06-26,Installation & Maintenance,112.68,108.72
 2026-07-03,Installation & Maintenance,111.98,108.56
@@ -8459,18 +8482,19 @@ date,display_name,total_postings_index,new_postings_index
 2026-07-31,Installation & Maintenance,112.95,107.73
 2026-08-07,Installation & Maintenance,112.33,107.36
 2026-08-14,Installation & Maintenance,112.41,111.71
-2026-08-21,Installation & Maintenance,112.95,111.4
+2026-08-21,Installation & Maintenance,112.95,111.39
 2026-08-28,Installation & Maintenance,113.27,112.08
-2026-09-04,Installation & Maintenance,114.09,114.09
+2026-09-04,Installation & Maintenance,114.09,114.08
 2026-09-11,Installation & Maintenance,114.34,115.14
 2026-09-18,Installation & Maintenance,114.33,107.61
-2026-09-25,Installation & Maintenance,116.24,115.34
+2026-09-25,Installation & Maintenance,116.23,115.33
 2026-10-02,Installation & Maintenance,117.24,115.85
-2026-10-09,Installation & Maintenance,117.71,114.65
-2026-10-16,Installation & Maintenance,117.04,111.38
+2026-10-09,Installation & Maintenance,117.71,114.64
+2026-10-16,Installation & Maintenance,117.04,111.37
 2026-10-23,Installation & Maintenance,117.05,111.83
 2026-10-30,Installation & Maintenance,117.49,113.48
 2026-11-06,Installation & Maintenance,118.91,113.32
+2026-11-13,Installation & Maintenance,120.9,109.1
 2020-02-07,Insurance,101.18,99.23
 2020-02-14,Insurance,101.22,105.59
 2020-02-21,Insurance,101.72,102.26
@@ -8824,6 +8848,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Insurance,126.49,111.81
 2026-10-30,Insurance,125.58,123.52
 2026-11-06,Insurance,124.11,111.17
+2026-11-13,Insurance,127.38,110.46
 2020-02-07,Legal,99.71,104.38
 2020-02-14,Legal,99.56,106.12
 2020-02-21,Legal,99.48,106.95
@@ -9072,8 +9097,8 @@ date,display_name,total_postings_index,new_postings_index
 2024-10-18,Legal,126.69,140.4
 2024-10-25,Legal,125.31,136.23
 2024-11-01,Legal,126.84,145.28
-2024-11-08,Legal,127.01,139.67
-2024-11-15,Legal,126.65,142.15
+2024-11-08,Legal,127.0,139.67
+2024-11-15,Legal,126.64,142.15
 2024-11-22,Legal,127.58,140.05
 2024-11-29,Legal,129.34,148.49
 2024-12-06,Legal,129.59,120.51
@@ -9082,18 +9107,18 @@ date,display_name,total_postings_index,new_postings_index
 2024-12-27,Legal,129.6,138.91
 2025-01-03,Legal,128.77,132.52
 2025-01-10,Legal,129.96,145.16
-2025-01-17,Legal,131.59,156.57
+2025-01-17,Legal,131.58,156.57
 2025-01-24,Legal,132.15,148.97
 2025-01-31,Legal,132.41,138.26
 2025-02-07,Legal,130.63,135.54
 2025-02-14,Legal,129.2,134.76
 2025-02-21,Legal,127.55,130.98
 2025-02-28,Legal,126.65,135.78
-2025-03-07,Legal,125.96,135.86
+2025-03-07,Legal,125.95,135.86
 2025-03-14,Legal,125.66,134.69
 2025-03-21,Legal,125.8,140.26
-2025-03-28,Legal,124.9,134.12
-2025-04-04,Legal,124.87,128.79
+2025-03-28,Legal,124.89,134.12
+2025-04-04,Legal,124.86,128.79
 2025-04-11,Legal,124.7,132.36
 2025-04-18,Legal,124.72,130.5
 2025-04-25,Legal,123.81,121.35
@@ -9177,6 +9202,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Legal,125.85,138.14
 2026-10-30,Legal,124.34,125.24
 2026-11-06,Legal,125.33,124.57
+2026-11-13,Legal,126.35,123.59
 2020-02-07,Loading & Stocking,99.94,94.35
 2020-02-14,Loading & Stocking,99.61,94.01
 2020-02-21,Loading & Stocking,99.13,94.87
@@ -9289,7 +9315,7 @@ date,display_name,total_postings_index,new_postings_index
 2022-03-11,Loading & Stocking,187.39,201.75
 2022-03-18,Loading & Stocking,185.9,197.97
 2022-03-25,Loading & Stocking,184.38,202.88
-2022-04-01,Loading & Stocking,185.41,203.2
+2022-04-01,Loading & Stocking,185.4,203.2
 2022-04-08,Loading & Stocking,184.79,198.84
 2022-04-15,Loading & Stocking,181.48,192.89
 2022-04-22,Loading & Stocking,185.74,203.68
@@ -9298,13 +9324,13 @@ date,display_name,total_postings_index,new_postings_index
 2022-05-13,Loading & Stocking,185.6,194.18
 2022-05-20,Loading & Stocking,187.04,191.76
 2022-05-27,Loading & Stocking,185.19,194.43
-2022-06-03,Loading & Stocking,186.97,200.27
-2022-06-10,Loading & Stocking,183.67,180.56
+2022-06-03,Loading & Stocking,186.97,200.26
+2022-06-10,Loading & Stocking,183.66,180.56
 2022-06-17,Loading & Stocking,181.42,198.66
 2022-06-24,Loading & Stocking,181.11,187.03
 2022-07-01,Loading & Stocking,180.59,183.71
 2022-07-08,Loading & Stocking,181.11,178.99
-2022-07-15,Loading & Stocking,179.44,182.41
+2022-07-15,Loading & Stocking,179.44,182.4
 2022-07-22,Loading & Stocking,174.49,186.89
 2022-07-29,Loading & Stocking,173.57,180.08
 2022-08-05,Loading & Stocking,175.04,184.8
@@ -9418,7 +9444,7 @@ date,display_name,total_postings_index,new_postings_index
 2024-08-30,Loading & Stocking,106.0,114.65
 2024-09-06,Loading & Stocking,108.59,113.07
 2024-09-13,Loading & Stocking,107.59,119.76
-2024-09-20,Loading & Stocking,107.92,112.18
+2024-09-20,Loading & Stocking,107.92,112.17
 2024-09-27,Loading & Stocking,108.09,108.31
 2024-10-04,Loading & Stocking,107.77,115.21
 2024-10-11,Loading & Stocking,105.74,104.25
@@ -9457,14 +9483,14 @@ date,display_name,total_postings_index,new_postings_index
 2025-05-30,Loading & Stocking,96.22,95.39
 2025-06-06,Loading & Stocking,96.15,105.01
 2025-06-13,Loading & Stocking,96.16,100.74
-2025-06-20,Loading & Stocking,95.76,102.42
-2025-06-27,Loading & Stocking,96.24,107.73
+2025-06-20,Loading & Stocking,95.75,102.42
+2025-06-27,Loading & Stocking,96.23,107.72
 2025-07-04,Loading & Stocking,94.69,111.23
 2025-07-11,Loading & Stocking,95.36,116.28
 2025-07-18,Loading & Stocking,96.87,123.76
 2025-07-25,Loading & Stocking,98.35,115.01
 2025-08-01,Loading & Stocking,97.81,105.1
-2025-08-08,Loading & Stocking,97.45,103.87
+2025-08-08,Loading & Stocking,97.45,103.86
 2025-08-15,Loading & Stocking,98.39,106.62
 2025-08-22,Loading & Stocking,99.59,109.39
 2025-08-29,Loading & Stocking,100.17,106.37
@@ -9476,7 +9502,7 @@ date,display_name,total_postings_index,new_postings_index
 2025-10-10,Loading & Stocking,96.9,93.17
 2025-10-17,Loading & Stocking,97.99,100.13
 2025-10-24,Loading & Stocking,97.38,100.95
-2025-10-31,Loading & Stocking,97.13,101.94
+2025-10-31,Loading & Stocking,97.13,101.93
 2025-11-07,Loading & Stocking,96.54,94.34
 2025-11-14,Loading & Stocking,97.92,105.19
 2025-11-21,Loading & Stocking,101.52,100.75
@@ -9497,9 +9523,9 @@ date,display_name,total_postings_index,new_postings_index
 2026-03-06,Loading & Stocking,107.17,106.18
 2026-03-13,Loading & Stocking,105.84,108.12
 2026-03-20,Loading & Stocking,105.49,105.26
-2026-03-27,Loading & Stocking,104.88,105.4
-2026-04-03,Loading & Stocking,105.98,105.42
-2026-04-10,Loading & Stocking,106.85,100.2
+2026-03-27,Loading & Stocking,104.87,105.4
+2026-04-03,Loading & Stocking,105.97,105.42
+2026-04-10,Loading & Stocking,106.84,100.2
 2026-04-17,Loading & Stocking,106.71,104.57
 2026-04-24,Loading & Stocking,107.82,109.16
 2026-05-01,Loading & Stocking,107.8,100.01
@@ -9508,28 +9534,29 @@ date,display_name,total_postings_index,new_postings_index
 2026-05-22,Loading & Stocking,107.71,105.85
 2026-05-29,Loading & Stocking,106.73,93.3
 2026-06-05,Loading & Stocking,106.31,110.27
-2026-06-12,Loading & Stocking,105.82,103.09
+2026-06-12,Loading & Stocking,105.82,103.08
 2026-06-19,Loading & Stocking,106.03,104.56
-2026-06-26,Loading & Stocking,106.57,107.71
+2026-06-26,Loading & Stocking,106.56,107.71
 2026-07-03,Loading & Stocking,107.64,110.86
-2026-07-10,Loading & Stocking,108.74,111.15
+2026-07-10,Loading & Stocking,108.73,111.15
 2026-07-17,Loading & Stocking,108.63,112.12
 2026-07-24,Loading & Stocking,110.45,109.94
 2026-07-31,Loading & Stocking,110.62,114.8
-2026-08-07,Loading & Stocking,108.53,111.62
+2026-08-07,Loading & Stocking,108.53,111.61
 2026-08-14,Loading & Stocking,108.48,105.93
 2026-08-21,Loading & Stocking,107.5,106.26
 2026-08-28,Loading & Stocking,107.5,102.03
 2026-09-04,Loading & Stocking,106.48,106.62
 2026-09-11,Loading & Stocking,107.24,102.84
 2026-09-18,Loading & Stocking,108.26,100.02
-2026-09-25,Loading & Stocking,109.58,104.43
+2026-09-25,Loading & Stocking,109.57,104.43
 2026-10-02,Loading & Stocking,110.19,108.9
 2026-10-09,Loading & Stocking,109.06,99.63
 2026-10-16,Loading & Stocking,107.84,94.61
 2026-10-23,Loading & Stocking,108.38,95.99
 2026-10-30,Loading & Stocking,107.82,94.57
 2026-11-06,Loading & Stocking,107.75,92.73
+2026-11-13,Loading & Stocking,108.97,96.2
 2020-02-07,Logistic Support,99.3,87.7
 2020-02-14,Logistic Support,97.34,103.44
 2020-02-21,Logistic Support,96.5,102.55
@@ -9594,10 +9621,10 @@ date,display_name,total_postings_index,new_postings_index
 2021-04-09,Logistic Support,125.74,154.16
 2021-04-16,Logistic Support,128.63,161.78
 2021-04-23,Logistic Support,132.43,172.35
-2021-04-30,Logistic Support,135.49,170.7
-2021-05-07,Logistic Support,137.5,157.92
-2021-05-14,Logistic Support,141.69,176.92
-2021-05-21,Logistic Support,143.51,185.51
+2021-04-30,Logistic Support,135.49,170.69
+2021-05-07,Logistic Support,137.49,157.92
+2021-05-14,Logistic Support,141.68,176.92
+2021-05-21,Logistic Support,143.5,185.51
 2021-05-28,Logistic Support,143.57,182.93
 2021-06-04,Logistic Support,147.98,197.51
 2021-06-11,Logistic Support,150.95,169.24
@@ -9648,16 +9675,16 @@ date,display_name,total_postings_index,new_postings_index
 2022-04-22,Logistic Support,205.44,217.22
 2022-04-29,Logistic Support,205.92,219.93
 2022-05-06,Logistic Support,209.79,210.82
-2022-05-13,Logistic Support,207.46,212.14
+2022-05-13,Logistic Support,207.45,212.14
 2022-05-20,Logistic Support,204.53,216.37
-2022-05-27,Logistic Support,198.04,224.28
-2022-06-03,Logistic Support,192.9,218.88
-2022-06-10,Logistic Support,191.84,199.97
-2022-06-17,Logistic Support,189.12,213.54
-2022-06-24,Logistic Support,186.7,211.19
+2022-05-27,Logistic Support,198.04,224.27
+2022-06-03,Logistic Support,192.88,218.84
+2022-06-10,Logistic Support,191.82,199.97
+2022-06-17,Logistic Support,189.11,213.54
+2022-06-24,Logistic Support,186.69,211.19
 2022-07-01,Logistic Support,184.72,207.15
-2022-07-08,Logistic Support,183.61,194.06
-2022-07-15,Logistic Support,183.66,201.14
+2022-07-08,Logistic Support,183.6,194.06
+2022-07-15,Logistic Support,183.65,201.14
 2022-07-22,Logistic Support,182.05,199.68
 2022-07-29,Logistic Support,178.75,199.83
 2022-08-05,Logistic Support,179.1,203.18
@@ -9686,17 +9713,17 @@ date,display_name,total_postings_index,new_postings_index
 2023-01-13,Logistic Support,155.38,168.92
 2023-01-20,Logistic Support,155.38,186.32
 2023-01-27,Logistic Support,154.08,185.44
-2023-02-03,Logistic Support,152.52,173.86
-2023-02-10,Logistic Support,151.93,164.74
+2023-02-03,Logistic Support,152.52,173.85
+2023-02-10,Logistic Support,151.93,164.72
 2023-02-17,Logistic Support,148.59,169.8
 2023-02-24,Logistic Support,146.56,167.19
 2023-03-03,Logistic Support,146.55,166.04
-2023-03-10,Logistic Support,147.01,161.18
+2023-03-10,Logistic Support,147.0,161.18
 2023-03-17,Logistic Support,147.24,154.8
 2023-03-24,Logistic Support,144.55,152.7
-2023-03-31,Logistic Support,141.13,164.37
+2023-03-31,Logistic Support,141.12,164.37
 2023-04-07,Logistic Support,140.5,145.24
-2023-04-14,Logistic Support,141.24,156.44
+2023-04-14,Logistic Support,141.23,156.44
 2023-04-21,Logistic Support,139.76,162.39
 2023-04-28,Logistic Support,137.94,164.9
 2023-05-05,Logistic Support,138.59,166.76
@@ -9709,8 +9736,8 @@ date,display_name,total_postings_index,new_postings_index
 2023-06-23,Logistic Support,129.8,161.84
 2023-06-30,Logistic Support,129.55,152.55
 2023-07-07,Logistic Support,127.66,136.3
-2023-07-14,Logistic Support,129.86,162.27
-2023-07-21,Logistic Support,131.6,163.42
+2023-07-14,Logistic Support,129.85,162.26
+2023-07-21,Logistic Support,131.6,163.41
 2023-07-28,Logistic Support,132.12,166.12
 2023-08-04,Logistic Support,133.82,137.05
 2023-08-11,Logistic Support,133.03,143.53
@@ -9780,25 +9807,25 @@ date,display_name,total_postings_index,new_postings_index
 2024-11-01,Logistic Support,109.43,126.05
 2024-11-08,Logistic Support,111.31,112.05
 2024-11-15,Logistic Support,109.29,120.13
-2024-11-22,Logistic Support,109.56,130.2
-2024-11-29,Logistic Support,110.68,160.14
+2024-11-22,Logistic Support,109.56,130.19
+2024-11-29,Logistic Support,110.67,160.1
 2024-12-06,Logistic Support,113.18,103.78
-2024-12-13,Logistic Support,115.16,142.66
+2024-12-13,Logistic Support,115.15,142.66
 2024-12-20,Logistic Support,114.45,132.11
-2024-12-27,Logistic Support,113.84,115.87
-2025-01-03,Logistic Support,116.0,90.79
-2025-01-10,Logistic Support,117.87,101.44
-2025-01-17,Logistic Support,118.35,134.52
-2025-01-24,Logistic Support,118.78,140.4
-2025-01-31,Logistic Support,117.27,131.48
-2025-02-07,Logistic Support,117.34,108.12
-2025-02-14,Logistic Support,115.59,116.69
+2024-12-27,Logistic Support,113.83,115.87
+2025-01-03,Logistic Support,115.99,90.79
+2025-01-10,Logistic Support,117.87,101.43
+2025-01-17,Logistic Support,118.34,134.49
+2025-01-24,Logistic Support,118.77,140.4
+2025-01-31,Logistic Support,117.26,131.48
+2025-02-07,Logistic Support,117.33,108.12
+2025-02-14,Logistic Support,115.58,116.69
 2025-02-21,Logistic Support,111.32,118.81
 2025-02-28,Logistic Support,108.88,121.01
-2025-03-07,Logistic Support,111.15,116.14
+2025-03-07,Logistic Support,111.14,116.14
 2025-03-14,Logistic Support,110.49,122.41
-2025-03-21,Logistic Support,106.93,116.18
-2025-03-28,Logistic Support,106.49,121.37
+2025-03-21,Logistic Support,106.92,116.14
+2025-03-28,Logistic Support,106.48,121.37
 2025-04-04,Logistic Support,104.77,108.74
 2025-04-11,Logistic Support,103.96,94.9
 2025-04-18,Logistic Support,102.31,112.97
@@ -9819,8 +9846,8 @@ date,display_name,total_postings_index,new_postings_index
 2025-08-01,Logistic Support,108.67,120.17
 2025-08-08,Logistic Support,109.37,104.09
 2025-08-15,Logistic Support,109.33,124.01
-2025-08-22,Logistic Support,109.49,122.75
-2025-08-29,Logistic Support,109.01,124.73
+2025-08-22,Logistic Support,109.49,122.74
+2025-08-29,Logistic Support,109.01,124.7
 2025-09-05,Logistic Support,112.25,101.84
 2025-09-12,Logistic Support,114.98,125.23
 2025-09-19,Logistic Support,117.82,146.62
@@ -9883,6 +9910,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Logistic Support,119.3,122.01
 2026-10-30,Logistic Support,120.55,114.54
 2026-11-06,Logistic Support,123.09,99.04
+2026-11-13,Logistic Support,121.37,104.2
 2020-02-07,Management,100.82,98.84
 2020-02-14,Management,101.71,123.79
 2020-02-21,Management,96.48,102.94
@@ -9968,11 +9996,11 @@ date,display_name,total_postings_index,new_postings_index
 2021-09-03,Management,130.89,183.07
 2021-09-10,Management,130.67,171.24
 2021-09-17,Management,130.63,171.48
-2021-09-24,Management,133.56,190.91
+2021-09-24,Management,133.56,190.9
 2021-10-01,Management,133.73,184.63
 2021-10-08,Management,133.85,178.95
 2021-10-15,Management,134.41,172.82
-2021-10-22,Management,135.26,186.33
+2021-10-22,Management,135.25,186.33
 2021-10-29,Management,138.04,182.01
 2021-11-05,Management,140.24,190.67
 2021-11-12,Management,140.91,201.79
@@ -9993,7 +10021,7 @@ date,display_name,total_postings_index,new_postings_index
 2022-02-25,Management,148.17,197.16
 2022-03-04,Management,147.68,202.15
 2022-03-11,Management,146.07,196.1
-2022-03-18,Management,148.14,193.31
+2022-03-18,Management,148.14,193.3
 2022-03-25,Management,147.79,191.98
 2022-04-01,Management,148.59,190.09
 2022-04-08,Management,148.06,188.01
@@ -10003,10 +10031,10 @@ date,display_name,total_postings_index,new_postings_index
 2022-05-06,Management,148.25,203.38
 2022-05-13,Management,145.64,198.38
 2022-05-20,Management,146.13,196.16
-2022-05-27,Management,146.28,201.18
+2022-05-27,Management,146.28,201.17
 2022-06-03,Management,145.12,194.73
 2022-06-10,Management,144.39,196.77
-2022-06-17,Management,144.15,198.23
+2022-06-17,Management,144.14,198.23
 2022-06-24,Management,143.63,194.69
 2022-07-01,Management,143.36,185.86
 2022-07-08,Management,142.82,192.37
@@ -10055,15 +10083,15 @@ date,display_name,total_postings_index,new_postings_index
 2023-05-05,Management,123.23,152.06
 2023-05-12,Management,120.2,165.95
 2023-05-19,Management,120.29,168.65
-2023-05-26,Management,122.19,167.03
+2023-05-26,Management,122.19,167.02
 2023-06-02,Management,121.18,159.59
-2023-06-09,Management,119.76,162.19
+2023-06-09,Management,119.76,162.18
 2023-06-16,Management,120.26,169.68
 2023-06-23,Management,119.82,160.65
 2023-06-30,Management,119.82,159.8
 2023-07-07,Management,118.82,145.47
 2023-07-14,Management,119.4,169.54
-2023-07-21,Management,119.46,165.85
+2023-07-21,Management,119.46,165.84
 2023-07-28,Management,118.86,159.09
 2023-08-04,Management,119.04,160.43
 2023-08-11,Management,118.41,170.49
@@ -10152,7 +10180,7 @@ date,display_name,total_postings_index,new_postings_index
 2025-03-14,Management,103.23,98.69
 2025-03-21,Management,103.98,111.77
 2025-03-28,Management,103.06,105.23
-2025-04-04,Management,102.15,109.05
+2025-04-04,Management,102.14,109.05
 2025-04-11,Management,101.86,109.3
 2025-04-18,Management,102.0,110.03
 2025-04-25,Management,101.77,109.57
@@ -10165,7 +10193,7 @@ date,display_name,total_postings_index,new_postings_index
 2025-06-13,Management,100.4,101.45
 2025-06-20,Management,100.52,117.59
 2025-06-27,Management,100.37,110.85
-2025-07-04,Management,100.19,117.36
+2025-07-04,Management,100.19,117.35
 2025-07-11,Management,99.7,108.12
 2025-07-18,Management,99.84,144.36
 2025-07-25,Management,99.86,113.3
@@ -10188,17 +10216,17 @@ date,display_name,total_postings_index,new_postings_index
 2025-11-21,Management,98.91,109.28
 2025-11-28,Management,99.45,114.06
 2025-12-05,Management,99.41,109.83
-2025-12-12,Management,99.73,112.36
-2025-12-19,Management,100.4,116.84
+2025-12-12,Management,99.73,112.35
+2025-12-19,Management,100.4,116.83
 2025-12-26,Management,100.63,124.74
 2026-01-02,Management,100.51,113.06
-2026-01-09,Management,100.46,95.72
+2026-01-09,Management,100.45,95.72
 2026-01-16,Management,101.13,104.68
 2026-01-23,Management,101.89,110.8
 2026-01-30,Management,101.7,107.71
 2026-02-06,Management,100.95,106.14
 2026-02-13,Management,101.23,102.02
-2026-02-20,Management,101.49,108.38
+2026-02-20,Management,101.49,108.37
 2026-02-27,Management,102.22,117.5
 2026-03-06,Management,101.35,113.29
 2026-03-13,Management,100.92,102.65
@@ -10218,7 +10246,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-06-19,Management,99.25,103.56
 2026-06-26,Management,99.66,108.97
 2026-07-03,Management,99.34,103.91
-2026-07-10,Management,99.71,89.65
+2026-07-10,Management,99.71,89.64
 2026-07-17,Management,100.08,98.81
 2026-07-24,Management,100.49,101.39
 2026-07-31,Management,100.67,108.07
@@ -10227,15 +10255,16 @@ date,display_name,total_postings_index,new_postings_index
 2026-08-21,Management,101.14,101.95
 2026-08-28,Management,101.86,110.79
 2026-09-04,Management,102.17,103.13
-2026-09-11,Management,102.43,97.56
+2026-09-11,Management,102.43,97.55
 2026-09-18,Management,102.61,98.24
 2026-09-25,Management,103.61,111.42
 2026-10-02,Management,103.88,106.92
-2026-10-09,Management,104.2,103.65
+2026-10-09,Management,104.2,103.64
 2026-10-16,Management,104.16,101.33
 2026-10-23,Management,104.84,105.55
-2026-10-30,Management,105.04,108.74
+2026-10-30,Management,105.03,108.74
 2026-11-06,Management,105.39,95.55
+2026-11-13,Management,106.0,92.9
 2020-02-07,Marketing,100.13,103.01
 2020-02-14,Marketing,100.77,106.34
 2020-02-21,Marketing,100.93,105.22
@@ -10296,7 +10325,7 @@ date,display_name,total_postings_index,new_postings_index
 2021-03-12,Marketing,104.71,126.8
 2021-03-19,Marketing,109.21,132.95
 2021-03-26,Marketing,112.05,135.5
-2021-04-02,Marketing,115.21,137.8
+2021-04-02,Marketing,115.2,137.79
 2021-04-09,Marketing,117.34,131.81
 2021-04-16,Marketing,119.4,142.05
 2021-04-23,Marketing,122.0,141.8
@@ -10305,9 +10334,9 @@ date,display_name,total_postings_index,new_postings_index
 2021-05-14,Marketing,131.77,148.97
 2021-05-21,Marketing,132.69,145.53
 2021-05-28,Marketing,132.94,153.31
-2021-06-04,Marketing,135.49,156.71
+2021-06-04,Marketing,135.48,156.71
 2021-06-11,Marketing,139.37,154.17
-2021-06-18,Marketing,139.92,156.37
+2021-06-18,Marketing,139.91,156.37
 2021-06-25,Marketing,140.61,158.18
 2021-07-02,Marketing,142.52,160.82
 2021-07-09,Marketing,144.63,160.3
@@ -10589,6 +10618,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Marketing,76.8,78.38
 2026-10-30,Marketing,77.32,76.7
 2026-11-06,Marketing,78.01,76.65
+2026-11-13,Marketing,78.44,76.93
 2020-02-07,Mechanical Engineering,100.7,106.55
 2020-02-14,Mechanical Engineering,101.05,97.91
 2020-02-21,Mechanical Engineering,101.17,101.81
@@ -10606,19 +10636,19 @@ date,display_name,total_postings_index,new_postings_index
 2020-05-15,Mechanical Engineering,64.89,50.79
 2020-05-22,Mechanical Engineering,65.01,52.6
 2020-05-29,Mechanical Engineering,64.66,49.12
-2020-06-05,Mechanical Engineering,66.57,74.05
-2020-06-12,Mechanical Engineering,67.11,61.26
-2020-06-19,Mechanical Engineering,67.11,64.6
-2020-06-26,Mechanical Engineering,67.87,64.87
-2020-07-03,Mechanical Engineering,68.66,67.14
+2020-06-05,Mechanical Engineering,66.56,74.01
+2020-06-12,Mechanical Engineering,67.1,61.22
+2020-06-19,Mechanical Engineering,67.1,64.6
+2020-06-26,Mechanical Engineering,67.86,64.87
+2020-07-03,Mechanical Engineering,68.65,67.14
 2020-07-10,Mechanical Engineering,70.4,75.38
 2020-07-17,Mechanical Engineering,72.8,76.54
 2020-07-24,Mechanical Engineering,72.81,77.56
 2020-07-31,Mechanical Engineering,74.12,79.83
 2020-08-07,Mechanical Engineering,74.13,75.71
-2020-08-14,Mechanical Engineering,71.38,75.29
-2020-08-21,Mechanical Engineering,70.92,69.1
-2020-08-28,Mechanical Engineering,71.51,69.92
+2020-08-14,Mechanical Engineering,71.37,75.21
+2020-08-21,Mechanical Engineering,70.91,69.1
+2020-08-28,Mechanical Engineering,71.5,69.92
 2020-09-04,Mechanical Engineering,72.31,79.39
 2020-09-11,Mechanical Engineering,73.04,81.39
 2020-09-18,Mechanical Engineering,72.84,67.06
@@ -10628,29 +10658,29 @@ date,display_name,total_postings_index,new_postings_index
 2020-10-16,Mechanical Engineering,72.97,75.7
 2020-10-23,Mechanical Engineering,73.94,81.35
 2020-10-30,Mechanical Engineering,74.79,91.34
-2020-11-06,Mechanical Engineering,75.89,85.08
-2020-11-13,Mechanical Engineering,78.47,94.11
+2020-11-06,Mechanical Engineering,75.88,85.08
+2020-11-13,Mechanical Engineering,78.46,94.11
 2020-11-20,Mechanical Engineering,81.41,94.5
 2020-11-27,Mechanical Engineering,83.23,95.22
 2020-12-04,Mechanical Engineering,83.51,95.17
-2020-12-11,Mechanical Engineering,83.8,93.27
-2020-12-18,Mechanical Engineering,84.94,93.44
-2020-12-25,Mechanical Engineering,86.79,99.92
+2020-12-11,Mechanical Engineering,83.79,93.27
+2020-12-18,Mechanical Engineering,84.93,93.44
+2020-12-25,Mechanical Engineering,86.78,99.92
 2021-01-01,Mechanical Engineering,87.82,100.65
 2021-01-08,Mechanical Engineering,88.37,91.44
 2021-01-15,Mechanical Engineering,89.78,96.55
 2021-01-22,Mechanical Engineering,91.98,102.39
 2021-01-29,Mechanical Engineering,92.69,101.29
-2021-02-05,Mechanical Engineering,93.73,105.96
-2021-02-12,Mechanical Engineering,95.81,107.75
-2021-02-19,Mechanical Engineering,98.21,110.59
-2021-02-26,Mechanical Engineering,98.05,107.37
-2021-03-05,Mechanical Engineering,100.2,115.35
+2021-02-05,Mechanical Engineering,93.72,105.94
+2021-02-12,Mechanical Engineering,95.8,107.69
+2021-02-19,Mechanical Engineering,98.19,110.55
+2021-02-26,Mechanical Engineering,98.04,107.37
+2021-03-05,Mechanical Engineering,100.19,115.35
 2021-03-12,Mechanical Engineering,102.31,109.54
-2021-03-19,Mechanical Engineering,104.89,115.1
-2021-03-26,Mechanical Engineering,107.04,111.79
+2021-03-19,Mechanical Engineering,104.89,115.08
+2021-03-26,Mechanical Engineering,107.03,111.79
 2021-04-02,Mechanical Engineering,109.06,112.61
-2021-04-09,Mechanical Engineering,110.48,110.59
+2021-04-09,Mechanical Engineering,110.47,110.59
 2021-04-16,Mechanical Engineering,111.33,119.88
 2021-04-23,Mechanical Engineering,113.28,120.49
 2021-04-30,Mechanical Engineering,115.0,122.08
@@ -10684,8 +10714,8 @@ date,display_name,total_postings_index,new_postings_index
 2021-11-12,Mechanical Engineering,156.73,154.88
 2021-11-19,Mechanical Engineering,158.38,155.2
 2021-11-26,Mechanical Engineering,160.15,166.42
-2021-12-03,Mechanical Engineering,160.4,145.45
-2021-12-10,Mechanical Engineering,160.76,156.44
+2021-12-03,Mechanical Engineering,160.39,145.45
+2021-12-10,Mechanical Engineering,160.75,156.44
 2021-12-17,Mechanical Engineering,160.68,155.48
 2021-12-24,Mechanical Engineering,162.71,152.77
 2021-12-31,Mechanical Engineering,163.56,144.46
@@ -10702,13 +10732,13 @@ date,display_name,total_postings_index,new_postings_index
 2022-03-18,Mechanical Engineering,176.06,171.65
 2022-03-25,Mechanical Engineering,178.71,170.08
 2022-04-01,Mechanical Engineering,182.1,176.92
-2022-04-08,Mechanical Engineering,182.95,185.02
-2022-04-15,Mechanical Engineering,178.95,172.37
-2022-04-22,Mechanical Engineering,182.21,167.97
+2022-04-08,Mechanical Engineering,182.95,185.0
+2022-04-15,Mechanical Engineering,178.94,172.32
+2022-04-22,Mechanical Engineering,182.2,167.97
 2022-04-29,Mechanical Engineering,183.16,173.02
-2022-05-06,Mechanical Engineering,186.56,185.44
-2022-05-13,Mechanical Engineering,186.47,174.92
-2022-05-20,Mechanical Engineering,188.24,185.28
+2022-05-06,Mechanical Engineering,186.55,185.44
+2022-05-13,Mechanical Engineering,186.46,174.92
+2022-05-20,Mechanical Engineering,188.23,185.28
 2022-05-27,Mechanical Engineering,189.02,184.93
 2022-06-03,Mechanical Engineering,189.31,178.37
 2022-06-10,Mechanical Engineering,187.85,200.35
@@ -10728,27 +10758,27 @@ date,display_name,total_postings_index,new_postings_index
 2022-09-16,Mechanical Engineering,177.19,187.35
 2022-09-23,Mechanical Engineering,178.42,191.1
 2022-09-30,Mechanical Engineering,181.27,194.27
-2022-10-07,Mechanical Engineering,180.73,172.87
-2022-10-14,Mechanical Engineering,179.79,175.53
-2022-10-21,Mechanical Engineering,180.85,177.3
-2022-10-28,Mechanical Engineering,178.81,171.52
-2022-11-04,Mechanical Engineering,179.2,169.07
-2022-11-11,Mechanical Engineering,179.34,174.57
-2022-11-18,Mechanical Engineering,179.63,179.88
-2022-11-25,Mechanical Engineering,178.85,165.42
-2022-12-02,Mechanical Engineering,177.04,144.29
-2022-12-09,Mechanical Engineering,174.31,169.89
+2022-10-07,Mechanical Engineering,180.73,172.84
+2022-10-14,Mechanical Engineering,179.78,175.48
+2022-10-21,Mechanical Engineering,180.84,177.23
+2022-10-28,Mechanical Engineering,178.79,171.52
+2022-11-04,Mechanical Engineering,179.18,169.07
+2022-11-11,Mechanical Engineering,179.32,174.57
+2022-11-18,Mechanical Engineering,179.62,179.88
+2022-11-25,Mechanical Engineering,178.83,165.42
+2022-12-02,Mechanical Engineering,177.03,144.29
+2022-12-09,Mechanical Engineering,174.3,169.89
 2022-12-16,Mechanical Engineering,173.26,163.81
-2022-12-23,Mechanical Engineering,170.9,161.92
-2022-12-30,Mechanical Engineering,169.19,154.26
+2022-12-23,Mechanical Engineering,170.89,161.92
+2022-12-30,Mechanical Engineering,169.18,154.26
 2023-01-06,Mechanical Engineering,167.71,151.35
-2023-01-13,Mechanical Engineering,166.57,159.58
-2023-01-20,Mechanical Engineering,165.28,164.02
-2023-01-27,Mechanical Engineering,164.56,163.43
-2023-02-03,Mechanical Engineering,163.86,153.72
-2023-02-10,Mechanical Engineering,162.29,149.66
-2023-02-17,Mechanical Engineering,161.23,150.49
-2023-02-24,Mechanical Engineering,158.8,150.95
+2023-01-13,Mechanical Engineering,166.56,159.58
+2023-01-20,Mechanical Engineering,165.27,164.02
+2023-01-27,Mechanical Engineering,164.55,163.43
+2023-02-03,Mechanical Engineering,163.85,153.72
+2023-02-10,Mechanical Engineering,162.28,149.66
+2023-02-17,Mechanical Engineering,161.22,150.49
+2023-02-24,Mechanical Engineering,158.79,150.95
 2023-03-03,Mechanical Engineering,157.89,154.89
 2023-03-10,Mechanical Engineering,158.25,153.98
 2023-03-17,Mechanical Engineering,159.75,151.24
@@ -10757,20 +10787,20 @@ date,display_name,total_postings_index,new_postings_index
 2023-04-07,Mechanical Engineering,159.11,165.63
 2023-04-14,Mechanical Engineering,158.65,153.86
 2023-04-21,Mechanical Engineering,158.64,164.37
-2023-04-28,Mechanical Engineering,158.89,163.35
-2023-05-05,Mechanical Engineering,156.84,163.3
-2023-05-12,Mechanical Engineering,155.94,161.66
-2023-05-19,Mechanical Engineering,156.81,164.29
-2023-05-26,Mechanical Engineering,155.67,158.51
-2023-06-02,Mechanical Engineering,154.97,158.01
-2023-06-09,Mechanical Engineering,153.43,156.94
-2023-06-16,Mechanical Engineering,153.33,162.77
-2023-06-23,Mechanical Engineering,153.14,157.86
-2023-06-30,Mechanical Engineering,151.71,157.82
-2023-07-07,Mechanical Engineering,150.75,148.28
-2023-07-14,Mechanical Engineering,150.28,155.75
-2023-07-21,Mechanical Engineering,151.31,164.25
-2023-07-28,Mechanical Engineering,152.56,173.68
+2023-04-28,Mechanical Engineering,158.88,163.35
+2023-05-05,Mechanical Engineering,156.83,163.3
+2023-05-12,Mechanical Engineering,155.93,161.66
+2023-05-19,Mechanical Engineering,156.8,164.29
+2023-05-26,Mechanical Engineering,155.66,158.49
+2023-06-02,Mechanical Engineering,154.95,157.95
+2023-06-09,Mechanical Engineering,153.42,156.94
+2023-06-16,Mechanical Engineering,153.31,162.77
+2023-06-23,Mechanical Engineering,153.13,157.86
+2023-06-30,Mechanical Engineering,151.69,157.82
+2023-07-07,Mechanical Engineering,150.74,148.28
+2023-07-14,Mechanical Engineering,150.27,155.75
+2023-07-21,Mechanical Engineering,151.3,164.25
+2023-07-28,Mechanical Engineering,152.55,173.68
 2023-08-04,Mechanical Engineering,152.73,162.28
 2023-08-11,Mechanical Engineering,153.41,157.54
 2023-08-18,Mechanical Engineering,153.75,160.05
@@ -10934,14 +10964,15 @@ date,display_name,total_postings_index,new_postings_index
 2026-08-28,Mechanical Engineering,157.04,143.43
 2026-09-04,Mechanical Engineering,159.76,146.13
 2026-09-11,Mechanical Engineering,162.25,148.31
-2026-09-18,Mechanical Engineering,163.46,139.1
-2026-09-25,Mechanical Engineering,165.34,142.69
-2026-10-02,Mechanical Engineering,167.98,145.96
-2026-10-09,Mechanical Engineering,167.8,134.74
-2026-10-16,Mechanical Engineering,168.66,141.56
-2026-10-23,Mechanical Engineering,171.82,145.52
-2026-10-30,Mechanical Engineering,171.68,139.01
+2026-09-18,Mechanical Engineering,163.46,139.08
+2026-09-25,Mechanical Engineering,165.33,142.63
+2026-10-02,Mechanical Engineering,167.97,145.96
+2026-10-09,Mechanical Engineering,167.78,134.74
+2026-10-16,Mechanical Engineering,168.65,141.56
+2026-10-23,Mechanical Engineering,171.8,145.52
+2026-10-30,Mechanical Engineering,171.67,139.01
 2026-11-06,Mechanical Engineering,172.08,146.26
+2026-11-13,Mechanical Engineering,173.82,146.48
 2020-02-07,Media & Communications,100.02,101.47
 2020-02-14,Media & Communications,102.19,105.65
 2020-02-21,Media & Communications,101.3,100.61
@@ -11295,6 +11326,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Media & Communications,67.55,57.57
 2026-10-30,Media & Communications,67.19,59.93
 2026-11-06,Media & Communications,66.8,62.02
+2026-11-13,Media & Communications,66.02,57.34
 2020-02-07,Medical Information,100.29,98.83
 2020-02-14,Medical Information,101.11,105.69
 2020-02-21,Medical Information,101.94,106.44
@@ -11648,6 +11680,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Medical Information,88.74,101.05
 2026-10-30,Medical Information,88.83,89.92
 2026-11-06,Medical Information,89.47,93.64
+2026-11-13,Medical Information,90.33,95.59
 2020-02-07,Medical Technician,100.41,101.23
 2020-02-14,Medical Technician,100.05,102.05
 2020-02-21,Medical Technician,100.27,100.87
@@ -12001,6 +12034,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Medical Technician,124.13,127.67
 2026-10-30,Medical Technician,124.96,126.31
 2026-11-06,Medical Technician,125.53,127.27
+2026-11-13,Medical Technician,126.59,121.2
 2020-02-07,Nursing,99.55,99.24
 2020-02-14,Nursing,99.56,100.81
 2020-02-21,Nursing,99.8,103.19
@@ -12354,6 +12388,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Nursing,110.61,109.28
 2026-10-30,Nursing,111.13,107.93
 2026-11-06,Nursing,111.1,111.18
+2026-11-13,Nursing,111.94,105.15
 2020-02-07,Personal Care & Home Health,100.84,105.19
 2020-02-14,Personal Care & Home Health,102.34,109.4
 2020-02-21,Personal Care & Home Health,103.11,100.62
@@ -12707,6 +12742,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Personal Care & Home Health,154.68,146.74
 2026-10-30,Personal Care & Home Health,160.7,140.11
 2026-11-06,Personal Care & Home Health,163.62,154.84
+2026-11-13,Personal Care & Home Health,168.92,148.57
 2020-02-07,Pharmacy,95.89,114.67
 2020-02-14,Pharmacy,100.07,100.06
 2020-02-21,Pharmacy,101.92,110.38
@@ -13060,6 +13096,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Pharmacy,124.26,187.56
 2026-10-30,Pharmacy,123.39,185.95
 2026-11-06,Pharmacy,124.15,187.49
+2026-11-13,Pharmacy,124.94,174.92
 2020-02-07,Physicians & Surgeons,100.36,104.39
 2020-02-14,Physicians & Surgeons,100.02,100.94
 2020-02-21,Physicians & Surgeons,100.29,97.68
@@ -13413,16 +13450,17 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Physicians & Surgeons,195.78,140.6
 2026-10-30,Physicians & Surgeons,196.08,151.34
 2026-11-06,Physicians & Surgeons,196.03,159.58
+2026-11-13,Physicians & Surgeons,198.04,163.38
 2020-02-07,Production & Manufacturing,100.0,102.3
 2020-02-14,Production & Manufacturing,100.08,103.26
 2020-02-21,Production & Manufacturing,100.42,106.32
 2020-02-28,Production & Manufacturing,100.32,106.88
 2020-03-06,Production & Manufacturing,100.61,105.35
 2020-03-13,Production & Manufacturing,100.13,103.5
-2020-03-20,Production & Manufacturing,96.76,86.09
+2020-03-20,Production & Manufacturing,96.77,86.09
 2020-03-27,Production & Manufacturing,86.46,64.18
 2020-04-03,Production & Manufacturing,78.91,57.63
-2020-04-10,Production & Manufacturing,72.1,46.36
+2020-04-10,Production & Manufacturing,72.11,46.36
 2020-04-17,Production & Manufacturing,67.98,49.47
 2020-04-24,Production & Manufacturing,65.16,51.94
 2020-05-01,Production & Manufacturing,64.07,57.16
@@ -13430,52 +13468,52 @@ date,display_name,total_postings_index,new_postings_index
 2020-05-15,Production & Manufacturing,65.67,66.88
 2020-05-22,Production & Manufacturing,67.92,70.71
 2020-05-29,Production & Manufacturing,68.64,72.41
-2020-06-05,Production & Manufacturing,71.34,94.39
+2020-06-05,Production & Manufacturing,71.35,94.39
 2020-06-12,Production & Manufacturing,72.47,88.93
 2020-06-19,Production & Manufacturing,74.09,90.55
-2020-06-26,Production & Manufacturing,76.36,94.56
+2020-06-26,Production & Manufacturing,76.37,94.56
 2020-07-03,Production & Manufacturing,78.34,101.63
-2020-07-10,Production & Manufacturing,81.02,108.23
+2020-07-10,Production & Manufacturing,81.02,108.22
 2020-07-17,Production & Manufacturing,83.53,103.73
-2020-07-24,Production & Manufacturing,85.69,104.36
+2020-07-24,Production & Manufacturing,85.69,104.35
 2020-07-31,Production & Manufacturing,87.27,107.77
 2020-08-07,Production & Manufacturing,89.39,107.57
-2020-08-14,Production & Manufacturing,90.73,109.91
+2020-08-14,Production & Manufacturing,90.72,109.9
 2020-08-21,Production & Manufacturing,92.21,112.15
 2020-08-28,Production & Manufacturing,94.81,115.74
-2020-09-04,Production & Manufacturing,96.74,118.23
-2020-09-11,Production & Manufacturing,98.45,123.44
-2020-09-18,Production & Manufacturing,98.73,107.35
-2020-09-25,Production & Manufacturing,100.54,124.42
+2020-09-04,Production & Manufacturing,96.74,118.22
+2020-09-11,Production & Manufacturing,98.44,123.41
+2020-09-18,Production & Manufacturing,98.73,107.33
+2020-09-25,Production & Manufacturing,100.53,124.42
 2020-10-02,Production & Manufacturing,102.6,126.6
-2020-10-09,Production & Manufacturing,103.98,125.77
+2020-10-09,Production & Manufacturing,103.97,125.77
 2020-10-16,Production & Manufacturing,105.76,128.43
-2020-10-23,Production & Manufacturing,107.75,133.42
-2020-10-30,Production & Manufacturing,110.35,135.31
-2020-11-06,Production & Manufacturing,112.76,132.94
+2020-10-23,Production & Manufacturing,107.75,133.39
+2020-10-30,Production & Manufacturing,110.35,135.3
+2020-11-06,Production & Manufacturing,112.76,132.93
 2020-11-13,Production & Manufacturing,114.55,131.6
-2020-11-20,Production & Manufacturing,115.23,136.91
-2020-11-27,Production & Manufacturing,115.78,138.5
-2020-12-04,Production & Manufacturing,115.69,127.69
+2020-11-20,Production & Manufacturing,115.22,136.9
+2020-11-27,Production & Manufacturing,115.77,138.5
+2020-12-04,Production & Manufacturing,115.68,127.68
 2020-12-11,Production & Manufacturing,117.1,135.14
-2020-12-18,Production & Manufacturing,117.22,135.63
-2020-12-25,Production & Manufacturing,117.0,132.87
-2021-01-01,Production & Manufacturing,116.59,142.7
+2020-12-18,Production & Manufacturing,117.21,135.62
+2020-12-25,Production & Manufacturing,116.99,132.86
+2021-01-01,Production & Manufacturing,116.58,142.7
 2021-01-08,Production & Manufacturing,116.62,130.37
-2021-01-15,Production & Manufacturing,121.78,152.2
-2021-01-22,Production & Manufacturing,126.17,157.27
-2021-01-29,Production & Manufacturing,128.36,156.06
+2021-01-15,Production & Manufacturing,121.77,152.19
+2021-01-22,Production & Manufacturing,126.16,157.27
+2021-01-29,Production & Manufacturing,128.35,156.06
 2021-02-05,Production & Manufacturing,130.34,157.45
-2021-02-12,Production & Manufacturing,133.24,161.46
-2021-02-19,Production & Manufacturing,135.41,161.34
+2021-02-12,Production & Manufacturing,133.24,161.45
+2021-02-19,Production & Manufacturing,135.41,161.33
 2021-02-26,Production & Manufacturing,136.77,162.75
 2021-03-05,Production & Manufacturing,138.74,169.14
 2021-03-12,Production & Manufacturing,141.44,172.29
-2021-03-19,Production & Manufacturing,144.4,177.27
+2021-03-19,Production & Manufacturing,144.41,177.27
 2021-03-26,Production & Manufacturing,149.16,189.14
-2021-04-02,Production & Manufacturing,153.92,188.48
-2021-04-09,Production & Manufacturing,157.14,183.82
-2021-04-16,Production & Manufacturing,160.31,205.95
+2021-04-02,Production & Manufacturing,153.92,188.47
+2021-04-09,Production & Manufacturing,157.14,183.8
+2021-04-16,Production & Manufacturing,160.31,205.94
 2021-04-23,Production & Manufacturing,164.01,206.41
 2021-04-30,Production & Manufacturing,166.7,207.67
 2021-05-07,Production & Manufacturing,168.73,204.5
@@ -13485,66 +13523,66 @@ date,display_name,total_postings_index,new_postings_index
 2021-06-04,Production & Manufacturing,175.62,199.41
 2021-06-11,Production & Manufacturing,174.5,190.36
 2021-06-18,Production & Manufacturing,176.18,202.58
-2021-06-25,Production & Manufacturing,177.34,205.32
+2021-06-25,Production & Manufacturing,177.33,205.31
 2021-07-02,Production & Manufacturing,178.37,209.49
 2021-07-09,Production & Manufacturing,180.87,207.54
-2021-07-16,Production & Manufacturing,180.43,197.77
-2021-07-23,Production & Manufacturing,180.17,200.93
-2021-07-30,Production & Manufacturing,174.3,188.04
-2021-08-06,Production & Manufacturing,175.73,191.84
-2021-08-13,Production & Manufacturing,176.19,192.01
-2021-08-20,Production & Manufacturing,177.29,195.38
+2021-07-16,Production & Manufacturing,180.43,197.76
+2021-07-23,Production & Manufacturing,180.17,200.92
+2021-07-30,Production & Manufacturing,174.3,188.03
+2021-08-06,Production & Manufacturing,175.73,191.83
+2021-08-13,Production & Manufacturing,176.19,191.99
+2021-08-20,Production & Manufacturing,177.29,195.37
 2021-08-27,Production & Manufacturing,179.06,197.05
-2021-09-03,Production & Manufacturing,179.84,196.82
-2021-09-10,Production & Manufacturing,181.27,199.53
-2021-09-17,Production & Manufacturing,182.43,191.45
-2021-09-24,Production & Manufacturing,182.88,205.18
+2021-09-03,Production & Manufacturing,179.84,196.8
+2021-09-10,Production & Manufacturing,181.27,199.51
+2021-09-17,Production & Manufacturing,182.43,191.44
+2021-09-24,Production & Manufacturing,182.88,205.17
 2021-10-01,Production & Manufacturing,183.19,203.84
 2021-10-08,Production & Manufacturing,185.51,204.83
-2021-10-15,Production & Manufacturing,187.37,204.14
-2021-10-22,Production & Manufacturing,187.96,204.47
-2021-10-29,Production & Manufacturing,189.88,206.27
-2021-11-05,Production & Manufacturing,192.01,212.88
+2021-10-15,Production & Manufacturing,187.38,204.14
+2021-10-22,Production & Manufacturing,187.96,204.46
+2021-10-29,Production & Manufacturing,189.88,206.26
+2021-11-05,Production & Manufacturing,192.01,212.87
 2021-11-12,Production & Manufacturing,193.09,215.23
 2021-11-19,Production & Manufacturing,194.55,212.59
 2021-11-26,Production & Manufacturing,194.31,205.5
 2021-12-03,Production & Manufacturing,193.38,189.95
 2021-12-10,Production & Manufacturing,195.3,210.36
-2021-12-17,Production & Manufacturing,194.59,205.9
+2021-12-17,Production & Manufacturing,194.6,205.89
 2021-12-24,Production & Manufacturing,194.53,199.54
-2021-12-31,Production & Manufacturing,193.89,187.93
+2021-12-31,Production & Manufacturing,193.89,187.92
 2022-01-07,Production & Manufacturing,191.6,180.67
 2022-01-14,Production & Manufacturing,191.46,201.73
-2022-01-21,Production & Manufacturing,192.37,203.42
-2022-01-28,Production & Manufacturing,193.08,210.26
+2022-01-21,Production & Manufacturing,192.37,203.41
+2022-01-28,Production & Manufacturing,193.08,210.25
 2022-02-04,Production & Manufacturing,197.54,220.14
 2022-02-11,Production & Manufacturing,200.68,220.67
-2022-02-18,Production & Manufacturing,201.67,227.3
+2022-02-18,Production & Manufacturing,201.66,227.3
 2022-02-25,Production & Manufacturing,201.63,230.94
 2022-03-04,Production & Manufacturing,201.72,223.67
-2022-03-11,Production & Manufacturing,201.36,225.68
-2022-03-18,Production & Manufacturing,201.99,223.84
-2022-03-25,Production & Manufacturing,201.34,219.95
-2022-04-01,Production & Manufacturing,201.93,221.72
-2022-04-08,Production & Manufacturing,200.49,218.1
-2022-04-15,Production & Manufacturing,193.35,209.03
+2022-03-11,Production & Manufacturing,201.36,225.66
+2022-03-18,Production & Manufacturing,201.98,223.83
+2022-03-25,Production & Manufacturing,201.33,219.93
+2022-04-01,Production & Manufacturing,201.93,221.7
+2022-04-08,Production & Manufacturing,200.48,218.1
+2022-04-15,Production & Manufacturing,193.34,209.03
 2022-04-22,Production & Manufacturing,193.68,208.07
 2022-04-29,Production & Manufacturing,194.85,221.89
 2022-05-06,Production & Manufacturing,195.6,216.82
-2022-05-13,Production & Manufacturing,196.53,221.36
-2022-05-20,Production & Manufacturing,198.22,215.53
+2022-05-13,Production & Manufacturing,196.53,221.35
+2022-05-20,Production & Manufacturing,198.21,215.52
 2022-05-27,Production & Manufacturing,196.88,226.83
-2022-06-03,Production & Manufacturing,196.67,220.08
+2022-06-03,Production & Manufacturing,196.66,220.08
 2022-06-10,Production & Manufacturing,193.9,208.11
 2022-06-17,Production & Manufacturing,192.14,208.63
 2022-06-24,Production & Manufacturing,190.84,210.64
 2022-07-01,Production & Manufacturing,190.01,205.14
-2022-07-08,Production & Manufacturing,189.38,200.84
+2022-07-08,Production & Manufacturing,189.39,200.84
 2022-07-15,Production & Manufacturing,187.79,208.39
 2022-07-22,Production & Manufacturing,187.99,208.45
 2022-07-29,Production & Manufacturing,186.02,208.83
 2022-08-05,Production & Manufacturing,186.33,208.99
-2022-08-12,Production & Manufacturing,186.77,212.9
+2022-08-12,Production & Manufacturing,186.76,212.9
 2022-08-19,Production & Manufacturing,186.33,212.29
 2022-08-26,Production & Manufacturing,186.26,213.93
 2022-09-02,Production & Manufacturing,186.0,213.77
@@ -13558,53 +13596,53 @@ date,display_name,total_postings_index,new_postings_index
 2022-10-28,Production & Manufacturing,180.9,199.77
 2022-11-04,Production & Manufacturing,182.47,202.21
 2022-11-11,Production & Manufacturing,182.81,203.84
-2022-11-18,Production & Manufacturing,181.19,193.78
+2022-11-18,Production & Manufacturing,181.18,193.76
 2022-11-25,Production & Manufacturing,179.26,190.18
-2022-12-02,Production & Manufacturing,177.7,175.62
+2022-12-02,Production & Manufacturing,177.69,175.62
 2022-12-09,Production & Manufacturing,176.66,197.3
 2022-12-16,Production & Manufacturing,175.71,187.98
-2022-12-23,Production & Manufacturing,173.82,180.95
+2022-12-23,Production & Manufacturing,173.81,180.95
 2022-12-30,Production & Manufacturing,172.61,176.48
-2023-01-06,Production & Manufacturing,170.63,181.0
+2023-01-06,Production & Manufacturing,170.62,181.0
 2023-01-13,Production & Manufacturing,170.42,198.76
-2023-01-20,Production & Manufacturing,169.46,189.74
+2023-01-20,Production & Manufacturing,169.45,189.74
 2023-01-27,Production & Manufacturing,168.3,187.59
-2023-02-03,Production & Manufacturing,166.67,183.42
+2023-02-03,Production & Manufacturing,166.66,183.42
 2023-02-10,Production & Manufacturing,164.91,180.14
 2023-02-17,Production & Manufacturing,162.8,181.18
 2023-02-24,Production & Manufacturing,161.82,178.77
 2023-03-03,Production & Manufacturing,161.38,175.14
-2023-03-10,Production & Manufacturing,160.62,180.35
-2023-03-17,Production & Manufacturing,163.16,184.85
+2023-03-10,Production & Manufacturing,160.63,180.35
+2023-03-17,Production & Manufacturing,163.17,184.85
 2023-03-24,Production & Manufacturing,162.62,181.46
 2023-03-31,Production & Manufacturing,162.29,182.48
 2023-04-07,Production & Manufacturing,161.33,180.33
 2023-04-14,Production & Manufacturing,160.68,178.91
-2023-04-21,Production & Manufacturing,159.74,186.74
+2023-04-21,Production & Manufacturing,159.75,186.74
 2023-04-28,Production & Manufacturing,160.17,185.89
 2023-05-05,Production & Manufacturing,159.31,185.86
 2023-05-12,Production & Manufacturing,158.11,186.31
-2023-05-19,Production & Manufacturing,159.49,189.87
-2023-05-26,Production & Manufacturing,158.53,187.45
-2023-06-02,Production & Manufacturing,156.71,181.73
-2023-06-09,Production & Manufacturing,155.05,182.92
-2023-06-16,Production & Manufacturing,154.42,185.73
-2023-06-23,Production & Manufacturing,154.38,183.87
+2023-05-19,Production & Manufacturing,159.5,189.87
+2023-05-26,Production & Manufacturing,158.54,187.44
+2023-06-02,Production & Manufacturing,156.72,181.72
+2023-06-09,Production & Manufacturing,155.06,182.92
+2023-06-16,Production & Manufacturing,154.43,185.73
+2023-06-23,Production & Manufacturing,154.38,183.85
 2023-06-30,Production & Manufacturing,153.69,181.05
 2023-07-07,Production & Manufacturing,152.53,168.36
 2023-07-14,Production & Manufacturing,153.39,180.57
 2023-07-21,Production & Manufacturing,153.01,183.96
 2023-07-28,Production & Manufacturing,152.44,182.84
-2023-08-04,Production & Manufacturing,151.46,178.82
-2023-08-11,Production & Manufacturing,150.34,175.61
+2023-08-04,Production & Manufacturing,151.47,178.82
+2023-08-11,Production & Manufacturing,150.35,175.61
 2023-08-18,Production & Manufacturing,149.46,174.81
-2023-08-25,Production & Manufacturing,149.53,178.98
-2023-09-01,Production & Manufacturing,149.18,181.25
-2023-09-08,Production & Manufacturing,148.36,172.01
-2023-09-15,Production & Manufacturing,147.87,179.09
+2023-08-25,Production & Manufacturing,149.54,178.98
+2023-09-01,Production & Manufacturing,149.19,181.25
+2023-09-08,Production & Manufacturing,148.37,172.01
+2023-09-15,Production & Manufacturing,147.88,179.09
 2023-09-22,Production & Manufacturing,146.01,178.72
-2023-09-29,Production & Manufacturing,145.15,174.25
-2023-10-06,Production & Manufacturing,145.05,176.62
+2023-09-29,Production & Manufacturing,145.16,174.25
+2023-10-06,Production & Manufacturing,145.06,176.62
 2023-10-13,Production & Manufacturing,145.45,177.47
 2023-10-20,Production & Manufacturing,144.17,171.74
 2023-10-27,Production & Manufacturing,143.27,171.54
@@ -13615,7 +13653,7 @@ date,display_name,total_postings_index,new_postings_index
 2023-12-01,Production & Manufacturing,138.37,160.41
 2023-12-08,Production & Manufacturing,137.65,175.26
 2023-12-15,Production & Manufacturing,136.94,164.58
-2023-12-22,Production & Manufacturing,135.54,166.25
+2023-12-22,Production & Manufacturing,135.55,166.25
 2023-12-29,Production & Manufacturing,135.17,166.58
 2024-01-05,Production & Manufacturing,133.79,162.23
 2024-01-12,Production & Manufacturing,134.71,176.08
@@ -13623,23 +13661,23 @@ date,display_name,total_postings_index,new_postings_index
 2024-01-26,Production & Manufacturing,133.77,163.12
 2024-02-02,Production & Manufacturing,132.89,160.04
 2024-02-09,Production & Manufacturing,132.82,161.02
-2024-02-16,Production & Manufacturing,132.22,159.34
+2024-02-16,Production & Manufacturing,132.23,159.34
 2024-02-23,Production & Manufacturing,131.46,161.41
 2024-03-01,Production & Manufacturing,132.5,160.27
 2024-03-08,Production & Manufacturing,132.37,160.47
 2024-03-15,Production & Manufacturing,132.24,156.77
 2024-03-22,Production & Manufacturing,130.99,151.01
-2024-03-29,Production & Manufacturing,130.74,151.92
-2024-04-05,Production & Manufacturing,129.92,146.27
-2024-04-12,Production & Manufacturing,129.24,153.87
+2024-03-29,Production & Manufacturing,130.75,151.92
+2024-04-05,Production & Manufacturing,129.93,146.27
+2024-04-12,Production & Manufacturing,129.25,153.87
 2024-04-19,Production & Manufacturing,128.85,153.68
 2024-04-26,Production & Manufacturing,127.55,147.5
 2024-05-03,Production & Manufacturing,127.27,144.04
-2024-05-10,Production & Manufacturing,126.72,139.47
+2024-05-10,Production & Manufacturing,126.73,139.47
 2024-05-17,Production & Manufacturing,125.95,141.83
 2024-05-24,Production & Manufacturing,122.71,138.4
-2024-05-31,Production & Manufacturing,124.63,140.44
-2024-06-07,Production & Manufacturing,123.57,143.71
+2024-05-31,Production & Manufacturing,124.64,140.44
+2024-06-07,Production & Manufacturing,123.58,143.71
 2024-06-14,Production & Manufacturing,122.22,138.74
 2024-06-21,Production & Manufacturing,120.26,135.85
 2024-06-28,Production & Manufacturing,119.92,136.87
@@ -13647,125 +13685,126 @@ date,display_name,total_postings_index,new_postings_index
 2024-07-12,Production & Manufacturing,118.99,129.95
 2024-07-19,Production & Manufacturing,118.32,134.68
 2024-07-26,Production & Manufacturing,117.5,130.8
-2024-08-02,Production & Manufacturing,117.42,136.09
+2024-08-02,Production & Manufacturing,117.43,136.09
 2024-08-09,Production & Manufacturing,116.81,129.52
 2024-08-16,Production & Manufacturing,116.34,132.22
 2024-08-23,Production & Manufacturing,115.9,128.73
-2024-08-30,Production & Manufacturing,114.87,129.03
+2024-08-30,Production & Manufacturing,114.88,129.03
 2024-09-06,Production & Manufacturing,114.54,124.26
 2024-09-13,Production & Manufacturing,114.84,137.99
-2024-09-20,Production & Manufacturing,115.28,128.7
-2024-09-27,Production & Manufacturing,114.98,126.41
-2024-10-04,Production & Manufacturing,113.67,122.9
-2024-10-11,Production & Manufacturing,112.46,124.34
+2024-09-20,Production & Manufacturing,115.27,128.7
+2024-09-27,Production & Manufacturing,114.97,126.41
+2024-10-04,Production & Manufacturing,113.66,122.89
+2024-10-11,Production & Manufacturing,112.45,124.34
 2024-10-18,Production & Manufacturing,109.79,123.11
 2024-10-25,Production & Manufacturing,108.5,123.53
 2024-11-01,Production & Manufacturing,109.97,124.24
-2024-11-08,Production & Manufacturing,111.17,122.31
+2024-11-08,Production & Manufacturing,111.17,122.29
 2024-11-15,Production & Manufacturing,111.05,121.03
 2024-11-22,Production & Manufacturing,110.67,122.34
 2024-11-29,Production & Manufacturing,111.29,137.49
 2024-12-06,Production & Manufacturing,111.28,110.99
 2024-12-13,Production & Manufacturing,111.84,125.08
 2024-12-20,Production & Manufacturing,111.75,125.97
-2024-12-27,Production & Manufacturing,112.17,127.62
-2025-01-03,Production & Manufacturing,111.96,128.43
+2024-12-27,Production & Manufacturing,112.16,127.62
+2025-01-03,Production & Manufacturing,111.95,128.43
 2025-01-10,Production & Manufacturing,112.21,125.72
 2025-01-17,Production & Manufacturing,112.82,128.14
 2025-01-24,Production & Manufacturing,113.14,125.51
-2025-01-31,Production & Manufacturing,112.59,121.66
-2025-02-07,Production & Manufacturing,112.18,124.72
-2025-02-14,Production & Manufacturing,112.42,125.21
-2025-02-21,Production & Manufacturing,111.85,122.24
+2025-01-31,Production & Manufacturing,112.58,121.66
+2025-02-07,Production & Manufacturing,112.17,124.72
+2025-02-14,Production & Manufacturing,112.41,125.21
+2025-02-21,Production & Manufacturing,111.84,122.24
 2025-02-28,Production & Manufacturing,111.5,118.14
 2025-03-07,Production & Manufacturing,110.36,119.8
-2025-03-14,Production & Manufacturing,109.74,118.73
-2025-03-21,Production & Manufacturing,109.92,122.93
+2025-03-14,Production & Manufacturing,109.73,118.73
+2025-03-21,Production & Manufacturing,109.91,122.92
 2025-03-28,Production & Manufacturing,109.82,123.41
 2025-04-04,Production & Manufacturing,110.41,124.08
 2025-04-11,Production & Manufacturing,110.32,123.21
-2025-04-18,Production & Manufacturing,109.72,122.02
-2025-04-25,Production & Manufacturing,108.85,118.9
-2025-05-02,Production & Manufacturing,108.01,123.01
+2025-04-18,Production & Manufacturing,109.71,122.02
+2025-04-25,Production & Manufacturing,108.85,118.89
+2025-05-02,Production & Manufacturing,108.01,123.0
 2025-05-09,Production & Manufacturing,108.46,120.5
 2025-05-16,Production & Manufacturing,109.78,118.33
-2025-05-23,Production & Manufacturing,109.68,118.43
+2025-05-23,Production & Manufacturing,109.67,118.43
 2025-05-30,Production & Manufacturing,108.89,114.52
-2025-06-06,Production & Manufacturing,109.96,132.26
-2025-06-13,Production & Manufacturing,109.96,118.57
-2025-06-20,Production & Manufacturing,109.93,120.89
-2025-06-27,Production & Manufacturing,110.7,120.78
-2025-07-04,Production & Manufacturing,110.55,126.16
+2025-06-06,Production & Manufacturing,109.95,132.26
+2025-06-13,Production & Manufacturing,109.96,118.56
+2025-06-20,Production & Manufacturing,109.93,120.88
+2025-06-27,Production & Manufacturing,110.69,120.77
+2025-07-04,Production & Manufacturing,110.54,126.14
 2025-07-11,Production & Manufacturing,110.75,128.59
-2025-07-18,Production & Manufacturing,110.24,123.04
-2025-07-25,Production & Manufacturing,110.99,122.1
+2025-07-18,Production & Manufacturing,110.23,123.04
+2025-07-25,Production & Manufacturing,110.99,122.09
 2025-08-01,Production & Manufacturing,111.27,125.67
-2025-08-08,Production & Manufacturing,111.88,126.34
-2025-08-15,Production & Manufacturing,111.66,124.24
+2025-08-08,Production & Manufacturing,111.88,126.33
+2025-08-15,Production & Manufacturing,111.65,124.24
 2025-08-22,Production & Manufacturing,111.31,122.55
-2025-08-29,Production & Manufacturing,111.11,122.54
+2025-08-29,Production & Manufacturing,111.1,122.54
 2025-09-05,Production & Manufacturing,110.56,112.21
-2025-09-12,Production & Manufacturing,111.81,135.54
-2025-09-19,Production & Manufacturing,110.95,118.48
-2025-09-26,Production & Manufacturing,110.49,118.49
+2025-09-12,Production & Manufacturing,111.81,135.53
+2025-09-19,Production & Manufacturing,110.95,118.47
+2025-09-26,Production & Manufacturing,110.48,118.49
 2025-10-03,Production & Manufacturing,110.64,121.06
-2025-10-10,Production & Manufacturing,110.51,121.18
+2025-10-10,Production & Manufacturing,110.5,121.18
 2025-10-17,Production & Manufacturing,110.04,118.34
 2025-10-24,Production & Manufacturing,109.68,118.79
 2025-10-31,Production & Manufacturing,110.3,119.52
-2025-11-07,Production & Manufacturing,110.69,115.35
-2025-11-14,Production & Manufacturing,111.01,116.84
+2025-11-07,Production & Manufacturing,110.68,115.35
+2025-11-14,Production & Manufacturing,111.0,116.83
 2025-11-21,Production & Manufacturing,111.69,117.92
 2025-11-28,Production & Manufacturing,112.51,128.75
-2025-12-05,Production & Manufacturing,111.94,105.45
-2025-12-12,Production & Manufacturing,112.68,120.82
+2025-12-05,Production & Manufacturing,111.93,105.45
+2025-12-12,Production & Manufacturing,112.67,120.82
 2025-12-19,Production & Manufacturing,114.1,120.55
-2025-12-26,Production & Manufacturing,115.09,122.7
-2026-01-02,Production & Manufacturing,114.55,111.14
-2026-01-09,Production & Manufacturing,112.91,102.67
-2026-01-16,Production & Manufacturing,114.5,127.55
+2025-12-26,Production & Manufacturing,115.08,122.7
+2026-01-02,Production & Manufacturing,114.54,111.14
+2026-01-09,Production & Manufacturing,112.9,102.67
+2026-01-16,Production & Manufacturing,114.49,127.55
 2026-01-23,Production & Manufacturing,116.4,122.68
-2026-01-30,Production & Manufacturing,116.82,120.21
+2026-01-30,Production & Manufacturing,116.81,120.21
 2026-02-06,Production & Manufacturing,116.47,116.66
-2026-02-13,Production & Manufacturing,118.01,124.27
-2026-02-20,Production & Manufacturing,118.93,123.78
-2026-02-27,Production & Manufacturing,118.47,119.67
-2026-03-06,Production & Manufacturing,118.67,120.58
+2026-02-13,Production & Manufacturing,118.0,124.27
+2026-02-20,Production & Manufacturing,118.92,123.78
+2026-02-27,Production & Manufacturing,118.46,119.67
+2026-03-06,Production & Manufacturing,118.66,120.58
 2026-03-13,Production & Manufacturing,117.14,121.32
-2026-03-20,Production & Manufacturing,115.45,118.27
+2026-03-20,Production & Manufacturing,115.44,118.27
 2026-03-27,Production & Manufacturing,114.24,115.83
 2026-04-03,Production & Manufacturing,114.56,118.64
 2026-04-10,Production & Manufacturing,113.99,116.32
-2026-04-17,Production & Manufacturing,113.4,123.77
-2026-04-24,Production & Manufacturing,114.15,121.53
+2026-04-17,Production & Manufacturing,113.39,123.77
+2026-04-24,Production & Manufacturing,114.14,121.53
 2026-05-01,Production & Manufacturing,113.66,116.04
-2026-05-08,Production & Manufacturing,114.9,121.39
+2026-05-08,Production & Manufacturing,114.91,121.39
 2026-05-15,Production & Manufacturing,115.39,122.25
-2026-05-22,Production & Manufacturing,116.42,119.2
-2026-05-29,Production & Manufacturing,114.44,109.01
+2026-05-22,Production & Manufacturing,116.43,119.19
+2026-05-29,Production & Manufacturing,114.44,108.99
 2026-06-05,Production & Manufacturing,113.19,130.2
-2026-06-12,Production & Manufacturing,113.82,124.68
+2026-06-12,Production & Manufacturing,113.82,124.65
 2026-06-19,Production & Manufacturing,114.94,118.55
 2026-06-26,Production & Manufacturing,115.4,116.91
 2026-07-03,Production & Manufacturing,115.19,121.77
 2026-07-10,Production & Manufacturing,116.6,127.01
-2026-07-17,Production & Manufacturing,117.65,125.55
+2026-07-17,Production & Manufacturing,117.65,125.54
 2026-07-24,Production & Manufacturing,119.67,124.31
 2026-07-31,Production & Manufacturing,119.16,121.95
 2026-08-07,Production & Manufacturing,119.71,124.7
 2026-08-14,Production & Manufacturing,120.98,128.33
-2026-08-21,Production & Manufacturing,121.52,124.52
-2026-08-28,Production & Manufacturing,121.65,122.39
+2026-08-21,Production & Manufacturing,121.52,124.5
+2026-08-28,Production & Manufacturing,121.65,122.38
 2026-09-04,Production & Manufacturing,122.3,126.82
-2026-09-11,Production & Manufacturing,123.53,133.37
-2026-09-18,Production & Manufacturing,122.76,113.92
+2026-09-11,Production & Manufacturing,123.52,133.36
+2026-09-18,Production & Manufacturing,122.75,113.86
 2026-09-25,Production & Manufacturing,124.14,125.58
-2026-10-02,Production & Manufacturing,124.36,126.83
+2026-10-02,Production & Manufacturing,124.36,126.82
 2026-10-09,Production & Manufacturing,124.42,124.35
-2026-10-16,Production & Manufacturing,124.26,125.54
-2026-10-23,Production & Manufacturing,125.15,123.68
+2026-10-16,Production & Manufacturing,124.24,125.54
+2026-10-23,Production & Manufacturing,125.14,123.68
 2026-10-30,Production & Manufacturing,126.24,125.03
-2026-11-06,Production & Manufacturing,128.16,128.11
+2026-11-06,Production & Manufacturing,128.15,128.03
+2026-11-13,Production & Manufacturing,131.22,129.19
 2020-02-07,Project Management,100.03,101.9
 2020-02-14,Project Management,99.78,103.21
 2020-02-21,Project Management,100.01,103.53
@@ -13775,8 +13814,8 @@ date,display_name,total_postings_index,new_postings_index
 2020-03-20,Project Management,99.0,83.85
 2020-03-27,Project Management,90.86,62.96
 2020-04-03,Project Management,80.23,51.46
-2020-04-10,Project Management,73.49,46.45
-2020-04-17,Project Management,69.61,45.14
+2020-04-10,Project Management,73.49,46.44
+2020-04-17,Project Management,69.6,45.13
 2020-04-24,Project Management,66.46,45.01
 2020-05-01,Project Management,64.09,47.73
 2020-05-08,Project Management,62.52,48.12
@@ -13789,8 +13828,8 @@ date,display_name,total_postings_index,new_postings_index
 2020-06-26,Project Management,62.17,65.72
 2020-07-03,Project Management,62.74,63.4
 2020-07-10,Project Management,64.19,80.91
-2020-07-17,Project Management,65.52,72.63
-2020-07-24,Project Management,65.95,68.32
+2020-07-17,Project Management,65.52,72.62
+2020-07-24,Project Management,65.95,68.31
 2020-07-31,Project Management,66.87,71.63
 2020-08-07,Project Management,66.66,72.45
 2020-08-14,Project Management,66.53,74.55
@@ -13800,8 +13839,8 @@ date,display_name,total_postings_index,new_postings_index
 2020-09-11,Project Management,69.02,89.31
 2020-09-18,Project Management,68.96,70.32
 2020-09-25,Project Management,69.89,78.64
-2020-10-02,Project Management,70.8,80.56
-2020-10-09,Project Management,71.55,85.44
+2020-10-02,Project Management,70.79,80.56
+2020-10-09,Project Management,71.55,85.42
 2020-10-16,Project Management,71.8,83.21
 2020-10-23,Project Management,72.58,88.68
 2020-10-30,Project Management,73.17,88.41
@@ -13825,25 +13864,25 @@ date,display_name,total_postings_index,new_postings_index
 2021-03-05,Project Management,97.4,116.75
 2021-03-12,Project Management,99.74,119.33
 2021-03-19,Project Management,102.58,121.69
-2021-03-26,Project Management,105.51,127.43
-2021-04-02,Project Management,106.86,125.68
+2021-03-26,Project Management,105.51,127.42
+2021-04-02,Project Management,106.85,125.68
 2021-04-09,Project Management,108.28,123.16
 2021-04-16,Project Management,109.73,132.43
 2021-04-23,Project Management,112.69,135.55
 2021-04-30,Project Management,114.86,139.3
-2021-05-07,Project Management,117.34,141.54
-2021-05-14,Project Management,119.79,137.96
+2021-05-07,Project Management,117.34,141.52
+2021-05-14,Project Management,119.78,137.96
 2021-05-21,Project Management,121.22,138.16
-2021-05-28,Project Management,121.76,141.63
+2021-05-28,Project Management,121.75,141.63
 2021-06-04,Project Management,124.25,151.38
 2021-06-11,Project Management,125.48,143.38
 2021-06-18,Project Management,127.28,150.64
 2021-06-25,Project Management,129.09,155.76
 2021-07-02,Project Management,131.14,151.26
-2021-07-09,Project Management,133.03,157.72
+2021-07-09,Project Management,133.02,157.72
 2021-07-16,Project Management,134.51,156.22
 2021-07-23,Project Management,135.72,152.65
-2021-07-30,Project Management,135.62,152.53
+2021-07-30,Project Management,135.62,152.52
 2021-08-06,Project Management,137.24,157.91
 2021-08-13,Project Management,138.93,154.92
 2021-08-20,Project Management,141.33,156.77
@@ -13859,14 +13898,14 @@ date,display_name,total_postings_index,new_postings_index
 2021-10-29,Project Management,158.17,175.87
 2021-11-05,Project Management,159.86,173.7
 2021-11-12,Project Management,162.21,180.08
-2021-11-19,Project Management,166.53,178.87
-2021-11-26,Project Management,168.78,180.15
+2021-11-19,Project Management,166.52,178.85
+2021-11-26,Project Management,168.77,180.14
 2021-12-03,Project Management,169.58,153.78
 2021-12-10,Project Management,173.06,187.67
-2021-12-17,Project Management,175.03,179.28
-2021-12-24,Project Management,175.0,175.98
-2021-12-31,Project Management,173.44,157.73
-2022-01-07,Project Management,171.16,150.71
+2021-12-17,Project Management,175.02,179.28
+2021-12-24,Project Management,174.99,175.98
+2021-12-31,Project Management,173.43,157.73
+2022-01-07,Project Management,171.15,150.71
 2022-01-14,Project Management,171.17,172.59
 2022-01-21,Project Management,173.74,175.43
 2022-01-28,Project Management,175.34,186.37
@@ -13875,8 +13914,8 @@ date,display_name,total_postings_index,new_postings_index
 2022-02-18,Project Management,181.82,197.54
 2022-02-25,Project Management,183.31,197.5
 2022-03-04,Project Management,184.01,202.08
-2022-03-11,Project Management,183.88,195.73
-2022-03-18,Project Management,186.6,200.56
+2022-03-11,Project Management,183.87,195.73
+2022-03-18,Project Management,186.59,200.56
 2022-03-25,Project Management,188.76,194.81
 2022-04-01,Project Management,189.44,197.37
 2022-04-08,Project Management,188.71,195.53
@@ -13889,8 +13928,8 @@ date,display_name,total_postings_index,new_postings_index
 2022-05-27,Project Management,188.82,195.28
 2022-06-03,Project Management,186.0,183.36
 2022-06-10,Project Management,184.31,184.39
-2022-06-17,Project Management,183.22,182.31
-2022-06-24,Project Management,181.22,183.81
+2022-06-17,Project Management,183.22,182.3
+2022-06-24,Project Management,181.21,183.81
 2022-07-01,Project Management,180.27,181.19
 2022-07-08,Project Management,179.95,176.74
 2022-07-15,Project Management,178.77,175.68
@@ -13900,21 +13939,21 @@ date,display_name,total_postings_index,new_postings_index
 2022-08-12,Project Management,173.19,178.18
 2022-08-19,Project Management,170.17,174.58
 2022-08-26,Project Management,169.31,180.2
-2022-09-02,Project Management,168.86,174.18
+2022-09-02,Project Management,168.86,174.17
 2022-09-09,Project Management,167.32,180.36
-2022-09-16,Project Management,165.43,167.27
+2022-09-16,Project Management,165.42,167.27
 2022-09-23,Project Management,165.02,172.0
 2022-09-30,Project Management,164.52,172.42
 2022-10-07,Project Management,163.5,171.47
 2022-10-14,Project Management,162.43,167.44
-2022-10-21,Project Management,162.53,169.81
+2022-10-21,Project Management,162.52,169.79
 2022-10-28,Project Management,160.79,166.2
 2022-11-04,Project Management,159.93,166.2
 2022-11-11,Project Management,158.77,166.9
 2022-11-18,Project Management,158.07,168.53
 2022-11-25,Project Management,156.02,153.07
 2022-12-02,Project Management,154.57,141.79
-2022-12-09,Project Management,153.27,164.61
+2022-12-09,Project Management,153.26,164.61
 2022-12-16,Project Management,152.55,155.06
 2022-12-23,Project Management,150.98,150.53
 2022-12-30,Project Management,150.22,147.76
@@ -13946,7 +13985,7 @@ date,display_name,total_postings_index,new_postings_index
 2023-06-30,Project Management,127.55,138.31
 2023-07-07,Project Management,127.39,135.1
 2023-07-14,Project Management,127.68,139.8
-2023-07-21,Project Management,128.12,143.22
+2023-07-21,Project Management,128.12,143.21
 2023-07-28,Project Management,128.3,143.01
 2023-08-04,Project Management,127.58,141.17
 2023-08-11,Project Management,127.11,140.66
@@ -14013,14 +14052,14 @@ date,display_name,total_postings_index,new_postings_index
 2024-10-11,Project Management,111.37,114.52
 2024-10-18,Project Management,110.06,114.61
 2024-10-25,Project Management,109.54,116.24
-2024-11-01,Project Management,109.83,118.72
-2024-11-08,Project Management,110.59,120.39
+2024-11-01,Project Management,109.82,118.71
+2024-11-08,Project Management,110.59,120.38
 2024-11-15,Project Management,110.6,112.45
 2024-11-22,Project Management,110.28,110.48
 2024-11-29,Project Management,110.59,129.5
 2024-12-06,Project Management,109.91,97.2
-2024-12-13,Project Management,110.42,113.91
-2024-12-20,Project Management,109.98,114.11
+2024-12-13,Project Management,110.41,113.91
+2024-12-20,Project Management,109.97,114.11
 2024-12-27,Project Management,109.46,113.85
 2025-01-03,Project Management,109.33,110.67
 2025-01-10,Project Management,109.49,115.11
@@ -14031,10 +14070,10 @@ date,display_name,total_postings_index,new_postings_index
 2025-02-14,Project Management,107.47,110.19
 2025-02-21,Project Management,106.37,108.14
 2025-02-28,Project Management,105.51,107.39
-2025-03-07,Project Management,104.7,111.16
+2025-03-07,Project Management,104.7,111.15
 2025-03-14,Project Management,104.49,111.25
 2025-03-21,Project Management,104.31,109.84
-2025-03-28,Project Management,103.47,107.19
+2025-03-28,Project Management,103.46,107.19
 2025-04-04,Project Management,103.84,112.58
 2025-04-11,Project Management,103.98,111.89
 2025-04-18,Project Management,102.88,107.5
@@ -14119,6 +14158,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Project Management,117.78,107.62
 2026-10-30,Project Management,117.8,108.43
 2026-11-06,Project Management,118.69,111.33
+2026-11-13,Project Management,119.04,106.94
 2020-02-07,Retail,97.89,100.31
 2020-02-14,Retail,97.57,117.09
 2020-02-21,Retail,98.87,110.83
@@ -14246,7 +14286,7 @@ date,display_name,total_postings_index,new_postings_index
 2022-06-24,Retail,132.66,176.72
 2022-07-01,Retail,132.32,157.74
 2022-07-08,Retail,130.86,167.93
-2022-07-15,Retail,129.84,158.87
+2022-07-15,Retail,129.84,158.86
 2022-07-22,Retail,128.68,167.88
 2022-07-29,Retail,129.0,154.51
 2022-08-05,Retail,128.45,175.59
@@ -14259,7 +14299,7 @@ date,display_name,total_postings_index,new_postings_index
 2022-09-23,Retail,127.78,170.07
 2022-09-30,Retail,128.93,164.62
 2022-10-07,Retail,127.94,148.58
-2022-10-14,Retail,127.9,167.44
+2022-10-14,Retail,127.89,167.44
 2022-10-21,Retail,129.01,160.38
 2022-10-28,Retail,128.3,154.64
 2022-11-04,Retail,130.4,160.94
@@ -14437,7 +14477,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-02-20,Retail,86.59,88.52
 2026-02-27,Retail,87.81,91.52
 2026-03-06,Retail,88.7,89.26
-2026-03-13,Retail,88.57,79.73
+2026-03-13,Retail,88.57,79.72
 2026-03-20,Retail,88.59,86.39
 2026-03-27,Retail,88.63,89.28
 2026-04-03,Retail,88.2,91.26
@@ -14472,6 +14512,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Retail,89.72,86.24
 2026-10-30,Retail,89.57,87.71
 2026-11-06,Retail,89.57,83.82
+2026-11-13,Retail,90.14,72.59
 2020-02-07,Sales,99.2,98.72
 2020-02-14,Sales,99.46,108.31
 2020-02-21,Sales,98.85,101.37
@@ -14508,11 +14549,11 @@ date,display_name,total_postings_index,new_postings_index
 2020-09-25,Sales,76.76,91.6
 2020-10-02,Sales,78.27,99.49
 2020-10-09,Sales,79.25,101.81
-2020-10-16,Sales,80.32,101.26
+2020-10-16,Sales,80.32,101.25
 2020-10-23,Sales,81.67,99.99
 2020-10-30,Sales,82.56,98.83
 2020-11-06,Sales,82.43,98.05
-2020-11-13,Sales,83.34,97.83
+2020-11-13,Sales,83.33,97.83
 2020-11-20,Sales,83.37,99.8
 2020-11-27,Sales,84.85,108.43
 2020-12-04,Sales,84.69,97.76
@@ -14529,7 +14570,7 @@ date,display_name,total_postings_index,new_postings_index
 2021-02-19,Sales,94.3,114.34
 2021-02-26,Sales,94.71,114.61
 2021-03-05,Sales,96.18,121.47
-2021-03-12,Sales,98.92,132.85
+2021-03-12,Sales,98.93,132.85
 2021-03-19,Sales,102.37,133.22
 2021-03-26,Sales,106.04,138.66
 2021-04-02,Sales,108.99,145.91
@@ -14567,15 +14608,15 @@ date,display_name,total_postings_index,new_postings_index
 2021-11-12,Sales,130.41,147.48
 2021-11-19,Sales,132.37,144.78
 2021-11-26,Sales,133.17,143.91
-2021-12-03,Sales,133.24,135.55
+2021-12-03,Sales,133.24,135.54
 2021-12-10,Sales,133.96,146.6
 2021-12-17,Sales,135.38,144.28
-2021-12-24,Sales,135.35,138.48
+2021-12-24,Sales,135.34,138.48
 2021-12-31,Sales,134.89,133.3
 2022-01-07,Sales,133.35,129.25
 2022-01-14,Sales,133.09,143.32
 2022-01-21,Sales,133.62,139.92
-2022-01-28,Sales,134.08,146.2
+2022-01-28,Sales,134.07,146.2
 2022-02-04,Sales,135.3,152.9
 2022-02-11,Sales,135.26,150.81
 2022-02-18,Sales,134.6,159.49
@@ -14687,7 +14728,7 @@ date,display_name,total_postings_index,new_postings_index
 2024-03-01,Sales,92.22,106.83
 2024-03-08,Sales,92.05,102.51
 2024-03-15,Sales,93.24,100.29
-2024-03-22,Sales,94.71,106.05
+2024-03-22,Sales,94.72,106.05
 2024-03-29,Sales,95.0,106.59
 2024-04-05,Sales,95.7,100.07
 2024-04-12,Sales,95.45,101.7
@@ -14713,14 +14754,14 @@ date,display_name,total_postings_index,new_postings_index
 2024-08-30,Sales,91.77,102.71
 2024-09-06,Sales,92.5,97.19
 2024-09-13,Sales,92.92,100.87
-2024-09-20,Sales,93.03,95.95
+2024-09-20,Sales,93.02,95.95
 2024-09-27,Sales,93.35,99.38
 2024-10-04,Sales,93.14,100.36
 2024-10-11,Sales,92.07,92.72
 2024-10-18,Sales,91.23,93.7
 2024-10-25,Sales,91.06,99.68
 2024-11-01,Sales,92.13,102.83
-2024-11-08,Sales,93.0,97.2
+2024-11-08,Sales,93.0,97.19
 2024-11-15,Sales,93.34,89.33
 2024-11-22,Sales,93.45,95.18
 2024-11-29,Sales,94.18,115.23
@@ -14745,7 +14786,7 @@ date,display_name,total_postings_index,new_postings_index
 2025-04-11,Sales,94.54,98.46
 2025-04-18,Sales,94.58,98.11
 2025-04-25,Sales,94.11,95.01
-2025-05-02,Sales,93.23,94.02
+2025-05-02,Sales,93.22,94.01
 2025-05-09,Sales,93.0,91.14
 2025-05-16,Sales,93.43,94.56
 2025-05-23,Sales,93.82,95.17
@@ -14814,10 +14855,10 @@ date,display_name,total_postings_index,new_postings_index
 2026-08-07,Sales,89.14,82.19
 2026-08-14,Sales,89.42,80.43
 2026-08-21,Sales,90.11,85.89
-2026-08-28,Sales,90.61,83.13
+2026-08-28,Sales,90.61,83.12
 2026-09-04,Sales,91.71,95.47
-2026-09-11,Sales,92.72,81.29
-2026-09-18,Sales,93.0,76.23
+2026-09-11,Sales,92.71,81.29
+2026-09-18,Sales,92.99,76.23
 2026-09-25,Sales,92.79,79.15
 2026-10-02,Sales,92.08,84.36
 2026-10-09,Sales,91.72,81.05
@@ -14825,6 +14866,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Sales,92.33,80.91
 2026-10-30,Sales,92.49,83.84
 2026-11-06,Sales,93.78,92.27
+2026-11-13,Sales,95.14,86.56
 2020-02-07,Scientific Research & Development,100.01,102.27
 2020-02-14,Scientific Research & Development,99.78,104.98
 2020-02-21,Scientific Research & Development,100.46,107.51
@@ -15178,6 +15220,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Scientific Research & Development,83.75,87.31
 2026-10-30,Scientific Research & Development,84.12,90.22
 2026-11-06,Scientific Research & Development,84.58,87.03
+2026-11-13,Scientific Research & Development,85.52,90.4
 2020-02-07,Security & Public Safety,100.04,97.86
 2020-02-14,Security & Public Safety,100.0,98.51
 2020-02-21,Security & Public Safety,100.55,101.28
@@ -15288,24 +15331,24 @@ date,display_name,total_postings_index,new_postings_index
 2022-02-25,Security & Public Safety,167.69,224.44
 2022-03-04,Security & Public Safety,167.05,214.5
 2022-03-11,Security & Public Safety,167.52,227.44
-2022-03-18,Security & Public Safety,167.41,225.05
+2022-03-18,Security & Public Safety,167.4,225.05
 2022-03-25,Security & Public Safety,167.94,224.83
-2022-04-01,Security & Public Safety,167.77,227.77
+2022-04-01,Security & Public Safety,167.76,227.77
 2022-04-08,Security & Public Safety,170.41,232.46
 2022-04-15,Security & Public Safety,173.8,242.31
-2022-04-22,Security & Public Safety,175.78,242.69
+2022-04-22,Security & Public Safety,175.77,242.69
 2022-04-29,Security & Public Safety,174.36,243.15
-2022-05-06,Security & Public Safety,175.42,241.22
+2022-05-06,Security & Public Safety,175.41,241.22
 2022-05-13,Security & Public Safety,174.82,244.22
 2022-05-20,Security & Public Safety,175.26,251.21
 2022-05-27,Security & Public Safety,175.21,249.45
 2022-06-03,Security & Public Safety,173.64,236.33
 2022-06-10,Security & Public Safety,170.85,237.98
 2022-06-17,Security & Public Safety,169.33,242.62
-2022-06-24,Security & Public Safety,168.79,244.53
-2022-07-01,Security & Public Safety,168.17,234.3
-2022-07-08,Security & Public Safety,164.25,223.57
-2022-07-15,Security & Public Safety,163.13,224.87
+2022-06-24,Security & Public Safety,168.78,244.53
+2022-07-01,Security & Public Safety,168.16,234.3
+2022-07-08,Security & Public Safety,164.24,223.57
+2022-07-15,Security & Public Safety,163.12,224.87
 2022-07-22,Security & Public Safety,161.52,222.61
 2022-07-29,Security & Public Safety,163.32,228.67
 2022-08-05,Security & Public Safety,162.31,222.06
@@ -15419,7 +15462,7 @@ date,display_name,total_postings_index,new_postings_index
 2024-08-30,Security & Public Safety,125.37,160.6
 2024-09-06,Security & Public Safety,125.89,142.83
 2024-09-13,Security & Public Safety,126.81,156.78
-2024-09-20,Security & Public Safety,126.98,153.82
+2024-09-20,Security & Public Safety,126.98,153.81
 2024-09-27,Security & Public Safety,126.07,151.63
 2024-10-04,Security & Public Safety,124.31,143.14
 2024-10-11,Security & Public Safety,123.14,144.85
@@ -15531,6 +15574,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Security & Public Safety,117.49,134.36
 2026-10-30,Security & Public Safety,117.08,139.21
 2026-11-06,Security & Public Safety,118.67,141.15
+2026-11-13,Security & Public Safety,120.29,140.72
 2020-02-07,Social Science,100.78,96.76
 2020-02-14,Social Science,99.63,88.39
 2020-02-21,Social Science,98.71,87.75
@@ -15884,6 +15928,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Social Science,121.01,101.78
 2026-10-30,Social Science,120.84,102.55
 2026-11-06,Social Science,121.44,98.43
+2026-11-13,Social Science,123.5,105.92
 2020-02-07,Software Development,99.44,102.52
 2020-02-14,Software Development,99.63,104.68
 2020-02-21,Software Development,99.74,105.94
@@ -15926,13 +15971,13 @@ date,display_name,total_postings_index,new_postings_index
 2020-11-06,Software Development,81.54,100.61
 2020-11-13,Software Development,82.23,99.04
 2020-11-20,Software Development,84.67,110.93
-2020-11-27,Software Development,86.88,108.99
+2020-11-27,Software Development,86.88,108.98
 2020-12-04,Software Development,88.61,100.33
 2020-12-11,Software Development,89.63,112.16
 2020-12-18,Software Development,90.39,108.86
 2020-12-25,Software Development,90.77,106.12
-2021-01-01,Software Development,91.27,100.75
-2021-01-08,Software Development,90.8,94.24
+2021-01-01,Software Development,91.27,100.74
+2021-01-08,Software Development,90.8,94.23
 2021-01-15,Software Development,93.17,114.35
 2021-01-22,Software Development,95.09,114.33
 2021-01-29,Software Development,96.52,121.07
@@ -15946,17 +15991,17 @@ date,display_name,total_postings_index,new_postings_index
 2021-03-26,Software Development,115.87,138.26
 2021-04-02,Software Development,117.09,138.84
 2021-04-09,Software Development,118.77,136.64
-2021-04-16,Software Development,119.55,144.84
+2021-04-16,Software Development,119.54,144.84
 2021-04-23,Software Development,122.79,147.63
 2021-04-30,Software Development,125.26,153.99
 2021-05-07,Software Development,128.66,162.2
 2021-05-14,Software Development,131.56,151.28
-2021-05-21,Software Development,133.92,152.71
+2021-05-21,Software Development,133.92,152.7
 2021-05-28,Software Development,133.35,151.9
 2021-06-04,Software Development,134.91,153.0
 2021-06-11,Software Development,136.73,153.09
 2021-06-18,Software Development,138.52,159.82
-2021-06-25,Software Development,139.06,157.57
+2021-06-25,Software Development,139.06,157.56
 2021-07-02,Software Development,141.5,154.52
 2021-07-09,Software Development,143.84,154.19
 2021-07-16,Software Development,145.21,152.52
@@ -16007,25 +16052,25 @@ date,display_name,total_postings_index,new_postings_index
 2022-05-27,Software Development,226.6,218.25
 2022-06-03,Software Development,223.23,196.77
 2022-06-10,Software Development,218.47,218.27
-2022-06-17,Software Development,216.86,216.02
+2022-06-17,Software Development,216.85,216.02
 2022-06-24,Software Development,216.36,202.83
 2022-07-01,Software Development,211.25,189.74
-2022-07-08,Software Development,206.95,188.9
-2022-07-15,Software Development,202.37,191.42
+2022-07-08,Software Development,206.95,188.89
+2022-07-15,Software Development,202.37,191.41
 2022-07-22,Software Development,198.38,191.64
 2022-07-29,Software Development,194.33,198.79
 2022-08-05,Software Development,192.89,211.22
-2022-08-12,Software Development,189.76,193.11
+2022-08-12,Software Development,189.75,193.11
 2022-08-19,Software Development,185.29,177.02
-2022-08-26,Software Development,182.5,187.21
+2022-08-26,Software Development,182.49,187.21
 2022-09-02,Software Development,179.82,177.67
 2022-09-09,Software Development,176.67,175.21
 2022-09-16,Software Development,173.61,174.66
 2022-09-23,Software Development,170.45,170.94
 2022-09-30,Software Development,168.36,175.27
-2022-10-07,Software Development,164.69,167.77
+2022-10-07,Software Development,164.69,167.76
 2022-10-14,Software Development,161.0,161.69
-2022-10-21,Software Development,158.73,159.7
+2022-10-21,Software Development,158.72,159.7
 2022-10-28,Software Development,155.37,156.04
 2022-11-04,Software Development,152.88,160.13
 2022-11-11,Software Development,148.17,155.6
@@ -16036,7 +16081,7 @@ date,display_name,total_postings_index,new_postings_index
 2022-12-16,Software Development,134.52,135.77
 2022-12-23,Software Development,132.21,139.92
 2022-12-30,Software Development,130.72,125.56
-2023-01-06,Software Development,128.23,112.41
+2023-01-06,Software Development,128.22,112.41
 2023-01-13,Software Development,127.49,131.73
 2023-01-20,Software Development,126.12,126.42
 2023-01-27,Software Development,123.01,130.08
@@ -16167,11 +16212,11 @@ date,display_name,total_postings_index,new_postings_index
 2025-06-20,Software Development,65.6,82.18
 2025-06-27,Software Development,65.7,75.63
 2025-07-04,Software Development,64.84,80.06
-2025-07-11,Software Development,64.88,87.04
-2025-07-18,Software Development,65.67,81.11
+2025-07-11,Software Development,64.88,87.03
+2025-07-18,Software Development,65.67,81.1
 2025-07-25,Software Development,66.14,84.13
-2025-08-01,Software Development,66.2,81.05
-2025-08-08,Software Development,66.02,81.91
+2025-08-01,Software Development,66.19,81.05
+2025-08-08,Software Development,66.01,81.91
 2025-08-15,Software Development,66.04,84.36
 2025-08-22,Software Development,66.54,86.14
 2025-08-29,Software Development,65.69,77.57
@@ -16223,7 +16268,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-07-17,Software Development,75.59,91.82
 2026-07-24,Software Development,75.48,82.9
 2026-07-31,Software Development,75.44,82.19
-2026-08-07,Software Development,73.63,75.31
+2026-08-07,Software Development,73.63,75.3
 2026-08-14,Software Development,74.34,78.12
 2026-08-21,Software Development,74.55,81.35
 2026-08-28,Software Development,74.59,78.89
@@ -16237,6 +16282,7 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Software Development,80.79,89.91
 2026-10-30,Software Development,81.58,87.61
 2026-11-06,Software Development,81.4,89.7
+2026-11-13,Software Development,81.71,88.15
 2020-02-07,Therapy,99.62,100.9
 2020-02-14,Therapy,99.01,99.9
 2020-02-21,Therapy,97.78,98.9
@@ -16590,3 +16636,4 @@ date,display_name,total_postings_index,new_postings_index
 2026-10-23,Therapy,190.79,178.35
 2026-10-30,Therapy,191.1,176.5
 2026-11-06,Therapy,193.9,183.39
+2026-11-13,Therapy,195.76,160.2

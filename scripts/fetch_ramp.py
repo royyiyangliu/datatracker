@@ -37,7 +37,8 @@ TOKEN_MAKERS = ["openai", "anthropic", "xai", "google"]
 
 # token 价格：接口里的 token_type -> 前端口径
 PRICE_TYPES = {"all_tokens": "blended", "uncached_input": "input", "output": "output"}
-PRICE_MAKERS = ["anthropic", "openai"]
+# 接口 series_key -> 前端序列（blend 为 OpenAI + Anthropic 合计）
+PRICE_SERIES = {"blend": "combined", "anthropic": "anthropic", "openai": "openai"}
 
 
 class DataError(Exception):
@@ -199,35 +200,29 @@ def parse_token_volumes(rows):
 
 
 def parse_token_prices(rows):
-    """按日（滚动 7 天）计算每百万 token 价格：Anthropic、OpenAI 及两者合计"""
-    agg = {}  # (date, type, maker) -> [cost, count]
+    """按日计算每百万 token 价格：Anthropic、OpenAI 及两者合计（接口 blend）。
+    接口直接给出 price_per_million，不再提供成本与用量。"""
+    agg = {}  # (date, type, series) -> price
     for r in rows:
         t = PRICE_TYPES.get(r.get("token_type"))
-        if t is None or r.get("model_maker") not in PRICE_MAKERS:
+        k = PRICE_SERIES.get(r.get("series_key"))
+        if t is None or k is None:
             continue
-        agg[(r["usage_date"], t, r["model_maker"])] = [
-            num(r.get("token_cost_usd_7d")) or 0,
-            num(r.get("token_count_7d")) or 0,
-        ]
+        v = num(r.get("price_per_million"))
+        if v is not None:
+            agg[(r["usage_date"], t, k)] = round(v, 4)
     if not agg:
-        raise DataError("tokenPrices 中没有可用数据")
+        raise DataError("tokenPrices 中没有可用数据（字段可能已变化）")
 
     dates = sorted({d for d, _, _ in agg})
-    price = lambda cost, count: round(cost / count * 1e6, 4) if count > 0 else None
     result = {"dates": dates}
     detail = []
     for t in PRICE_TYPES.values():
-        series = {"combined": [], "anthropic": [], "openai": []}
-        for d in dates:
-            parts = [agg.get((d, t, m)) for m in PRICE_MAKERS]
-            for m, p in zip(PRICE_MAKERS, parts):
-                series[m].append(price(*p) if p else None)
-                if p:
-                    detail.append([d, t, m, round(p[0], 2), round(p[1]), price(*p)])
-            if all(parts):
-                series["combined"].append(price(sum(p[0] for p in parts), sum(p[1] for p in parts)))
-            else:
-                series["combined"].append(None)
+        series = {k: [agg.get((d, t, k)) for d in dates] for k in PRICE_SERIES.values()}
+        for k, values in series.items():
+            for d, v in zip(dates, values):
+                if v is not None:
+                    detail.append([d, t, k, v])
         result[t] = series
     check_series(result["blended"], 0, 1000, "token 价格")
     return result, detail
@@ -311,7 +306,7 @@ def main():
     write_csv(f"{DATA_DIR}/token_by_maker_weekly.csv",
               ["week_end", "model_maker", "token_spend_usd", "token_volume"], token_detail)
     write_csv(f"{DATA_DIR}/token_prices_daily.csv",
-              ["date", "token_type", "model_maker", "cost_usd_7d", "tokens_7d", "price_per_mtok_usd"],
+              ["date", "token_type", "series", "price_per_mtok_usd"],
               price_detail)
 
     output["last_updated"] = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
